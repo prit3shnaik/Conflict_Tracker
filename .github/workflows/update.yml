@@ -1,0 +1,39 @@
+name: Daily data update
+
+on:
+  schedule:
+    # Runs once a day at 03:00 UTC (~08:00 PKT). Adjust as needed.
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}   # allows manual "Run workflow" button too
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run incremental update
+        env:
+          ACLED_EMAIL: ${{ secrets.ACLED_EMAIL }}
+          ACLED_ACCESS_KEY: ${{ secrets.ACLED_ACCESS_KEY }}
+        run: python scripts/update.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git diff --quiet --cached || git commit -m "Automated data update: $(date -u +%Y-%m-%d)"
+          git push
