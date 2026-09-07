@@ -1,6 +1,260 @@
 {
-  "description": "Suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, sourced from ACLED. Classification is heuristic (actor-name matching) -- verify before citing.",
-  "source": "ACLED (acleddata.com)",
-  "last_updated": null,
-  "events": []
+  "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
+  "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
+  "last_updated": "2026-09-07",
+  "events": [
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUERDTWdfcmcyazFyNHQtbm9uTDlsTnpQd09iTy1lenFqNk1lVjVnTjBJejlLd2l0MFc1emRfVHNvQl9iWHZNbm1MN2dHUEw2cWpaX3dGWXhkVVpJNlJTMWlqU1dMd2RpdVdBbFRMRjYxOFZfMENIbzJGTFpaZlE2bkcwNldTenRvT3dxMUp0alA4TlNrQjIyTUJwVFFXY3FtenhfX3U3NXZYR0lnQ2xzWHB3UHRZVlJZ0gG_AUFVX3lxTE5hRW9DV3F0TnJpNG15WGt4S2d6VS1NZXlFeUNtUk5XcVR4ZkpaQU5kWkZmVDFZT092Q3FRRGt0LTlhUHRCNjJxN2duSm9HRVFrVjJiTkNieGowNTdqaElfVlZJMUtGd2pFTFFuSjZ4cWRQMWszalU4LXVzNUtlTkpYRDhuY055aVpnOEhDRzdQMUhDUGh3MGt6RHZNOEw3NUlSbkVJLWNpNnBYdkhXdGhjRW5xMDBmYkEzTkJmejlJ?oc=5",
+      "date": "2026-02-19",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: Unknown gunmen kill 3 militants in Peshawar - thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUERDTWdfcmcyazFyNHQtbm9uTDlsTnpQd09iTy1lenFqNk1lVjVnTjBJejlLd2l0MFc1emRfVHNvQl9iWHZNbm1MN2dHUEw2cWpaX3dGWXhkVVpJNlJTMWlqU1dMd2RpdVdBbFRMRjYxOFZfMENIbzJGTFpaZlE2bkcwNldTenRvT3dxMUp0alA4TlNrQjIyTUJwVFFXY3FtenhfX3U3NXZYR0lnQ2xzWHB3UHRZVlJZ0gG_AUFVX3lxTE5hRW9DV3F0TnJpNG15WGt4S2d6VS1NZXlFeUNtUk5XcVR4ZkpaQU5kWkZmVDFZT092Q3FRRGt0LTlhUHRCNjJxN2duSm9HRVFrVjJiTkNieGowNTdqaElfVlZJMUtGd2pFTFFuSjZ4cWRQMWszalU4LXVzNUtlTkpYRDhuY055aVpnOEhDRzdQMUhDUGh3MGt6RHZNOEw3NUlSbkVJLWNpNnBYdkhXdGhjRW5xMDBmYkEzTkJmejlJ?oc=5",
+      "domain": "thehindu.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYy1XcjV5X1k0U3oxN2xPRWE1OWxnOVU4eUNmTFR0ZXlsQklqTUk2SVV5bG1nS3pjUTlZNGtDQm5IMmx0NkhFcjBQbU96d2xzdjV1NHAxMlZsT08taWZSMHBxLVRkZVQxUE9mTkQycGlxS0lKOE5kT1RpaUlOM0dvSWZhUFFySkVVRUhLeFVSTWp6QXByM0NWb3NRcnhqYWxpN19NbWhIcFI3NHpnVWN1a1AwZmk?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Lashkar-e-Taiba co-founder Amir Hamza shot by unknown gunmen in Pakistan’s Lahore - connectedtoindia.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYy1XcjV5X1k0U3oxN2xPRWE1OWxnOVU4eUNmTFR0ZXlsQklqTUk2SVV5bG1nS3pjUTlZNGtDQm5IMmx0NkhFcjBQbU96d2xzdjV1NHAxMlZsT08taWZSMHBxLVRkZVQxUE9mTkQycGlxS0lKOE5kT1RpaUlOM0dvSWZhUFFySkVVRUhLeFVSTWp6QXByM0NWb3NRcnhqYWxpN19NbWhIcFI3NHpnVWN1a1AwZmk?oc=5",
+      "domain": "connectedtoindia.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY01Ob2t4TzlSVVNOcllnV1ljQVZDcTFtOWxSYXZ4TmJTYmJwTnlpMWF2NUdFNlJXMC1IenB1emFLcGZFM3dYYWJzbGtaN0lXem1hMU5qR0stOXBzSWhacjFJNnpEVXVLQTFPV2lRY3hkNG02akxWSXVZLU8tQ1YwVUh3VXNiaHlEZHd5MVhsR3BTNHRoY1JuRnB3SzEwaU1jbDFGbTMtRU0yN1JEdFZNLVJLYUJMLUxTWlI0MGNpbWI3RXpsSXowRzVtalNtc1IycGo4c0VuWnN4YzRrUjBmU0FxONIB6AFBVV95cUxPVG11QVVJc0V2MGFfV0dEeFZPY3p5cElQckp1N3F4dG5fX25UZlRfM3FLMG5KYmJiNEpvOGhyQ1V2RlB2b3VqWjh2UXJUTXZLU2pLQk9wdmg1RGpsVVQwbkE0M2pyN2RYbld2aW83MzA3V2E0b05EZjgyRmk3NHBERFRnM195c2tJdlMxV0tjS0MydUJpQmFUdWRhS2ZVVnJoVXU4ajZlUTJZeWgyNkFsM2YzdWhyTHpVenVPMXdtdFAxVWhkT1k3ZklJUXlzSkRMTU1WOTM2T1gxSkd4QmFNTERDWlp5MFM3?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: Lashkar-e-Taiba (LeT) terror outfit co-founder Amir Hamza shot down in Lahore by unknown gunmen - organiser.org",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY01Ob2t4TzlSVVNOcllnV1ljQVZDcTFtOWxSYXZ4TmJTYmJwTnlpMWF2NUdFNlJXMC1IenB1emFLcGZFM3dYYWJzbGtaN0lXem1hMU5qR0stOXBzSWhacjFJNnpEVXVLQTFPV2lRY3hkNG02akxWSXVZLU8tQ1YwVUh3VXNiaHlEZHd5MVhsR3BTNHRoY1JuRnB3SzEwaU1jbDFGbTMtRU0yN1JEdFZNLVJLYUJMLUxTWlI0MGNpbWI3RXpsSXowRzVtalNtc1IycGo4c0VuWnN4YzRrUjBmU0FxONIB6AFBVV95cUxPVG11QVVJc0V2MGFfV0dEeFZPY3p5cElQckp1N3F4dG5fX25UZlRfM3FLMG5KYmJiNEpvOGhyQ1V2RlB2b3VqWjh2UXJUTXZLU2pLQk9wdmg1RGpsVVQwbkE0M2pyN2RYbld2aW83MzA3V2E0b05EZjgyRmk3NHBERFRnM195c2tJdlMxV0tjS0MydUJpQmFUdWRhS2ZVVnJoVXU4ajZlUTJZeWgyNkFsM2YzdWhyTHpVenVPMXdtdFAxVWhkT1k3ZklJUXlzSkRMTU1WOTM2T1gxSkd4QmFNTERDWlp5MFM3?oc=5",
+      "domain": "organiser.org",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3RXZnhPdE1LVHFWYXRSVzM5eGhIY2x2NDhvNlljZ08tUVROSUtpY0VqaGsxWlRGaGRTOUJuenZ5aGhEdi04bkxwRVZFdm5xQkxCWUdBV1Q1NjNLME15ZWFaLXZGOFdxbmZPZERLN2ZLcE1rTURZM09oSUl2NmxQWFhCNXhFdGxDZENFS2xfcWlKcm84?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Lashkar-e-Taiba Terrorist Amir Hamza Shot by Unknown Gunmen in Lahore - NewsGram",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3RXZnhPdE1LVHFWYXRSVzM5eGhIY2x2NDhvNlljZ08tUVROSUtpY0VqaGsxWlRGaGRTOUJuenZ5aGhEdi04bkxwRVZFdm5xQkxCWUdBV1Q1NjNLME15ZWFaLXZGOFdxbmZPZERLN2ZLcE1rTURZM09oSUl2NmxQWFhCNXhFdGxDZENFS2xfcWlKcm84?oc=5",
+      "domain": "NewsGram",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczNSV05XUDVkaVJkclhaMzJwT1RIYzNIT3VGUDhXOVpTNTVrNE9xZllFbUN0WXU2WFk3Sk45MFVhQkd1bkJDTlU0b0NReVN1LUJBSThmYzJNaDE5azlLUTRWS242cGVIV2VKN0duZkNYVHpGLU5ZTk8tbXhOSURLU0NUOTQtMkpIejZXUklPM1Q5S1hlOWhRc1JuRklXZDlZSndiT1AyUEE5WklsUGRINXllSklGMUFD0gHAAUFVX3lxTFBLc2VkVHNXV3ZaWnhhcTQzdW4wNlg4OC1sUmY4dktWd1I2RUIzdFI5NG1YZ203UU1JajRNTXJreE5PdzF2UVprLXlYVFYwX3pfd1ItUWQxWnQ2T251dV9lZWdXQlo4NXVsTVFvOXZ3X1E5ME03OWQ3OC1DNzQ3ZWlIcUR3MWVOdjA1dmJ6b3Btd2Z6SFI1Y1RjTVlUazRMNERGS2hkOW9YeXd4MXNOUEV0TFhhcEpzY1pFVXJEdmV0Mw?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Lashkar Co-Founder, Behind Several Terror Attacks In India, Shot In Lahore - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczNSV05XUDVkaVJkclhaMzJwT1RIYzNIT3VGUDhXOVpTNTVrNE9xZllFbUN0WXU2WFk3Sk45MFVhQkd1bkJDTlU0b0NReVN1LUJBSThmYzJNaDE5azlLUTRWS242cGVIV2VKN0duZkNYVHpGLU5ZTk8tbXhOSURLU0NUOTQtMkpIejZXUklPM1Q5S1hlOWhRc1JuRklXZDlZSndiT1AyUEE5WklsUGRINXllSklGMUFD0gHAAUFVX3lxTFBLc2VkVHNXV3ZaWnhhcTQzdW4wNlg4OC1sUmY4dktWd1I2RUIzdFI5NG1YZ203UU1JajRNTXJreE5PdzF2UVprLXlYVFYwX3pfd1ItUWQxWnQ2T251dV9lZWdXQlo4NXVsTVFvOXZ3X1E5ME03OWQ3OC1DNzQ3ZWlIcUR3MWVOdjA1dmJ6b3Btd2Z6SFI1Y1RjTVlUazRMNERGS2hkOW9YeXd4MXNOUEV0TFhhcEpzY1pFVXJEdmV0Mw?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGM5anNDTGQ0bjlpVXA0dDlPd1piZkZBMlFyWkNnaE9zNXE2NzNuV014eFVMZXJVTzQ0dGRFYjhXQy1MbU53X0p1eUhubHV0U240NWtZTFJkc3ZNdUc3emNzeEw1NzhfMDItTmhRTnRmelB0eEJfd1hCajlxNjhhNGpEYzNib3ZZdTN0ZVUtYWtkRnpIM0t5cXlBbTFjdW50MXdCTmNKQk9lck15R3o1WmFReklrVUdNLW1YTml2VDlvUG1VVGM4YzVYR01QbkpKa1BpLTUwd1pkelnSAeABQVVfeXFMUEFkVTVRV205MVpZUmwwWGJzMWk4QkJ3WXlvT2czS1l3UmJ4LWd4Q1BMWmpuc25OQUMxSHBsMXkteDRjRm1JaGNqeEQxUVUxWTVpb1JyNmZhZzFsSW1WQmFZazV2VmZMMHlkVXRoMDVreS1jWHIxWmY5dXBpaExGV3BVNkJVNXJRQWVlcjVWSG9ZUXFtX1Mza2ZCN2ZXSjN0dHo2UGNRUEFET2szY3lWV1RuQ1BobmFrZXZtLUZnUjdHLU9QaF9OMDZuWlBxX1ZROXd0VWhGNl80MloyMWNpa2g?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "From Amir Hamza To Zahoor Mistry, List Of Wanted Pakistani Terrorists Targeted By ‘Unknown Gunmen’ - News18",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGM5anNDTGQ0bjlpVXA0dDlPd1piZkZBMlFyWkNnaE9zNXE2NzNuV014eFVMZXJVTzQ0dGRFYjhXQy1MbU53X0p1eUhubHV0U240NWtZTFJkc3ZNdUc3emNzeEw1NzhfMDItTmhRTnRmelB0eEJfd1hCajlxNjhhNGpEYzNib3ZZdTN0ZVUtYWtkRnpIM0t5cXlBbTFjdW50MXdCTmNKQk9lck15R3o1WmFReklrVUdNLW1YTml2VDlvUG1VVGM4YzVYR01QbkpKa1BpLTUwd1pkelnSAeABQVVfeXFMUEFkVTVRV205MVpZUmwwWGJzMWk4QkJ3WXlvT2czS1l3UmJ4LWd4Q1BMWmpuc25OQUMxSHBsMXkteDRjRm1JaGNqeEQxUVUxWTVpb1JyNmZhZzFsSW1WQmFZazV2VmZMMHlkVXRoMDVreS1jWHIxWmY5dXBpaExGV3BVNkJVNXJRQWVlcjVWSG9ZUXFtX1Mza2ZCN2ZXSjN0dHo2UGNRUEFET2szY3lWV1RuQ1BobmFrZXZtLUZnUjdHLU9QaF9OMDZuWlBxX1ZROXd0VWhGNl80MloyMWNpa2g?oc=5",
+      "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWkNFcDV2elFFM3VXcUtwRko0RHhua25FcHpLazdpeGprMWFPRTlCamJjUGlqaTg3dGNRRGVyQ1pGaC1xaWpYQWpiOGdSNzVXWlJTaTJ0WjNHSXk0S3Raa0N1bF9wTDc2blRILWhzNHp1dHQ1TmYwSC0tcmNlWVBKNkhLc1pqd29ITUlKTmxSc0xVeGVpX2NnakUtSFpwTXNGNG5BamRTVVQtTlIyTnFEUTZXdjh5ZHZNVDVxdEpGQ1F0NzlqZlJmanllcDQtVVJVam00U0pKQTBSMU5tbmVlWEM5a3hrZ1NCUzI4V3RVZ9IB9AFBVV95cUxQa3c3cUtVd2ZJR0lBLTk3d1FsV3UyaGE3SGdGbkd4UFBUdE5NWXNrcHpNWUxMcVJ1bGJmMEcyTF9PNTFsU1M1UW5LeXhZNk1NY1djUW1fYVFoekRfQmtuS1I0Ykphcm9rT2pnczVzQ1VHZHo1alMzWlFKckNyR0tENWhnd1FnVm9IdEdHRzAtQ1o0aFRjeXJHVV81R1RnQ0wwOFg1NkViZzdmS1dSb0U5cFNMQ3k1RXZsMkNYVHBYWFlmNjRpVWZ4ZEtqWmhBS181OWsxalhhN1p0V0wwb1FsOXJTRDlkbnN6VE5ldTROT2pfanhi?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "From IC-814 hijacker to LeT leaders: How terrorists are being eliminated by ‘unknown gunmen’ in... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWkNFcDV2elFFM3VXcUtwRko0RHhua25FcHpLazdpeGprMWFPRTlCamJjUGlqaTg3dGNRRGVyQ1pGaC1xaWpYQWpiOGdSNzVXWlJTaTJ0WjNHSXk0S3Raa0N1bF9wTDc2blRILWhzNHp1dHQ1TmYwSC0tcmNlWVBKNkhLc1pqd29ITUlKTmxSc0xVeGVpX2NnakUtSFpwTXNGNG5BamRTVVQtTlIyTnFEUTZXdjh5ZHZNVDVxdEpGQ1F0NzlqZlJmanllcDQtVVJVam00U0pKQTBSMU5tbmVlWEM5a3hrZ1NCUzI4V3RVZ9IB9AFBVV95cUxQa3c3cUtVd2ZJR0lBLTk3d1FsV3UyaGE3SGdGbkd4UFBUdE5NWXNrcHpNWUxMcVJ1bGJmMEcyTF9PNTFsU1M1UW5LeXhZNk1NY1djUW1fYVFoekRfQmtuS1I0Ykphcm9rT2pnczVzQ1VHZHo1alMzWlFKckNyR0tENWhnd1FnVm9IdEdHRzAtQ1o0aFRjeXJHVV81R1RnQ0wwOFg1NkViZzdmS1dSb0U5cFNMQ3k1RXZsMkNYVHBYWFlmNjRpVWZ4ZEtqWmhBS181OWsxalhhN1p0V0wwb1FsOXJTRDlkbnN6VE5ldTROT2pfanhi?oc=5",
+      "domain": "Moneycontrol.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkp4WVdhVnFnOU0zb2FoZlp5MzV5WUl2WVpaLVhVTXN5UExFVUVpZlBjVjlWUjRubW9rRmZCMmlPNEVsUkJ5d0pfYy05a29oS3hzeXRfUklvNnRqd3hjWTJJMnJRV0tDUkRuUjBaNkVJY21yVWdRdzJrd1dyZEt0M2YtVkNZUEtWUXR0S3M3WmNkVDlnMGFiNWtfZEJTQ2Q4b042VE1aaXZoXzRwQjhMSWRQUThVY2lwUEHSAcABQVVfeXFMTWxyeUljTGZWV3phdnRqeHVRME5FOUtTOXpidk1ONlVmdzg5UTV2SnBpeHVza3VQYkVDbTY3SEUydVJTV0Z3bEdHUlNVdXNZSEVjcy1FazQ0dU5mN29Wb2ZMOEtKdmNJNkhVZjlxUHVsd3ZySGxiSi1zb2JFUkNmUjVDMHVUM1p2X09GejlfWEgxaVptY21aV0N6RWhNdDVfWnVTOTN4RHpMYjJOUDJlSkxOczB1dVBmNzc4NVlXa1RE?oc=5",
+      "date": "2026-04-17",
+      "name": null,
+      "location": null,
+      "title": "Who is Amir Hamza? Lashkar co-founder shot at in Lahore and his long trail in terror networks - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkp4WVdhVnFnOU0zb2FoZlp5MzV5WUl2WVpaLVhVTXN5UExFVUVpZlBjVjlWUjRubW9rRmZCMmlPNEVsUkJ5d0pfYy05a29oS3hzeXRfUklvNnRqd3hjWTJJMnJRV0tDUkRuUjBaNkVJY21yVWdRdzJrd1dyZEt0M2YtVkNZUEtWUXR0S3M3WmNkVDlnMGFiNWtfZEJTQ2Q4b042VE1aaXZoXzRwQjhMSWRQUThVY2lwUEHSAcABQVVfeXFMTWxyeUljTGZWV3phdnRqeHVRME5FOUtTOXpidk1ONlVmdzg5UTV2SnBpeHVza3VQYkVDbTY3SEUydVJTV0Z3bEdHUlNVdXNZSEVjcy1FazQ0dU5mN29Wb2ZMOEtKdmNJNkhVZjlxUHVsd3ZySGxiSi1zb2JFUkNmUjVDMHVUM1p2X09GejlfWEgxaVptY21aV0N6RWhNdDVfWnVTOTN4RHpMYjJOUDJlSkxOczB1dVBmNzc4NVlXa1RE?oc=5",
+      "domain": "The Indian Express",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjVkSHI1RnhOVlUzSWk4ZVY3Q09HdG8wWVhURzdZQTJVRTI1MFNpSnBXbTVZSEJpaHZaNVV5OHp1YTFiN3p0c3RodlhVa1ZLUEV3TzdHS3dneDJMRUNRTlNkU1FhRWpIelR4YkUtN2FpZ1JBd3o1WTB5bFdJYXdVWEFpN203VHUzcjJtWng3R2hmVXRGRTJ1NjVJdDEycGo1SDZQcUVnbXhLaXZCVHFrZ1VrS1NLVk93WllJX0NxZHpUZmxaekI1UWgtM1lMWDZ4WjlUcGVCVlRYMFRENEFDYkFaRUFDaFhURFE3dEpURHVPektqY0FhM2x4U2pSMUJTc21IazUtamZlNk1JSlRyVHRxQUpUUU3SAZwCQVVfeXFMTjIwaFloWXRkS1g4djU5M092eXhrV28yMjlwdGpiWG1iQVU2RW92bldWbHhMN3VSTlNUQkxHb21EMGpsemZGdVlGMkFZdWg4Ni16d2o4OEQ1MmRnaFRsbjZrWDNvVFlhb1JSXzdEenRBWFE5NmhwZnN0ejlvbU1mb3NRRlEwbGZ3OFFIQ3VKTEJHSVpTQ1BfSl93RS02M1ZRdEVqR1ljR3hpUlBMOTAyaDhoa0p2SEJWU2VRdG5KYmxmd01ob05PQTJmSGwyRWdjUjVKcVFUQTZSV3pFZHgwRkszbGl0WV80QTVHRTJ6aV8tM3NsRGRzYWYyXzk5LW5fRWtLOUlGVTZabE9SbmlBR3FmRng0aWhUWGk3Ulk?oc=5",
+      "date": "2026-04-17",
+      "name": null,
+      "location": null,
+      "title": "High-ranking Pak terrorist shot once again: Here's a list of India's 'most-wanted' targets hit by 'unkown - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjVkSHI1RnhOVlUzSWk4ZVY3Q09HdG8wWVhURzdZQTJVRTI1MFNpSnBXbTVZSEJpaHZaNVV5OHp1YTFiN3p0c3RodlhVa1ZLUEV3TzdHS3dneDJMRUNRTlNkU1FhRWpIelR4YkUtN2FpZ1JBd3o1WTB5bFdJYXdVWEFpN203VHUzcjJtWng3R2hmVXRGRTJ1NjVJdDEycGo1SDZQcUVnbXhLaXZCVHFrZ1VrS1NLVk93WllJX0NxZHpUZmxaekI1UWgtM1lMWDZ4WjlUcGVCVlRYMFRENEFDYkFaRUFDaFhURFE3dEpURHVPektqY0FhM2x4U2pSMUJTc21IazUtamZlNk1JSlRyVHRxQUpUUU3SAZwCQVVfeXFMTjIwaFloWXRkS1g4djU5M092eXhrV28yMjlwdGpiWG1iQVU2RW92bldWbHhMN3VSTlNUQkxHb21EMGpsemZGdVlGMkFZdWg4Ni16d2o4OEQ1MmRnaFRsbjZrWDNvVFlhb1JSXzdEenRBWFE5NmhwZnN0ejlvbU1mb3NRRlEwbGZ3OFFIQ3VKTEJHSVpTQ1BfSl93RS02M1ZRdEVqR1ljR3hpUlBMOTAyaDhoa0p2SEJWU2VRdG5KYmxmd01ob05PQTJmSGwyRWdjUjVKcVFUQTZSV3pFZHgwRkszbGl0WV80QTVHRTJ6aV8tM3NsRGRzYWYyXzk5LW5fRWtLOUlGVTZabE9SbmlBR3FmRng0aWhUWGk3Ulk?oc=5",
+      "domain": "The Economic Times",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0YzOW5hXzljYnNFN1VPTlNWY2cxdE5oUDVzTm1INFd3TXFndVpQSUdqYVpMZzNybjctWG1tc3JFdUFYdHZmam9Tdm9renNkWnlaRGRYZW5BbnV1VVBtMTNxNGJpRTFLZW81RzNWd1d5endtQnVRRktaVE9yT2ZHM0pTNF9XUXBScGxCdk1NbGtJZzFUNVRnNElDQWFtZ2pmTnFUYXJSV25IWE1IYWl1ZFNKZnNCWFlacXh0bXVtTmVrZUplSjdvY2ZB0gHSAUFVX3lxTE9SQWwyT2pjdlp3ZzZnM3V1SW5POVdOUDBadGhkcmlScVFTUlRxSUV4c1NwTVRBR1lRRXBFbmlUODFCYkFHWXdjQjhUWDd6TTRJSC1GQVNBOWZQRHlPam44NUtmd2hPRVV1U1l1VXNUZ1dDalZZaE1TNEJNeldnME5xWllJeXZtdVM4ajRkUDQ5Z0hJR0hHTkQzejhjd2JUd20zWEd6TXE0SGhrQUU3OXBIdEdHOG5PZHcyTlJtNE9mQ0cxbzJEU1pkQ3U5ZmM4TklKUQ?oc=5",
+      "date": "2026-04-27",
+      "name": null,
+      "location": null,
+      "title": "Who Was Sheikh Yousuf Afridi, Lashkar Terrorist Shot Dead By Gunmen In Pakistan - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0YzOW5hXzljYnNFN1VPTlNWY2cxdE5oUDVzTm1INFd3TXFndVpQSUdqYVpMZzNybjctWG1tc3JFdUFYdHZmam9Tdm9renNkWnlaRGRYZW5BbnV1VVBtMTNxNGJpRTFLZW81RzNWd1d5endtQnVRRktaVE9yT2ZHM0pTNF9XUXBScGxCdk1NbGtJZzFUNVRnNElDQWFtZ2pmTnFUYXJSV25IWE1IYWl1ZFNKZnNCWFlacXh0bXVtTmVrZUplSjdvY2ZB0gHSAUFVX3lxTE9SQWwyT2pjdlp3ZzZnM3V1SW5POVdOUDBadGhkcmlScVFTUlRxSUV4c1NwTVRBR1lRRXBFbmlUODFCYkFHWXdjQjhUWDd6TTRJSC1GQVNBOWZQRHlPam44NUtmd2hPRVV1U1l1VXNUZ1dDalZZaE1TNEJNeldnME5xWllJeXZtdVM4ajRkUDQ5Z0hJR0hHTkQzejhjd2JUd20zWEd6TXE0SGhrQUU3OXBIdEdHOG5PZHcyTlJtNE9mQ0cxbzJEU1pkQ3U5ZmM4TklKUQ?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemxSS0Vidkwtd1l4NzI3dEtXbG1Mc3dITlFRbzZrZXAzUzJlQkZPdjlwcTBzU2E4aXZybURmaHhHNktHTW1kbXpsSGJadjV6TVM5SEkyWnZ2Q1djXzN0U1VnUU5jRzNtY1pUZ0pZU09LSWU1V3ZWVnZhcmRueE4ybmlxVnhmdUR1eHZ0eW1qMk1JOFVIMHdnLVA5dlB3RS1vN19lYTdpSXlrVkgtNDJuT2hLWVQ1dw?oc=5",
+      "date": "2026-04-27",
+      "name": null,
+      "location": null,
+      "title": "Video | Lashkar-e-Taiba Top Commander Sheikh Afridi Killed By Unknown Gunmen In Pakistan - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemxSS0Vidkwtd1l4NzI3dEtXbG1Mc3dITlFRbzZrZXAzUzJlQkZPdjlwcTBzU2E4aXZybURmaHhHNktHTW1kbXpsSGJadjV6TVM5SEkyWnZ2Q1djXzN0U1VnUU5jRzNtY1pUZ0pZU09LSWU1V3ZWVnZhcmRueE4ybmlxVnhmdUR1eHZ0eW1qMk1JOFVIMHdnLVA5dlB3RS1vN19lYTdpSXlrVkgtNDJuT2hLWVQ1dw?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3ZESnpPc2xSVDV1Qi10cGZnY2ZZY1NxVDByamtuc3hPUVQ3Smh6dk4tSnFJUTdXc1l2VEZzWW5PM1N4U2VkaUpJMU9YZWROcXIyQ2s2cy1rMWItcFVqeEMxVGdxTEQzd0JGdDdMYmsxb3FrN3p0cVNNakV0WEhJZXkyZ1RheVlxcERTWkl2RENwMTYyRzF3TDB2RUJxVUJGOElJZjNwQlZZVGdO?oc=5",
+      "date": "2026-04-27",
+      "name": null,
+      "location": null,
+      "title": "Lashkar-e-Taiba (LeT) commander Sheikh Yousuf Afridi shot dead by unknown gunmen in Khyber Pakhtunkhwa - opindia.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3ZESnpPc2xSVDV1Qi10cGZnY2ZZY1NxVDByamtuc3hPUVQ3Smh6dk4tSnFJUTdXc1l2VEZzWW5PM1N4U2VkaUpJMU9YZWROcXIyQ2s2cy1rMWItcFVqeEMxVGdxTEQzd0JGdDdMYmsxb3FrN3p0cVNNakV0WEhJZXkyZ1RheVlxcERTWkl2RENwMTYyRzF3TDB2RUJxVUJGOElJZjNwQlZZVGdO?oc=5",
+      "domain": "opindia.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdVhZckF1TUtwTlpiSzc2ODV4NTZXbFNWV0VOQmV3Y3dCeWZlcXpOSWZrMDQ2X2xEQWJxdkVjWlN2MVdRcW50czlTeXRmZFVIVDhwUE5wTWl0dzZpSFp4YTdLaXFScG1ZZlhPZzlpZjEwYllOcWt6a3ZZZlBQRy1FVklBakVCTW9vR0NmNC1OdzF6THQxUFBId3B1Vy1tdGgydnN4eWhDNWRIWWFoQkU0MnZOZU8tNnFHZFlYYjd2bWdRY29nN2F5dmFPaE1IeFBhSTF2UWNybXR2TkhmTC1acA?oc=5",
+      "date": "2026-04-28",
+      "name": null,
+      "location": null,
+      "title": "Unidentified Gunmen Assassinate Key Lashkar Terrorist Sheikh Yousaf Afridi In Pakistan's Khyber Pakhtunkhwa Region - defence.in",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdVhZckF1TUtwTlpiSzc2ODV4NTZXbFNWV0VOQmV3Y3dCeWZlcXpOSWZrMDQ2X2xEQWJxdkVjWlN2MVdRcW50czlTeXRmZFVIVDhwUE5wTWl0dzZpSFp4YTdLaXFScG1ZZlhPZzlpZjEwYllOcWt6a3ZZZlBQRy1FVklBakVCTW9vR0NmNC1OdzF6THQxUFBId3B1Vy1tdGgydnN4eWhDNWRIWWFoQkU0MnZOZU8tNnFHZFlYYjd2bWdRY29nN2F5dmFPaE1IeFBhSTF2UWNybXR2TkhmTC1acA?oc=5",
+      "domain": "defence.in",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREFMdkRCVnRpS2x0RHFYa3JVQ0ctZG1lYWl6NWZvem4zMlEtSjZub1hOdlk1SHJSRlNWeE85YTlvVWljRTlZa1MyYThnaUhzRFhZWEZLdDVFUG5ibXdxeHZTSHM2QTRJdEtGNkNGcGFmdmpuc051SWl4bVp6TTRPR24xeWlNOTZzOXAtbXgyajhlVDRTS2RGclcxOFdZdDdBOGdKRExfZkdUWjVaRXdXQVpCcHZSZWZoenNaZTB0aXJGeGJlRmprM2dQTWUtaU9vSnltSDNuZw?oc=5",
+      "date": "2026-05-12",
+      "name": null,
+      "location": null,
+      "title": "Unknown gunmen expose Pakistan’s double game: LeT commander killed, ISI official found with ISIS files - The Shillong Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREFMdkRCVnRpS2x0RHFYa3JVQ0ctZG1lYWl6NWZvem4zMlEtSjZub1hOdlk1SHJSRlNWeE85YTlvVWljRTlZa1MyYThnaUhzRFhZWEZLdDVFUG5ibXdxeHZTSHM2QTRJdEtGNkNGcGFmdmpuc051SWl4bVp6TTRPR24xeWlNOTZzOXAtbXgyajhlVDRTS2RGclcxOFdZdDdBOGdKRExfZkdUWjVaRXdXQVpCcHZSZWZoenNaZTB0aXJGeGJlRmprM2dQTWUtaU9vSnltSDNuZw?oc=5",
+      "domain": "The Shillong Times",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kcnE0SndSWGhwazd3S09ZUUhlR0cxUTBYd2N2M3VJTEI1REJBNFotVmRZNnhQSWhmNmwwZXNOaURTOVRINEd3R1M2ck1PM2JBWjRXTERlTFplOGd1dDM3MHZYd2lZbTBRZFMwUXlYTVF2M2RZMFE?oc=5",
+      "date": "2026-05-15",
+      "name": null,
+      "location": null,
+      "title": "Senior Lashkar-e-Tayyiba Commander Mir Shukr Khan Raisani Killed in Pakistan’s Balochistan - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kcnE0SndSWGhwazd3S09ZUUhlR0cxUTBYd2N2M3VJTEI1REJBNFotVmRZNnhQSWhmNmwwZXNOaURTOVRINEd3R1M2ck1PM2JBWjRXTERlTFplOGd1dDM3MHZYd2lZbTBRZFMwUXlYTVF2M2RZMFE?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZW1Eak1XRmVtTVlmSkJmbjNRa1MzQ2RlY3RhNVBaVzVfRVZBd2I1cW5iV3UyU2hOYk14djdsaDFKSlNKdFRkZVBHanFHUVJ0LUlJWk9ld3Q3QXotdTAyYVB3SVk0RlRNVkxDWkFTcEI0bWpRSUxwX0xja2RXUFByV0RwME00enVKOGstSHRFTjB2d01OSWZYUzhBVkJ2UGN1YWRBMUIwQktaM1ZsaVFHaEVvdmZVMWZoelFiV3dlcDU0QXFLMmwwRllZRFRDR1lqNXdrQdIB2gFBVV95cUxPX0VyZXNzaDF3TmczTHd0UHFYOUExLUE3c0ZTdGl6QkZxOVNiQ1U5c21jcVZsRndhNkZiWVU5ZHh3MFMwaFM3empnR0hDT0h6TXRUZFZnajllbjY0aC1TWTRZMXRwNjVTSjBQMzhBOU1ZWWJCbEV5ZHk0blpTN2pOVmExZ1hPdHE4bzEzcG9Md3JaeHQ5aHhiTDItTXAydDltV0FKTTNXdkk5aTBnQmNpSVJRb3RpU0F4U2RkMHQ2TmZBRE1RNVQ0Q0R0dTZFUDlMVm1ucU5hZUd0QQ?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "‘Unknown Gunmen’ Strike Again? Hamza Burhan Among Pakistani Terrorists Killed In Recent Years - News18",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZW1Eak1XRmVtTVlmSkJmbjNRa1MzQ2RlY3RhNVBaVzVfRVZBd2I1cW5iV3UyU2hOYk14djdsaDFKSlNKdFRkZVBHanFHUVJ0LUlJWk9ld3Q3QXotdTAyYVB3SVk0RlRNVkxDWkFTcEI0bWpRSUxwX0xja2RXUFByV0RwME00enVKOGstSHRFTjB2d01OSWZYUzhBVkJ2UGN1YWRBMUIwQktaM1ZsaVFHaEVvdmZVMWZoelFiV3dlcDU0QXFLMmwwRllZRFRDR1lqNXdrQdIB2gFBVV95cUxPX0VyZXNzaDF3TmczTHd0UHFYOUExLUE3c0ZTdGl6QkZxOVNiQ1U5c21jcVZsRndhNkZiWVU5ZHh3MFMwaFM3empnR0hDT0h6TXRUZFZnajllbjY0aC1TWTRZMXRwNjVTSjBQMzhBOU1ZWWJCbEV5ZHk0blpTN2pOVmExZ1hPdHE4bzEzcG9Md3JaeHQ5aHhiTDItTXAydDltV0FKTTNXdkk5aTBnQmNpSVJRb3RpU0F4U2RkMHQ2TmZBRE1RNVQ0Q0R0dTZFUDlMVm1ucU5hZUd0QQ?oc=5",
+      "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnJELXRuRlJwWUZuNVEzRi1WNTNkMUhSdE03Y0czeWtET2RjRmlYVDRYbl84Yy1RX0U2MGhJWTVJNkJkWTc2WGw2WTI5bW4zUHZiV0RNbWROTkI3SWx0WkxQODFIc0ltZzhVRzVtLS0zTEtXOUUyckQwOUZxYnRqLWNyLTBCRkJGdGpV?oc=5",
+      "date": "2026-05-22",
+      "name": null,
+      "location": null,
+      "title": "Pulwama Attack Linked Terrorist Hamza Burhan Shot by Unknown Assailants in PoK - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnJELXRuRlJwWUZuNVEzRi1WNTNkMUhSdE03Y0czeWtET2RjRmlYVDRYbl84Yy1RX0U2MGhJWTVJNkJkWTc2WGw2WTI5bW4zUHZiV0RNbWROTkI3SWx0WkxQODFIc0ltZzhVRzVtLS0zTEtXOUUyckQwOUZxYnRqLWNyLTBCRkJGdGpV?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTEwdkp6YzA0MWlCZU5mTW1HbUxiWWRmc0xoSS0xanh2ZHk1eDBFN0gzYnZ5TWc2bFlyRGZtTDAyRExVV0lpdEVxcEFuUVl6SGpiOHBYMmpFTmY4eGVJSzdXcTA1aEdUdGxZbEduV1F2YjR5NzNQTjJmaWpPX1RwSFo0Ulo3N0Ywa2RUdnBfbTliTjF3cm83NG0tTllyWkdzUDRwbkVkWDB4bzB2UXU2cVlZTHRPaVJYekHSAcIBQVVfeXFMT082a3RmQUxyVnhhNHNDQVZ3aGFVQzZIRTc2MjVXZThZNGRnWmJmZE1Qc2lyUlE5U0RQZXQxcXRzZS1PUVBMWkFPVlVERzBtcWVzZXgzTlFJZm9TaHhQaVpVSjZrV0FoZE05ck1aeVdmVmowdVpaTGc2NU90UXZEWmlZbUxYMlF1TDVNT25Eb3EtVzUzWEQzb3d0YWp1Umc1RGs1QVpDNGtlY1J2U1BWdTF2QmpnbnI5czdBa0N2UEhyWWc?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "'Unknown Gunmen' Have Killed Over 30 Lashkar Men In Pak: Terrorist On Camera - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTEwdkp6YzA0MWlCZU5mTW1HbUxiWWRmc0xoSS0xanh2ZHk1eDBFN0gzYnZ5TWc2bFlyRGZtTDAyRExVV0lpdEVxcEFuUVl6SGpiOHBYMmpFTmY4eGVJSzdXcTA1aEdUdGxZbEduV1F2YjR5NzNQTjJmaWpPX1RwSFo0Ulo3N0Ywa2RUdnBfbTliTjF3cm83NG0tTllyWkdzUDRwbkVkWDB4bzB2UXU2cVlZTHRPaVJYekHSAcIBQVVfeXFMT082a3RmQUxyVnhhNHNDQVZ3aGFVQzZIRTc2MjVXZThZNGRnWmJmZE1Qc2lyUlE5U0RQZXQxcXRzZS1PUVBMWkFPVlVERzBtcWVzZXgzTlFJZm9TaHhQaVpVSjZrV0FoZE05ck1aeVdmVmowdVpaTGc2NU90UXZEWmlZbUxYMlF1TDVNT25Eb3EtVzUzWEQzb3d0YWp1Umc1RGs1QVpDNGtlY1J2U1BWdTF2QmpnbnI5czdBa0N2UEhyWWc?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWNSdktMNlRkbkhjZW1QWVFrZW5mQkhXSHpxOEJPTW01ZVZlYkhwQ1ZtT19Ya1d0d0FwR0otSEx4clozNkQxUUtpNUp4YkJHdmt0cWNJZnRobU0yaE9CdFBiSFAyTW92SUlERFI3ZkhYOXRlWUlzYzZmeDdBSVdZNF8zNEdkMHp6UjBEeXlzMnhZSUNNTnZraTJOU3p6YzhDYjllMkdkN3JXSUFrOXhCVFE1Z0NINEQ0a1hWY3MtMEdtTWpUYTEyNm95TDZFVnZFcC1VelBSSDM0NF9hOUd3THdiNUhoS1HSAewBQVVfeXFMT1pnTDdxUnpLUmxQM3ZfSVI4QXJBbDJGR0ZVMTJWNUtjektSUWtPUFV1NGp1QnhFM0tOWDliSEpCM0NHWVZSS19fbFIyVG1pMUZlQk41bk5iOVh0UjdNTDFtUFZld3YyY3BsdVlLM005RXRPeFdNVTYtWTkwQ292TGVKem9yN1c4Ui1jbUwxZ0FNYTFreU9FMDdINWVxeEJJR0dua1lZTFA2eFlTS0d0dFFuUXJzX0Jwak1CR0lSWWEwbXd4QmplWE9FdW9qTEk4QXBrZEVwZFdfaWR3M0JqZnAyQjNEU1NCbGJsd0k?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "LeT Terrorist Admits Over 30 Outfit Members Killed In Pakistan And PoK By 'Unknown Gunmen', Alleges India's - News18",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWNSdktMNlRkbkhjZW1QWVFrZW5mQkhXSHpxOEJPTW01ZVZlYkhwQ1ZtT19Ya1d0d0FwR0otSEx4clozNkQxUUtpNUp4YkJHdmt0cWNJZnRobU0yaE9CdFBiSFAyTW92SUlERFI3ZkhYOXRlWUlzYzZmeDdBSVdZNF8zNEdkMHp6UjBEeXlzMnhZSUNNTnZraTJOU3p6YzhDYjllMkdkN3JXSUFrOXhCVFE1Z0NINEQ0a1hWY3MtMEdtTWpUYTEyNm95TDZFVnZFcC1VelBSSDM0NF9hOUd3THdiNUhoS1HSAewBQVVfeXFMT1pnTDdxUnpLUmxQM3ZfSVI4QXJBbDJGR0ZVMTJWNUtjektSUWtPUFV1NGp1QnhFM0tOWDliSEpCM0NHWVZSS19fbFIyVG1pMUZlQk41bk5iOVh0UjdNTDFtUFZld3YyY3BsdVlLM005RXRPeFdNVTYtWTkwQ292TGVKem9yN1c4Ui1jbUwxZ0FNYTFreU9FMDdINWVxeEJJR0dua1lZTFA2eFlTS0d0dFFuUXJzX0Jwak1CR0lSWWEwbXd4QmplWE9FdW9qTEk4QXBrZEVwZFdfaWR3M0JqZnAyQjNEU1NCbGJsd0k?oc=5",
+      "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYTgtWHNXTFVqa0Iyc3NUODJmaHFUeTFRV0FoOEVCZUlmM0lORkVhYUVZX0xhWVh4ZmIyZFdHSHpldkRnX1V3S0ZXYzJSc1p2LVR1bjRhelF0NnI2VUpZanRpTVBCUjlNdFd4eFp1QXF3T1lEV2dudWdkSVRDSE4tSFBnMXRzNzFxYnJWNXZ3alJ1a1JQV29RbkI1VE9razdPY3lyRVpnY2s2LWtJVUdPdjNySnJNMWZKSDVtcDQ3MU9NTG40UFE0TkNjUE0yQ05rS1F6SEhHTmVfVmdsMmRNR3ZXX2g?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "Top LeT commander admits 30+ terrorists shot dead across Pakistan and PoK, blames 'unknown gunmen' working for India - opindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYTgtWHNXTFVqa0Iyc3NUODJmaHFUeTFRV0FoOEVCZUlmM0lORkVhYUVZX0xhWVh4ZmIyZFdHSHpldkRnX1V3S0ZXYzJSc1p2LVR1bjRhelF0NnI2VUpZanRpTVBCUjlNdFd4eFp1QXF3T1lEV2dudWdkSVRDSE4tSFBnMXRzNzFxYnJWNXZ3alJ1a1JQV29RbkI1VE9razdPY3lyRVpnY2s2LWtJVUdPdjNySnJNMWZKSDVtcDQ3MU9NTG40UFE0TkNjUE0yQ05rS1F6SEhHTmVfVmdsMmRNR3ZXX2g?oc=5",
+      "domain": "opindia.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjJ0SEdaZUx2LU9oTE94RGY1aFc3QngtS2Q3WnROV3czSzJyMHo1VDhLNDB3UHRKQVRDX2RRam4zYlVqVmdQakNSM29YdTRqSkFnZkhWTGR3OWJJMVE5anllcW9lYllkZDQ1Tkl6NTFDQkpqVjJLcjh1YnR1TDhPdm5HZS03Zkl6Si1idk4zY1gzWmJXTU9oSjNULTRBb3RGaEZkRFlHOA?oc=5",
+      "date": "2026-08-04",
+      "name": null,
+      "location": null,
+      "title": "Lashkar terrorist admits over 30 operatives killed by ‘unknown gunmen’ in Pakistan - PGurus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjJ0SEdaZUx2LU9oTE94RGY1aFc3QngtS2Q3WnROV3czSzJyMHo1VDhLNDB3UHRKQVRDX2RRam4zYlVqVmdQakNSM29YdTRqSkFnZkhWTGR3OWJJMVE5anllcW9lYllkZDQ1Tkl6NTFDQkpqVjJLcjh1YnR1TDhPdm5HZS03Zkl6Si1idk4zY1gzWmJXTU9oSjNULTRBb3RGaEZkRFlHOA?oc=5",
+      "domain": "PGurus",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTdNVTVkU3diSWVXUEVhWVlQWmxYT21ZRW9kQ05pMm9haWhELVdkazlBUWxyOUNCcGxXemJyZVhBVHhaOGtURFV2ODk1UjVTcVF4SjROWld6RWRkSmQxOXV1dUlGT205cHBqZ1hDMGk5dTFoa0ZaX3dMY18zWWg2UDZZaDZyOC1GR202UWx4b2F4UWo3NkN2YWhjTlRtRWgydW9jYUFid09zOGpieDY3ZVV3SWZmeUZWWElpeXVLeU5fbG54Z3cwSWhn0gHPAUFVX3lxTE45YTlpbjR5cUFrd3hxUkQ0Rm1uVFpCTmFSMnFMRElvNWx3UERsYnM1UUFHTDRlemFZbnhfcXdId19uVDhFUEZ4cU5uWEw1QkpzaTBTZ2lzQm5naHVLTDZMdHgwNWFZWEdmbFVWRXlTVWI4Mm5HM0MxSVZRZzc5bl93Tmp4bnRkTDI3d0NyY1BBbjMyQ3lrTmpmdTc5bkJMSnhnWnBmN2NuZDl6MGVLSlBWalZ1N2NfTF9PQnl6bGpDWGthTkdaNmtpcW1zbEVEMA?oc=5",
+      "date": "2026-08-05",
+      "name": null,
+      "location": null,
+      "title": "Pakistan's 'Unknown Gunmen' Strike Again | LeT Admits 30 Terrorists Killed - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTdNVTVkU3diSWVXUEVhWVlQWmxYT21ZRW9kQ05pMm9haWhELVdkazlBUWxyOUNCcGxXemJyZVhBVHhaOGtURFV2ODk1UjVTcVF4SjROWld6RWRkSmQxOXV1dUlGT205cHBqZ1hDMGk5dTFoa0ZaX3dMY18zWWg2UDZZaDZyOC1GR202UWx4b2F4UWo3NkN2YWhjTlRtRWgydW9jYUFid09zOGpieDY3ZVV3SWZmeUZWWElpeXVLeU5fbG54Z3cwSWhn0gHPAUFVX3lxTE45YTlpbjR5cUFrd3hxUkQ0Rm1uVFpCTmFSMnFMRElvNWx3UERsYnM1UUFHTDRlemFZbnhfcXdId19uVDhFUEZ4cU5uWEw1QkpzaTBTZ2lzQm5naHVLTDZMdHgwNWFZWEdmbFVWRXlTVWI4Mm5HM0MxSVZRZzc5bl93Tmp4bnRkTDI3d0NyY1BBbjMyQ3lrTmpmdTc5bkJMSnhnWnBmN2NuZDl6MGVLSlBWalZ1N2NfTF9PQnl6bGpDWGthTkdaNmtpcW1zbEVEMA?oc=5",
+      "domain": "Firstpost",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDM1SWRaVC1BYkFTWVNDcGVSa29tUWdYTVNlUmM5UHZaa2NHOTI2LUVrRGdRRHBBc292WTVCWERFMWJXRjF0R1M1SUNyMEdoU1dkYUVkc0FXamZiXzZVdnFKaGJQNlQ1dDlCMHQ1Q0hYVlN0TDh1N3RsUEFqM25oc1ZBSk1aQ1VDLW40LWdybF9YVWluWkl4ZU1uQUZ0SDRwZXNScU0zNmpzUVUtSF82TTRNMEdyZ0ZFbFp4WEVoR0JpOGd5TDl0eGJNdUtnZGR4d1NNUUlrV1QyVUNsUkVvRS05OUhFOWFGVjBqTGhPbGtYWEhjLUJudy1Bb0FmM1lfbmFjcNIBigJBVV95cUxNU0xRYXdNUlNMQjc1YzZHTEt4OXlDTDJ2amZRNXBjWjQ0bjJHMktIanRyY0NjS29mc09meUxoWUZ6aFRaZXRmUGRuX2ktVlAzcDJabXlsNnczNDRuRC1OUzhsWEphZ21Da0lRamNiS0doXzhJRjdsTXV3dkdjQ0JHazRjVkViYzZzRFJXWE5ZVjlMNmpEQU9GVXFNdTI5UmZtUHdRXzE4NVZlRVk3al9NN3ZmLVR4OFpieXFkNHp2cXJva0p3eUR1eEdSWFpsVU5UcW1vQWJKRkpKVlFBR3hKazA3UUFLOVFKcFdJd0trS2dUbWtDcHRfOGlQVTA2RF9KVGRhV083XzFCQQ?oc=5",
+      "date": "2026-08-23",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: Security official killed by unidentified gunmen; 5 cops injured in separate grenade blast - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDM1SWRaVC1BYkFTWVNDcGVSa29tUWdYTVNlUmM5UHZaa2NHOTI2LUVrRGdRRHBBc292WTVCWERFMWJXRjF0R1M1SUNyMEdoU1dkYUVkc0FXamZiXzZVdnFKaGJQNlQ1dDlCMHQ1Q0hYVlN0TDh1N3RsUEFqM25oc1ZBSk1aQ1VDLW40LWdybF9YVWluWkl4ZU1uQUZ0SDRwZXNScU0zNmpzUVUtSF82TTRNMEdyZ0ZFbFp4WEVoR0JpOGd5TDl0eGJNdUtnZGR4d1NNUUlrV1QyVUNsUkVvRS05OUhFOWFGVjBqTGhPbGtYWEhjLUJudy1Bb0FmM1lfbmFjcNIBigJBVV95cUxNU0xRYXdNUlNMQjc1YzZHTEt4OXlDTDJ2amZRNXBjWjQ0bjJHMktIanRyY0NjS29mc09meUxoWUZ6aFRaZXRmUGRuX2ktVlAzcDJabXlsNnczNDRuRC1OUzhsWEphZ21Da0lRamNiS0doXzhJRjdsTXV3dkdjQ0JHazRjVkViYzZzRFJXWE5ZVjlMNmpEQU9GVXFNdTI5UmZtUHdRXzE4NVZlRVk3al9NN3ZmLVR4OFpieXFkNHp2cXJva0p3eUR1eEdSWFpsVU5UcW1vQWJKRkpKVlFBR3hKazA3UUFLOVFKcFdJd0trS2dUbWtDcHRfOGlQVTA2RF9KVGRhV083XzFCQQ?oc=5",
+      "domain": "The Times of India",
+      "source_country": null,
+      "language": "en"
+    }
+  ]
 }
