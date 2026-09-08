@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
@@ -395,6 +395,17 @@
       "location": null,
       "title": "Gunmen Kill Two Security Personnel in Pakistan’s Khyber Pakhtunkhwa Province - Daily Pioneer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWxlcWpTa24yaFZ0S0x6SkFNcnpRNl9lODhzVGREMjU1eFJRZHEyMlhITWZUNEJGdG9vSGE5a2RkZzVMSGlsa3RIMEVpR1FVNFNPMW1NU2Y0REJYRmtrRy01emdObnY1OENyNEVZOURoN0JYalBpcWhwMXlQQndDTmZKSG5hOEJoU1lqQ2JsUENEWDRNZGVKb1NUUVZJbW8?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWtXWFMwemlyTEhyYjhYNW5ZR21FcDFHRkJGbWRrNW1RNmlCazNYYWQ0YmxhRlVlLXo4Q3dkQy1uRHJ2NklXYzl6TE5xSFJheDNiNDVpYkxqaHVMdnB4WG9ocjV5bkJiNEVMblFLZjJPMTB4VDlscWFZZVNIeXp3cmVtSVBJR2hMd05xVF9CUjlWLVBZX0lKV1RLdjZaYU5MbmVjQnZaV0dMdnlPMDlZbGxhZVNRVHZKVGc?oc=5",
+      "date": "2026-05-17",
+      "name": null,
+      "location": null,
+      "title": "Gunmen Kill Two Security Personnel in Pakistan’s Khyber Pakhtunkhwa Province - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWtXWFMwemlyTEhyYjhYNW5ZR21FcDFHRkJGbWRrNW1RNmlCazNYYWQ0YmxhRlVlLXo4Q3dkQy1uRHJ2NklXYzl6TE5xSFJheDNiNDVpYkxqaHVMdnB4WG9ocjV5bkJiNEVMblFLZjJPMTB4VDlscWFZZVNIeXp3cmVtSVBJR2hMd05xVF9CUjlWLVBZX0lKV1RLdjZaYU5MbmVjQnZaV0dMdnlPMDlZbGxhZVNRVHZKVGc?oc=5",
       "domain": "Daily Pioneer",
       "source_country": null,
       "language": "en"

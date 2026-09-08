@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUERDTWdfcmcyazFyNHQtbm9uTDlsTnpQd09iTy1lenFqNk1lVjVnTjBJejlLd2l0MFc1emRfVHNvQl9iWHZNbm1MN2dHUEw2cWpaX3dGWXhkVVpJNlJTMWlqU1dMd2RpdVdBbFRMRjYxOFZfMENIbzJGTFpaZlE2bkcwNldTenRvT3dxMUp0alA4TlNrQjIyTUJwVFFXY3FtenhfX3U3NXZYR0lnQ2xzWHB3UHRZVlJZ0gG_AUFVX3lxTE5hRW9DV3F0TnJpNG15WGt4S2d6VS1NZXlFeUNtUk5XcVR4ZkpaQU5kWkZmVDFZT092Q3FRRGt0LTlhUHRCNjJxN2duSm9HRVFrVjJiTkNieGowNTdqaElfVlZJMUtGd2pFTFFuSjZ4cWRQMWszalU4LXVzNUtlTkpYRDhuY055aVpnOEhDRzdQMUhDUGh3MGt6RHZNOEw3NUlSbkVJLWNpNnBYdkhXdGhjRW5xMDBmYkEzTkJmejlJ?oc=5",
@@ -99,6 +99,17 @@
       "title": "High-ranking Pak terrorist shot once again: Here's a list of India's 'most-wanted' targets hit by 'unkown - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjVkSHI1RnhOVlUzSWk4ZVY3Q09HdG8wWVhURzdZQTJVRTI1MFNpSnBXbTVZSEJpaHZaNVV5OHp1YTFiN3p0c3RodlhVa1ZLUEV3TzdHS3dneDJMRUNRTlNkU1FhRWpIelR4YkUtN2FpZ1JBd3o1WTB5bFdJYXdVWEFpN203VHUzcjJtWng3R2hmVXRGRTJ1NjVJdDEycGo1SDZQcUVnbXhLaXZCVHFrZ1VrS1NLVk93WllJX0NxZHpUZmxaekI1UWgtM1lMWDZ4WjlUcGVCVlRYMFRENEFDYkFaRUFDaFhURFE3dEpURHVPektqY0FhM2x4U2pSMUJTc21IazUtamZlNk1JSlRyVHRxQUpUUU3SAZwCQVVfeXFMTjIwaFloWXRkS1g4djU5M092eXhrV28yMjlwdGpiWG1iQVU2RW92bldWbHhMN3VSTlNUQkxHb21EMGpsemZGdVlGMkFZdWg4Ni16d2o4OEQ1MmRnaFRsbjZrWDNvVFlhb1JSXzdEenRBWFE5NmhwZnN0ejlvbU1mb3NRRlEwbGZ3OFFIQ3VKTEJHSVpTQ1BfSl93RS02M1ZRdEVqR1ljR3hpUlBMOTAyaDhoa0p2SEJWU2VRdG5KYmxmd01ob05PQTJmSGwyRWdjUjVKcVFUQTZSV3pFZHgwRkszbGl0WV80QTVHRTJ6aV8tM3NsRGRzYWYyXzk5LW5fRWtLOUlGVTZabE9SbmlBR3FmRng0aWhUWGk3Ulk?oc=5",
       "domain": "The Economic Times",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1Q3blNoSGRqN0NKbTNDUnQ2SzlEeGdiUEZoaWZrUW1LZThsSFJ6Z19pYkgzMG1WWmpDVFJFQS0xWTJGMFRlNjRLVm9fUzV3LUFXT2tGNWpnMno1V0d6czBGODlZTnFXS0xoVzBQU3M3alAtOTNNemlsZUdEY3h1VzY1ZUNoSTNzc040amdQTHVyTW4zekVlUV9DVU05eFdOUG9VRzg2R1QxbWFJNHVJRU1Kd3dMeVJVVTFsTXppRVA?oc=5",
+      "date": "2026-04-18",
+      "name": null,
+      "location": null,
+      "title": "Unknown Gunmen Attacks Expose Internal Terror Power Struggle Inside Pakistan Networks Watch here ⏬| Nalin Mehta https://lnkd.in/dV3vpG-2 - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1Q3blNoSGRqN0NKbTNDUnQ2SzlEeGdiUEZoaWZrUW1LZThsSFJ6Z19pYkgzMG1WWmpDVFJFQS0xWTJGMFRlNjRLVm9fUzV3LUFXT2tGNWpnMno1V0d6czBGODlZTnFXS0xoVzBQU3M3alAtOTNNemlsZUdEY3h1VzY1ZUNoSTNzc040amdQTHVyTW4zekVlUV9DVU05eFdOUG9VRzg2R1QxbWFJNHVJRU1Kd3dMeVJVVTFsTXppRVA?oc=5",
+      "domain": "LinkedIn",
       "source_country": null,
       "language": "en"
     },
@@ -242,6 +253,17 @@
       "title": "Pakistan's 'Unknown Gunmen' Strike Again | LeT Admits 30 Terrorists Killed - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTdNVTVkU3diSWVXUEVhWVlQWmxYT21ZRW9kQ05pMm9haWhELVdkazlBUWxyOUNCcGxXemJyZVhBVHhaOGtURFV2ODk1UjVTcVF4SjROWld6RWRkSmQxOXV1dUlGT205cHBqZ1hDMGk5dTFoa0ZaX3dMY18zWWg2UDZZaDZyOC1GR202UWx4b2F4UWo3NkN2YWhjTlRtRWgydW9jYUFid09zOGpieDY3ZVV3SWZmeUZWWElpeXVLeU5fbG54Z3cwSWhn0gHPAUFVX3lxTE45YTlpbjR5cUFrd3hxUkQ0Rm1uVFpCTmFSMnFMRElvNWx3UERsYnM1UUFHTDRlemFZbnhfcXdId19uVDhFUEZ4cU5uWEw1QkpzaTBTZ2lzQm5naHVLTDZMdHgwNWFZWEdmbFVWRXlTVWI4Mm5HM0MxSVZRZzc5bl93Tmp4bnRkTDI3d0NyY1BBbjMyQ3lrTmpmdTc5bkJMSnhnWnBmN2NuZDl6MGVLSlBWalZ1N2NfTF9PQnl6bGpDWGthTkdaNmtpcW1zbEVEMA?oc=5",
       "domain": "Firstpost",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0VWTkREbHNEcUh1cmNYQ1R6Yk5vM2Q0ZG14Y1B5dV9HbXFNZzRDN1NsTlZwcWJ2Q0k0cGV1SEltbzhnNlQ2MENzQXd5b2F3Y0JFRlJITlpOUnpfQng3UE04WkRXR2pSZGxlYnBqc2h6V0VsNmRfRzNHYmtEZTM5MU5FNFNCa3BpdV83bEhUTzhzSktVZmJCQUpzSU5uM01fSDJjY2dPalZta1B1ald2UUdfNE9CUQ?oc=5",
+      "date": "2026-08-05",
+      "name": null,
+      "location": null,
+      "title": "Lashkar Operative Claims Over 30 Members Killed by ‘Unknown Gunmen’ in Pakistan - SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0VWTkREbHNEcUh1cmNYQ1R6Yk5vM2Q0ZG14Y1B5dV9HbXFNZzRDN1NsTlZwcWJ2Q0k0cGV1SEltbzhnNlQ2MENzQXd5b2F3Y0JFRlJITlpOUnpfQng3UE04WkRXR2pSZGxlYnBqc2h6V0VsNmRfRzNHYmtEZTM5MU5FNFNCa3BpdV83bEhUTzhzSktVZmJCQUpzSU5uM01fSDJjY2dPalZta1B1ald2UUdfNE9CUQ?oc=5",
+      "domain": "SSBCrack",
       "source_country": null,
       "language": "en"
     },
