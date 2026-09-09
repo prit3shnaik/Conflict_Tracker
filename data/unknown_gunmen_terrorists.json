@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUERDTWdfcmcyazFyNHQtbm9uTDlsTnpQd09iTy1lenFqNk1lVjVnTjBJejlLd2l0MFc1emRfVHNvQl9iWHZNbm1MN2dHUEw2cWpaX3dGWXhkVVpJNlJTMWlqU1dMd2RpdVdBbFRMRjYxOFZfMENIbzJGTFpaZlE2bkcwNldTenRvT3dxMUp0alA4TlNrQjIyTUJwVFFXY3FtenhfX3U3NXZYR0lnQ2xzWHB3UHRZVlJZ0gG_AUFVX3lxTE5hRW9DV3F0TnJpNG15WGt4S2d6VS1NZXlFeUNtUk5XcVR4ZkpaQU5kWkZmVDFZT092Q3FRRGt0LTlhUHRCNjJxN2duSm9HRVFrVjJiTkNieGowNTdqaElfVlZJMUtGd2pFTFFuSjZ4cWRQMWszalU4LXVzNUtlTkpYRDhuY055aVpnOEhDRzdQMUhDUGh3MGt6RHZNOEw3NUlSbkVJLWNpNnBYdkhXdGhjRW5xMDBmYkEzTkJmejlJ?oc=5",
@@ -77,6 +77,17 @@
       "title": "From IC-814 hijacker to LeT leaders: How terrorists are being eliminated by ‘unknown gunmen’ in... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWkNFcDV2elFFM3VXcUtwRko0RHhua25FcHpLazdpeGprMWFPRTlCamJjUGlqaTg3dGNRRGVyQ1pGaC1xaWpYQWpiOGdSNzVXWlJTaTJ0WjNHSXk0S3Raa0N1bF9wTDc2blRILWhzNHp1dHQ1TmYwSC0tcmNlWVBKNkhLc1pqd29ITUlKTmxSc0xVeGVpX2NnakUtSFpwTXNGNG5BamRTVVQtTlIyTnFEUTZXdjh5ZHZNVDVxdEpGQ1F0NzlqZlJmanllcDQtVVJVam00U0pKQTBSMU5tbmVlWEM5a3hrZ1NCUzI4V3RVZ9IB9AFBVV95cUxQa3c3cUtVd2ZJR0lBLTk3d1FsV3UyaGE3SGdGbkd4UFBUdE5NWXNrcHpNWUxMcVJ1bGJmMEcyTF9PNTFsU1M1UW5LeXhZNk1NY1djUW1fYVFoekRfQmtuS1I0Ykphcm9rT2pnczVzQ1VHZHo1alMzWlFKckNyR0tENWhnd1FnVm9IdEdHRzAtQ1o0aFRjeXJHVV81R1RnQ0wwOFg1NkViZzdmS1dSb0U5cFNMQ3k1RXZsMkNYVHBYWFlmNjRpVWZ4ZEtqWmhBS181OWsxalhhN1p0V0wwb1FsOXJTRDlkbnN6VE5ldTROT2pfanhi?oc=5",
       "domain": "Moneycontrol.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2FvZE5rS2Vfcjl4QWxjWW9aZVhySkttUU5wZlhlb1hhd2VzeVZpNDVTTTVoUVRRWUJsc3BzSUFramJCQ2N6OTF0d05NYzhDdVFaM2gyN1hyRTZTcS1PaEpwZkxYQXFod2tvbUxIVDBEb1hmdkZZTm9zY05uZnlmSnBvNzVHZ1YtU3UtOGlHMXljNnNMQlJVRWQzUWxJQjhiOTJv0gGoAUFVX3lxTE9RU2NxSFBLVGNTNjVsazhVQ0RIdndMWVkzMGNabVpCTWtxMVV1c2hmcHkzY0x2QnR3c1h6VjItNThCTUdtS20xZE1lcG85aFNuZmxXUjFsTnh3aTJtT3JaYXFyVjJnUVFNZ1p5aHBnOGFfMk5ueTlxTDZKQzh2ZWlvem9lZnhaNUxFMDBjQkZhdU5GM2FoTTR4RTN6Z3ptX3h0TzBLNnhyYg?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Who is Amir Hamza, Lashkar co-founder, critical after being shot at in Pakistan? - firstpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2FvZE5rS2Vfcjl4QWxjWW9aZVhySkttUU5wZlhlb1hhd2VzeVZpNDVTTTVoUVRRWUJsc3BzSUFramJCQ2N6OTF0d05NYzhDdVFaM2gyN1hyRTZTcS1PaEpwZkxYQXFod2tvbUxIVDBEb1hmdkZZTm9zY05uZnlmSnBvNzVHZ1YtU3UtOGlHMXljNnNMQlJVRWQzUWxJQjhiOTJv0gGoAUFVX3lxTE9RU2NxSFBLVGNTNjVsazhVQ0RIdndMWVkzMGNabVpCTWtxMVV1c2hmcHkzY0x2QnR3c1h6VjItNThCTUdtS20xZE1lcG85aFNuZmxXUjFsTnh3aTJtT3JaYXFyVjJnUVFNZ1p5aHBnOGFfMk5ueTlxTDZKQzh2ZWlvem9lZnhaNUxFMDBjQkZhdU5GM2FoTTR4RTN6Z3ptX3h0TzBLNnhyYg?oc=5",
+      "domain": "firstpost.com",
       "source_country": null,
       "language": "en"
     },
@@ -235,6 +246,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbG1YMFh6cEFfX0d5dmNHYkNsb19mb0NwbUNoMTlwcUtlSzNEMkl5aWpETDRXWlFNcDhad3VJamhzR0lpZlQyb0pWUUkwa2s0MGtEUDB4ZGV1THpCQjFwX1U4dlUySzlCUnVCLTZzaUt1Ql9BT0ltU1NoVFZ5SHMxNG92V0RrWmtnc09wcnhRTGFpZUk5bzltUWowRDJ2UlVCMnVXMzdEelRCd9IBrwFBVV95cUxQc0lVUUdPZFhjX3VKdEtGLUlqTjZIdGZaX2M4QWFvYlJWNnZWbzRiTFNORnBSOHNFVVc2S01TRC1ES0VhZEViU3FxQ2p3OWduSFFuT0JsR1V0M3BjU0lvaF96cWR0Z1N4aVBsZmpuMExGV242aUxWcDJyRW9taXQzOWRxZzJaQjFMTXVlMjBUSDBPQlktcl9XYVMyNGFVa1pnS3BtNjhPNElRQjJhdEVB?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "Top LeT operative admits 30 terrorists in Pakistan killed in Dhurandhar-style shootings - theweek.in",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbG1YMFh6cEFfX0d5dmNHYkNsb19mb0NwbUNoMTlwcUtlSzNEMkl5aWpETDRXWlFNcDhad3VJamhzR0lpZlQyb0pWUUkwa2s0MGtEUDB4ZGV1THpCQjFwX1U4dlUySzlCUnVCLTZzaUt1Ql9BT0ltU1NoVFZ5SHMxNG92V0RrWmtnc09wcnhRTGFpZUk5bzltUWowRDJ2UlVCMnVXMzdEelRCd9IBrwFBVV95cUxQc0lVUUdPZFhjX3VKdEtGLUlqTjZIdGZaX2M4QWFvYlJWNnZWbzRiTFNORnBSOHNFVVc2S01TRC1ES0VhZEViU3FxQ2p3OWduSFFuT0JsR1V0M3BjU0lvaF96cWR0Z1N4aVBsZmpuMExGV242aUxWcDJyRW9taXQzOWRxZzJaQjFMTXVlMjBUSDBPQlktcl9XYVMyNGFVa1pnS3BtNjhPNElRQjJhdEVB?oc=5",
+      "domain": "theweek.in",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjJ0SEdaZUx2LU9oTE94RGY1aFc3QngtS2Q3WnROV3czSzJyMHo1VDhLNDB3UHRKQVRDX2RRam4zYlVqVmdQakNSM29YdTRqSkFnZkhWTGR3OWJJMVE5anllcW9lYllkZDQ1Tkl6NTFDQkpqVjJLcjh1YnR1TDhPdm5HZS03Zkl6Si1idk4zY1gzWmJXTU9oSjNULTRBb3RGaEZkRFlHOA?oc=5",
       "date": "2026-08-04",
       "name": null,
@@ -242,6 +264,17 @@
       "title": "Lashkar terrorist admits over 30 operatives killed by ‘unknown gunmen’ in Pakistan - PGurus",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjJ0SEdaZUx2LU9oTE94RGY1aFc3QngtS2Q3WnROV3czSzJyMHo1VDhLNDB3UHRKQVRDX2RRam4zYlVqVmdQakNSM29YdTRqSkFnZkhWTGR3OWJJMVE5anllcW9lYllkZDQ1Tkl6NTFDQkpqVjJLcjh1YnR1TDhPdm5HZS03Zkl6Si1idk4zY1gzWmJXTU9oSjNULTRBb3RGaEZkRFlHOA?oc=5",
       "domain": "PGurus",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOVhYSk5UaHRsbDhzTFIxU3Q0Mnk0YThaUmtobVBqSnBsSm9xNXdObEUwSWFHQVkxU3FXSXhmamJaZDJHdkxaMC1FM3p2NnFrSWdLR2E4dGZlXzdlV0hPWkRVMDZRV2RMZHBJWEhqOTNnNFdYenBOUHVOWG5SUFU1TVlEOWhSUXF6ekdWVUxPWlFxd0x5N0NQcmdjZWczX3dKOHlSdmJVd2M5bEZyRGRFR2tzcG1fUzJuYkxxYU5oYzlTekVseFdCX2hZU0hMcU9QcUNSN2FPV3VkV1lYRUhFNGMydmpyVzNSUlItelQtaWlwZ1J3U0hmMlllXzhCcV9rQ1QxejNQR1ZCQTVlYk5zVWdIcWdGbTU1RmNZT9IBogJBVV95cUxPbzBISnBEMnVfVkhyVHA1MkpOWGt6WTNuWkxXejdoZWF0ekFKZ3NGOE10Y3JFZm52eHdUVjRqMmQ1OEVyeVduclhKM1hidmpHWFVCbXlJOFc5ZFlCVVRURmUwWVRHdDg3aURZeXltLUhJSjhpdEVYN2FiVXJpLXJmbkVDYnp2cVpnOUhFZnowUjQxTUNUZmVUV01yNVZ1RnFKMHQ3N1JXY2VHTTFiZDB0bkdhb1pZN1JFWjRXaEZhUEtxeU1kcjd1czdGSFd3Vmx6Vldndnl4Tms4VGRBb0JPVHducG1IRFV1UEVIeUR3aVBiSTllZnNLd3FTbjJ0VXRWcEJtdUlBcDd4bDlOZDBYY1V4REVQUzJFbHo0NTBwQjBxQQ?oc=5",
+      "date": "2026-08-04",
+      "name": null,
+      "location": null,
+      "title": "'Over 30 members killed by 'unknown gunmen'': Top LeT terrorist makes big admission on camera, blames Indian - India.com",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOVhYSk5UaHRsbDhzTFIxU3Q0Mnk0YThaUmtobVBqSnBsSm9xNXdObEUwSWFHQVkxU3FXSXhmamJaZDJHdkxaMC1FM3p2NnFrSWdLR2E4dGZlXzdlV0hPWkRVMDZRV2RMZHBJWEhqOTNnNFdYenBOUHVOWG5SUFU1TVlEOWhSUXF6ekdWVUxPWlFxd0x5N0NQcmdjZWczX3dKOHlSdmJVd2M5bEZyRGRFR2tzcG1fUzJuYkxxYU5oYzlTekVseFdCX2hZU0hMcU9QcUNSN2FPV3VkV1lYRUhFNGMydmpyVzNSUlItelQtaWlwZ1J3U0hmMlllXzhCcV9rQ1QxejNQR1ZCQTVlYk5zVWdIcWdGbTU1RmNZT9IBogJBVV95cUxPbzBISnBEMnVfVkhyVHA1MkpOWGt6WTNuWkxXejdoZWF0ekFKZ3NGOE10Y3JFZm52eHdUVjRqMmQ1OEVyeVduclhKM1hidmpHWFVCbXlJOFc5ZFlCVVRURmUwWVRHdDg3aURZeXltLUhJSjhpdEVYN2FiVXJpLXJmbkVDYnp2cVpnOUhFZnowUjQxTUNUZmVUV01yNVZ1RnFKMHQ3N1JXY2VHTTFiZDB0bkdhb1pZN1JFWjRXaEZhUEtxeU1kcjd1czdGSFd3Vmx6Vldndnl4Tms4VGRBb0JPVHducG1IRFV1UEVIeUR3aVBiSTllZnNLd3FTbjJ0VXRWcEJtdUlBcDd4bDlOZDBYY1V4REVQUzJFbHo0NTBwQjBxQQ?oc=5",
+      "domain": "India.com",
       "source_country": null,
       "language": "en"
     },

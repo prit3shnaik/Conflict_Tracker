@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
@@ -726,6 +726,17 @@
       "title": "Pakistan: Gunmen Ambush Police Convoy, Kill Two Suspects - rediff.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2ZFcmZCSS1HdUxPYlMtejlFM19jQmtESlIzWDdaQS1DYmh3QnJrZGlXT0pyYkRBTnNhTjR3NUVJSzcxM3NQSG9OaXlVWDVxa0NJS1BwYUNGQXRBcml2UW1jUWxxYnlYeklwLV9teko3XzBJU1I3ZlV3UUpMaG82THBEYVhmU2JuOW1xUkhiQnlwVDE1QzBucU5nNTYwMmRodFZLYnd3MNIBqgFBVV95cUxNTGhEWDRvZi1zbG4zLWt2VVZCT2s0bzRISDF0RjVQTU1sNXpVdVdDQ1A5cTBtVmhReDM0TFFHUTlyVzEzbk5ILW5CTF80dW1CdkpGR0xubkVrT2UxUUtqb2FWT0xJcTdQYU5rYzRXbjdseGl2WVFDRXd3dWFoOTg4bXJZOVBaSjR2WGNmNlI1Z1A2UnQxd3RJQlRLU1RybDhiTTFaTVFqNXNPQQ?oc=5",
       "domain": "rediff.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVW51aklNTEF2eDRJQWEzV2tmZUlLZ25ab1hsdlRieHYzQ2p0cXZqY1R4RlotQ01QbmktdFJBRTZ1VmRGY1JXTEEtaHBPZ21CVmRLZi1TRzBNSDk0Q2J5clBuNGptMHY0TV9EOWoxbXROcmJfUUFqdk10bnNVRjhrV0toZ0lXQkpCUTVHQ2NnUDRnM2N5VmFCSUFWSGZVX0RHU1dzNXRQbk1iZDQycEHSAbsBQVVfeXFMTXcydmtZY2pBRE5rcjVxTGh2QUdIOEQ1NDd1MUdFQlFlQnV1UE9YV0N2Rk1KSkJkSVcyb1psbkxIbXphZVNVUldFOE8zam9UY2F3cnc2dWlkNEEwMGwtZlNzWGZJTU9jcnpCeDJ0el82RjlMeGI0Y3hia0lKdkRVb1VNR25rWnhrcWsyQVNnZDA3WVBlSE1FX0VtVTlpbVZtMUZpUl9PS3NOdlBXemlhT1JOT29qZmJOYTN5VQ?oc=5",
+      "date": "2026-06-18",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen kill police constable in Pakistan's KPK - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVW51aklNTEF2eDRJQWEzV2tmZUlLZ25ab1hsdlRieHYzQ2p0cXZqY1R4RlotQ01QbmktdFJBRTZ1VmRGY1JXTEEtaHBPZ21CVmRLZi1TRzBNSDk0Q2J5clBuNGptMHY0TV9EOWoxbXROcmJfUUFqdk10bnNVRjhrV0toZ0lXQkpCUTVHQ2NnUDRnM2N5VmFCSUFWSGZVX0RHU1dzNXRQbk1iZDQycEHSAbsBQVVfeXFMTXcydmtZY2pBRE5rcjVxTGh2QUdIOEQ1NDd1MUdFQlFlQnV1UE9YV0N2Rk1KSkJkSVcyb1psbkxIbXphZVNVUldFOE8zam9UY2F3cnc2dWlkNEEwMGwtZlNzWGZJTU9jcnpCeDJ0el82RjlMeGI0Y3hia0lKdkRVb1VNR25rWnhrcWsyQVNnZDA3WVBlSE1FX0VtVTlpbVZtMUZpUl9PS3NOdlBXemlhT1JOT29qZmJOYTN5VQ?oc=5",
+      "domain": "The New Indian Express",
       "source_country": null,
       "language": "en"
     },
