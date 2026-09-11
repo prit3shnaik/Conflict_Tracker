@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
@@ -37,6 +37,28 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZktWU1k5c1o1N29reFZKamhmT1kxdXRoZml1LTV6dlFCRXNjU1NVdnVrNnRjNEJ6NzdCd1AxTXNkS0E1Qm1KVtIBTkFVX3lxTE01Y3J4VjFwVWxFaUlTMzlXSUYzVWo0S3FiV1RTLVFrelNmQTl3bUxTT3ctbGoxQzROSmpXSmU5SmYyZnlOb1VVaUcyaFoyUQ?oc=5",
+      "date": "2025-10-08",
+      "name": null,
+      "location": null,
+      "title": "Ghotki journalist Tufail Rind shot dead by unknown assailants in presence of his children: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZktWU1k5c1o1N29reFZKamhmT1kxdXRoZml1LTV6dlFCRXNjU1NVdnVrNnRjNEJ6NzdCd1AxTXNkS0E1Qm1KVtIBTkFVX3lxTE01Y3J4VjFwVWxFaUlTMzlXSUYzVWo0S3FiV1RTLVFrelNmQTl3bUxTT3ctbGoxQzROSmpXSmU5SmYyZnlOb1VVaUcyaFoyUQ?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRW5HczR0blZ0TE8yeFZ6THNUMEE2a29XaFR0Y3Z3dzc4NFNlbmlFWjQ0TWFDWDl0X29GZzVfMnJzcVVoMC1JbUdGYVpJc2JsVEQ2Q20yU0lZSlBwdlVLUHpycThWVEpSV3I0bWNWam52YlZyWXJ3UXY5YzRhVXNOQjFfLVpqNG5vS0U5NDRTSnJGODlISGZwMmZEX0ttaWY5dk5YekVRSUo3OHRwR3JXMEh0UWxBenFfVVhHTDdzUkpGTHk0STVfaDRIZTZkaGd2Ujl0adIB2wFBVV95cUxNMlBUeEY2aGpueUxqQVE2SnMyNGVmdVpaQlp4MDFjNnYyR3d1emhIWUFKUHR0aTVZNUw1OUNpUlpRVnRJVy1yQUVpZmVBS3EzNF85ZXZ5d0pFRzk2LUZsMGVyNDNPWUdqTnVtOVYyTnduX0FWRE5TbFNfNDZWTkdtdUhPRFlCVlhQUjB1UWh0b3hHRmU2N2RoOUoybzd5WE5HdGZCMWthR2xDSm51N2JwMzRSbkRPZ1FfdDhGWFh1M0FKc1NraGkzM2V3MFdXRGx0TnVPR3VxcXQwOUE?oc=5",
+      "date": "2025-10-14",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen kill security official guarding polio team in Pakistan - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRW5HczR0blZ0TE8yeFZ6THNUMEE2a29XaFR0Y3Z3dzc4NFNlbmlFWjQ0TWFDWDl0X29GZzVfMnJzcVVoMC1JbUdGYVpJc2JsVEQ2Q20yU0lZSlBwdlVLUHpycThWVEpSV3I0bWNWam52YlZyWXJ3UXY5YzRhVXNOQjFfLVpqNG5vS0U5NDRTSnJGODlISGZwMmZEX0ttaWY5dk5YekVRSUo3OHRwR3JXMEh0UWxBenFfVVhHTDdzUkpGTHk0STVfaDRIZTZkaGd2Ujl0adIB2wFBVV95cUxNMlBUeEY2aGpueUxqQVE2SnMyNGVmdVpaQlp4MDFjNnYyR3d1emhIWUFKUHR0aTVZNUw1OUNpUlpRVnRJVy1yQUVpZmVBS3EzNF85ZXZ5d0pFRzk2LUZsMGVyNDNPWUdqTnVtOVYyTnduX0FWRE5TbFNfNDZWTkdtdUhPRFlCVlhQUjB1UWh0b3hHRmU2N2RoOUoybzd5WE5HdGZCMWthR2xDSm51N2JwMzRSbkRPZ1FfdDhGWFh1M0FKc1NraGkzM2V3MFdXRGx0TnVPR3VxcXQwOUE?oc=5",
+      "domain": "The Hindu",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPck9VRDJYbXFobEF4MFZaTk5jMVBpT1RCYnJwbFZCUzlzWV9rakdLdjJYSmdmanI4dUo1ay1CdVE2a2E1MWk4ZWV1OHhlTkNYV2VTYnc3alVUYzYtLWtsd0g3OVF4b3ZScWFtMUw2SU9BU0JnUnQ1MVJCeXNHWTNVY21lNUJmbmlrbEJJZEp0Q2k2THIzaFh5TDFmd3gzWG1GMnI3TTF0b9IBVkFVX3lxTE4wTWxlYWtiYWZIN2JhenJOX1NXYmxXX2ltVUFraW1PbWdUMnhDM2xBdDBRNGEyOWpodkx5LVkxRm1QYXlWTXF1NGEzYWxSeklYMFVRcGxn?oc=5",
       "date": "2025-10-19",
       "name": null,
@@ -48,6 +70,28 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnNHSldfTlZWTlNVRVp1bGlEY05KOUtKSFdaSU1DckRCNG9uMDZ4NWM4UFd2Y0ZQS094ZGZta3NNMGhkdnBlQ19zTzdpSnlBMmxMbTM1QjlqZlcxVm9WNUxKcUNxOWVMV1UwMC1Mbk5MVGY3cnRZTVhsMmZSMFdSTnBycVNlZnJfVDJHVnR6RHROeWw0Z1NaNHZLdlJtWmNrejMwTGZQVHdhNVRfb3JNbV9ZTUdOVm5kMmMyakY4dTV4Vm00ZERHaE8tTzlJZw?oc=5",
+      "date": "2025-11-24",
+      "name": null,
+      "location": null,
+      "title": "3 security personnel killed after unidentified gunmen attack Frontier Constabulary Headquarters in Pakistan - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnNHSldfTlZWTlNVRVp1bGlEY05KOUtKSFdaSU1DckRCNG9uMDZ4NWM4UFd2Y0ZQS094ZGZta3NNMGhkdnBlQ19zTzdpSnlBMmxMbTM1QjlqZlcxVm9WNUxKcUNxOWVMV1UwMC1Mbk5MVGY3cnRZTVhsMmZSMFdSTnBycVNlZnJfVDJHVnR6RHROeWw0Z1NaNHZLdlJtWmNrejMwTGZQVHdhNVRfb3JNbV9ZTUdOVm5kMmMyakY4dTV4Vm00ZERHaE8tTzlJZw?oc=5",
+      "domain": "News On AIR",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjVQQVZCVTlmTS00TVFxbnR4YzBBU2l0WUFqX0tkX2JOTmdpRjByREdqTjg4M1VDeW02b0tJdk15Q3VfLWJfT1NtazZKR0RyczdIS2g0ckxiLWFxOVFHSjY1RHB0WDF0N1BLMXpzdjJtdkowdXFPbWNhU0UzQ3o5SDZxQzJSRGxmX19QcEVpMWkxODNya2dodE9fR3ppb0pyTXE5Y21zUGVzemtod3U0Nk1jVDhFeFh6ZUdkQnZPQzVxd9IByAFBVV95cUxOWTU5REJ6SG1neVAzMnpERTVVMTJoYlRHQUR4R21Ha3g1MHZBaUYwczdocHc0TF9SdTFUMUh2Mzk5MGhkd3hadTJiY0FseW1oS3VzTG9zelhCTUpPSzJqQmpOZURreEJVRnk2a25kT3llVXNqcVhIT1JyaTdlb2NnN3NUQkg1MDFpU2hwSEpCM2tkRGN4TEJoaHBlcVlvMGhKa1lPT1lfd2hta0hYMThkRVJqVlQ5ZFZrenktRVhZYUlYVDNtMUlfMw?oc=5",
+      "date": "2026-01-13",
+      "name": null,
+      "location": null,
+      "title": "Four peace committee members shot dead in northwest Pakistan - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjVQQVZCVTlmTS00TVFxbnR4YzBBU2l0WUFqX0tkX2JOTmdpRjByREdqTjg4M1VDeW02b0tJdk15Q3VfLWJfT1NtazZKR0RyczdIS2g0ckxiLWFxOVFHSjY1RHB0WDF0N1BLMXpzdjJtdkowdXFPbWNhU0UzQ3o5SDZxQzJSRGxmX19QcEVpMWkxODNya2dodE9fR3ppb0pyTXE5Y21zUGVzemtod3U0Nk1jVDhFeFh6ZUdkQnZPQzVxd9IByAFBVV95cUxOWTU5REJ6SG1neVAzMnpERTVVMTJoYlRHQUR4R21Ha3g1MHZBaUYwczdocHc0TF9SdTFUMUh2Mzk5MGhkd3hadTJiY0FseW1oS3VzTG9zelhCTUpPSzJqQmpOZURreEJVRnk2a25kT3llVXNqcVhIT1JyaTdlb2NnN3NUQkg1MDFpU2hwSEpCM2tkRGN4TEJoaHBlcVlvMGhKa1lPT1lfd2hta0hYMThkRVJqVlQ5ZFZrenktRVhZYUlYVDNtMUlfMw?oc=5",
+      "domain": "The Hindu",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UWFpRekFMaU85Qjh0dlZYVGtLOTF0eTl0QncwaEgyaFNwRU1NQU9GMkhJaFBHa1h2SUpsb3loY0xFWG90Wm5acdIBTkFVX3lxTFBXcDJwS0tYckQtZFp4ZV9aMzI0WnRHdUl4Q2NkelpSU243QndPVE1Oek8xWEp4dXBfeEFSQjgwZXVkSmtfZmJqRFFJRlRqUQ?oc=5",
       "date": "2026-01-21",
       "name": null,
@@ -55,6 +99,17 @@
       "title": "Unidentified assailants hurl hand grenade on KP minister’s residence in Swat - dawn.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UWFpRekFMaU85Qjh0dlZYVGtLOTF0eTl0QncwaEgyaFNwRU1NQU9GMkhJaFBHa1h2SUpsb3loY0xFWG90Wm5acdIBTkFVX3lxTFBXcDJwS0tYckQtZFp4ZV9aMzI0WnRHdUl4Q2NkelpSU243QndPVE1Oek8xWEp4dXBfeEFSQjgwZXVkSmtfZmJqRFFJRlRqUQ?oc=5",
       "domain": "dawn.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXMyMlBsZS1sN2tBSTVwelppX3hjdXFiNkJqT3NSbkFQY1pPNTlqVmhOR0c4enRFSVZkdG4ySjN3QWUtMTRIaFRLMkFXMVNtTHI1blpEWDFIenplS2NIbE56VXFYazhZQUpIczNuNWpkZGFSTnNiSUUydml2djVBX3dlZzNMeTVmbHZmcVVDX295ejRLRkV5SFcxWmFCRXdSVnVUZ3NDMA?oc=5",
+      "date": "2026-02-03",
+      "name": null,
+      "location": null,
+      "title": "Pakistani Army Officer Linked to Pahalgam Attack Shot Dead by unidentified gunmen - Diya TV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXMyMlBsZS1sN2tBSTVwelppX3hjdXFiNkJqT3NSbkFQY1pPNTlqVmhOR0c4enRFSVZkdG4ySjN3QWUtMTRIaFRLMkFXMVNtTHI1blpEWDFIenplS2NIbE56VXFYazhZQUpIczNuNWpkZGFSTnNiSUUydml2djVBX3dlZzNMeTVmbHZmcVVDX295ejRLRkV5SFcxWmFCRXdSVnVUZ3NDMA?oc=5",
+      "domain": "Diya TV",
       "source_country": null,
       "language": "en"
     },
@@ -308,6 +363,17 @@
       "title": "Unidentified gunmen kill LeT's Sheikh Yousaf Afridi, Hafiz Saeed's close aide in Pakistan's KPK | World News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcWJZQ3hsd0lwTjdHRGpZdy1hWnM1SkVyVlNPLURfSXFMdGxKNkd3NEpsRGhfOThCdy1uazhfSWV0cnl3VjhIWHd0dmZiUnNLLWk1amwtZHNBSkRYSVJTVHRxeHVSMUs2NGtYWVlTX2lVc3YxeEdlME9XZUhGNkZrWHVhU1RmbzlRSHJpTV9VVEhCMXJpMDk5d1hqLVh6ZEhPUngzU2ZZQ2FuYmZyTmFYbVB5Qlg2dFB4bzlVU25wdG5ITS1yMVZLVGFlcXJSLUFZUENxd2ZjTWt6R3BWOEhvSkJJWFY1TlRXQ0HSAe8BQVVfeXFMUFVXdEdEN1Vya3FKSjI3TE85Q3A5V2JYYzNqNUk5a0REeElDcVFiUHQ4ZHVwb2plbk56YjktSGlxUU1Eb19LSjNBQ01mcGx6T2JkSUlSdnY4QTdVOWNWaEYxTWxOeGpINEZPaHhZTkJpcXNNeENKY1RycnU4d0FMZXFDM045LVp4TmRYTVAwNk1qVGRzZm0zTC1MRndVeld4c3JNZHVMMlhZeGV2bEROUUl5ZGZ2ZDJUYXNpOWhDNFVCX21zMkxHRlRKNS1PVVpNVFM1OXMySDdlWnhIUnZRS211VTUtZktfX2hiaGw3UDQ?oc=5",
       "domain": "Hindustan Times",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2o1OFFlRTJNRW1MQ2tUNkZSYy15ZGF0V3dnS0dJdHhZbEROVWlNeEd4UXpMRE1kVjdfNWhSRUtsYm1rQTJwb0VzckhMWkhlWGlJZHNqR2RlODJQZG93dmc0aHptNk9OYk1mblU3MENOejUwUERDMTBDWmN0WU8xU0pqOU5qam9GNHBQR3dBWDVpSzA?oc=5",
+      "date": "2026-04-27",
+      "name": null,
+      "location": null,
+      "title": "Top LeT Operative Shot Dead by Unidentified Gunmen in Pakistan - thenorthlines.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2o1OFFlRTJNRW1MQ2tUNkZSYy15ZGF0V3dnS0dJdHhZbEROVWlNeEd4UXpMRE1kVjdfNWhSRUtsYm1rQTJwb0VzckhMWkhlWGlJZHNqR2RlODJQZG93dmc0aHptNk9OYk1mblU3MENOejUwUERDMTBDWmN0WU8xU0pqOU5qam9GNHBQR3dBWDVpSzA?oc=5",
+      "domain": "thenorthlines.com",
       "source_country": null,
       "language": "en"
     },
@@ -693,6 +759,17 @@
       "title": "Pulwama Attack Mastermind Burhan Hamza Shot Dead By Unknown Men In PoJK - Daily Excelsior",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHkxMTk3SWZ6bWNoUDZST3VWQmJlcjVKMFY4dG43X1VDQUFZUXhKNnFxTGJVSm8xOG42ZE5LMTUxdGR2QnllcWxUWjd2a0gwZmJHQmFuNFhxUXlpeHl0UmhRZWpzMkg4LTRram9PeXhJOTZkQm1mNUFJdXpHWm9sZ1dObWwyTjBsd2VvZ3NMLXlrcVh1NnVXVHc4MEzSAaABQVVfeXFMT0RZMGhPUFJDYWJsSDBQRnRzMDhoZU80NkNEV2RJUWJMckVkWk41Ym9oUTFscFktM1VFdlk0dkkycHJMalA5dHJYV3poMUJCRW16Nl9zUnhRYW5BT2ZoWGMtNkw3OWlxSnQxcDhpeTV1NXZjWExWRFBIZDdhUUhjeTNCS2FMTzRtVXEzbDBXLXV4ZU1qX1BXR1laSFpUX25jaw?oc=5",
       "domain": "Daily Excelsior",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlNlbFl4THgxbGk3Y1Jid3cxallEd1pQbUtYYWFnLTIwMDZwUFd3WUNDX0tCTFg3NkFwVzJRUWNtRUh6LXFlWlpNZ3ZJVW9wS1h2UWd6WWl0cElWUy1rX2xPZjFtbV9FaW1RU2duamhVcHVtc3pSOEdYTFRWLUt0WlJRMmwyQ3JKdV80bXNIYzJxUlRlSDdjTW1LbUFCc09HRjZJbWlFWmMxbW1sYkJJRWJSSE9OTkxjSWxCRkpwQ2YtT0plaUo2ZlJJY1c0eUo4QUN0M0NURnXSAd8BQVVfeXFMTWthRDZKVzhhVVlQdGRQbzVzNkkydnVmOTZIRm5ZeG5hSUY4bDBGQUNNeHBJaGl5NW1weW1KczN5Q0gtNVJybUtjM1FnQTY1aVJWMDNSWUVWcFdxTmVVcGR2RlJ3N1JKamw0RFRmSmtHb2MtdkloeEQyMXA1endmZUcxU0huTmFNQWNmWTBiRnk2REVtTkpiZjN3XzF4LWRySE5wLWdWb1NNVmJZSVJCdlRDNDhRZU5iTVo3ajYtancxem96YU1OTjd1enhkblJfeUFHYnBYcDdDNDNEYnJ2Yw?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Pulwama terror attack mastermind Hamza Burhan killed by unknown gunmen in PoK - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlNlbFl4THgxbGk3Y1Jid3cxallEd1pQbUtYYWFnLTIwMDZwUFd3WUNDX0tCTFg3NkFwVzJRUWNtRUh6LXFlWlpNZ3ZJVW9wS1h2UWd6WWl0cElWUy1rX2xPZjFtbV9FaW1RU2duamhVcHVtc3pSOEdYTFRWLUt0WlJRMmwyQ3JKdV80bXNIYzJxUlRlSDdjTW1LbUFCc09HRjZJbWlFWmMxbW1sYkJJRWJSSE9OTkxjSWxCRkpwQ2YtT0plaUo2ZlJJY1c0eUo4QUN0M0NURnXSAd8BQVVfeXFMTWthRDZKVzhhVVlQdGRQbzVzNkkydnVmOTZIRm5ZeG5hSUY4bDBGQUNNeHBJaGl5NW1weW1KczN5Q0gtNVJybUtjM1FnQTY1aVJWMDNSWUVWcFdxTmVVcGR2RlJ3N1JKamw0RFRmSmtHb2MtdkloeEQyMXA1endmZUcxU0huTmFNQWNmWTBiRnk2REVtTkpiZjN3XzF4LWRySE5wLWdWb1NNVmJZSVJCdlRDNDhRZU5iTVo3ajYtancxem96YU1OTjd1enhkblJfeUFHYnBYcDdDNDNEYnJ2Yw?oc=5",
+      "domain": "The Hindu",
       "source_country": null,
       "language": "en"
     },
