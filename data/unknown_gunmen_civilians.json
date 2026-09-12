@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
@@ -198,6 +198,17 @@
       "title": "At Least Four People Killed in Attack by Unidentified Gunmen in Quetta, Pakistan - kabulnow.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmdHN2FiVU5NVWVBRk5vbmhSRmhRbTdyd2RsZHlDRnA3cE9TQVlYNTg2T1JSSHNPaldYMGxzMkFpdUsxNGVYclZncHlqR0J3ZEg5bUtUc3NwNzVOc0RTYUdxZFo3X2pyOXY4eVZVX1RoSE5MeHRtVUJoZTBlSER3Wm54LTFqS3VvSGNHVEV4Q00wZzh6T3pfMmVkbDNvVUtTMllHMjdvV0tJRF9NSlE?oc=5",
       "domain": "kabulnow.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xa2VTbFZBRnpzOE9MTC12RXUxb3l1VjV0clZUb0RPd08zWGt5SC1lZVMydkliY2pic2MxMHZYQ1VMT0JVU2VfZEVxZG40YjF5N1ZKRjBR?oc=5",
+      "date": "2026-04-12",
+      "name": null,
+      "location": null,
+      "title": "Four Hazara Community Members Killed by Unknown Gunmen in Pakistan - 8AM Media",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xa2VTbFZBRnpzOE9MTC12RXUxb3l1VjV0clZUb0RPd08zWGt5SC1lZVMydkliY2pic2MxMHZYQ1VMT0JVU2VfZEVxZG40YjF5N1ZKRjBR?oc=5",
+      "domain": "8AM Media",
       "source_country": null,
       "language": "en"
     },
