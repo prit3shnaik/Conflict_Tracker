@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-14",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
@@ -264,6 +264,17 @@
       "title": "Top LeT operative admits 30 terrorists in Pakistan killed in Dhurandhar-style shootings - theweek.in",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbG1YMFh6cEFfX0d5dmNHYkNsb19mb0NwbUNoMTlwcUtlSzNEMkl5aWpETDRXWlFNcDhad3VJamhzR0lpZlQyb0pWUUkwa2s0MGtEUDB4ZGV1THpCQjFwX1U4dlUySzlCUnVCLTZzaUt1Ql9BT0ltU1NoVFZ5SHMxNG92V0RrWmtnc09wcnhRTGFpZUk5bzltUWowRDJ2UlVCMnVXMzdEelRCd9IBrwFBVV95cUxQc0lVUUdPZFhjX3VKdEtGLUlqTjZIdGZaX2M4QWFvYlJWNnZWbzRiTFNORnBSOHNFVVc2S01TRC1ES0VhZEViU3FxQ2p3OWduSFFuT0JsR1V0M3BjU0lvaF96cWR0Z1N4aVBsZmpuMExGV242aUxWcDJyRW9taXQzOWRxZzJaQjFMTXVlMjBUSDBPQlktcl9XYVMyNGFVa1pnS3BtNjhPNElRQjJhdEVB?oc=5",
       "domain": "theweek.in",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWNSdktMNlRkbkhjZW1QWVFrZW5mQkhXSHpxOEJPTW01ZVZlYkhwQ1ZtT19Ya1d0d0FwR0otSEx4clozNkQxUUtpNUp4YkJHdmt0cWNJZnRobU0yaE9CdFBiSFAyTW92SUlERFI3ZkhYOXRlWUlzYzZmeDdBSVdZNF8zNEdkMHp6UjBEeXlzMnhZSUNNTnZraTJOU3p6YzhDYjllMkdkN3JXSUFrOXhCVFE1Z0NINEQ0a1hWY3MtMEdtTWpUYTEyNm95TDZFVnZFcC1VelBSSDM0NF9hOUd3THdiNUhoS1E?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "LeT Terrorist Admits Over 30 Outfit Members Killed In Pakistan And PoK By 'Unknown Gunmen', Alleges India's Hand | Video | World News - News18",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWNSdktMNlRkbkhjZW1QWVFrZW5mQkhXSHpxOEJPTW01ZVZlYkhwQ1ZtT19Ya1d0d0FwR0otSEx4clozNkQxUUtpNUp4YkJHdmt0cWNJZnRobU0yaE9CdFBiSFAyTW92SUlERFI3ZkhYOXRlWUlzYzZmeDdBSVdZNF8zNEdkMHp6UjBEeXlzMnhZSUNNTnZraTJOU3p6YzhDYjllMkdkN3JXSUFrOXhCVFE1Z0NINEQ0a1hWY3MtMEdtTWpUYTEyNm95TDZFVnZFcC1VelBSSDM0NF9hOUd3THdiNUhoS1E?oc=5",
+      "domain": "News18",
       "source_country": null,
       "language": "en"
     },
