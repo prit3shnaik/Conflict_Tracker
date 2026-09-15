@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
@@ -785,6 +785,28 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMXZYTTdjLU43SVNuU3lhbDgweUd3c2l4WUhoNjYwRldHRkgwejg1NUlmbVlYVVYycnNKUWRDOTl4UnJVOTZ2NjJpWEw1M1VsYURCNFlTYkl3VC0yNkJsczNsbHdUQnJUUkhnYXZwNS1LbTBaMGh4UWhiVmFsZTNUU01la2hWc1ZjYURxOTdoVTZCcC11QndVMUxLZERRQWRsTVRnbHplSzRtVmYwMEJMYjBOcjhMV2laUFRSd2lHc0JNT2YxWHJhZW82cm55N3NCT0REc2FGNGs1d3RBTFNuc2J2TEVySTZSZmtaMXNoZl9Cdw?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Unidentified Gunmen Strike Again, Wanted Al-Badr Commander Shot Dead In PoK - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMXZYTTdjLU43SVNuU3lhbDgweUd3c2l4WUhoNjYwRldHRkgwejg1NUlmbVlYVVYycnNKUWRDOTl4UnJVOTZ2NjJpWEw1M1VsYURCNFlTYkl3VC0yNkJsczNsbHdUQnJUUkhnYXZwNS1LbTBaMGh4UWhiVmFsZTNUU01la2hWc1ZjYURxOTdoVTZCcC11QndVMUxLZERRQWRsTVRnbHplSzRtVmYwMEJMYjBOcjhMV2laUFRSd2lHc0JNT2YxWHJhZW82cm55N3NCT0REc2FGNGs1d3RBTFNuc2J2TEVySTZSZmtaMXNoZl9Cdw?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3BHckZ1dEhNRVdjc0hrR1g0RUhKcklxVDdQdDZ6dktmV0s4a3lzRGZ3eTA3c281U2hVTmRtcnRXZ0V2TmdaNG5JS19NUDJ3OVhLME82aEVtVEc3bjNPQV81Zl8zOF9pVkI2alpxR0VvQjZ2Q2wtdXRjWjEwRnJBdC1XNXRNLV82dFhhdE90bEp2UXNUYlg5VldORFp5ZU1DcFE1bzdnb09UMGxiQks5ajBjVUpPeklUZ2I5dA?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Pulwama Attack Mastermind Hamza Burhan Killed by Unknown Gunmen in PoK - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3BHckZ1dEhNRVdjc0hrR1g0RUhKcklxVDdQdDZ6dktmV0s4a3lzRGZ3eTA3c281U2hVTmRtcnRXZ0V2TmdaNG5JS19NUDJ3OVhLME82aEVtVEc3bjNPQV81Zl8zOF9pVkI2alpxR0VvQjZ2Q2wtdXRjWjEwRnJBdC1XNXRNLV82dFhhdE90bEp2UXNUYlg5VldORFp5ZU1DcFE1bzdnb09UMGxiQks5ajBjVUpPeklUZ2I5dA?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTW0xV1VCdTNjUHRLVzBIZ3IwVHdCZnlmUWtkSnRQZFVKMnBCdVRVc21VZVRodVlwR0ZoaWFPMEEzek9xNjNPZk1HU2hta2d2dHlkMklPT3Q3a05HdWZsYUVFek9rRjBNVGNfWENNSzMxMVdsME16LXJsaGktRnljTGtKQkQ0WUxjbTM2QVlWb2stSTJMY1pNd29jMTV4amFXWGdXYl9LenBvRXFqdE5PdmZCLWlHbVE?oc=5",
       "date": "2026-05-22",
       "name": null,
@@ -968,6 +990,17 @@
       "title": "FIR registered against unidentified assailants for killing Ahmadi community member in Mandi Bahauddin - dawn.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZTW9CWU9zY3FtUkN6U1R2bDNIRUt5WVhQclNHSm5WRy15c3ZZTVFPSG9GVzdMMzV2Nm5zWjloM0ZjMm9iRkRQNdIBTkFVX3lxTFBrTWp1N19XVl9nRllyLVFveExyV2RHcVZ0MjVvTXlHbDdkbUszSWZnLU55cVVfemRJV1BDMDJJcWowQXRtY0poTW5GV3FxUQ?oc=5",
       "domain": "dawn.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWlRbFp5emlhMjY0SXNVOFYxUzRfN1JNbWZrZVdoTjkzTVFyVGhjQTRsd0h5YmhVVGVTSXpObTQ2TWlhSmFna19nQ0N1NUNBTDE1NVJfWS12UjFDQ0dJZkF2bXRkdGRGWGh4UndHS0Rod2ZuNFZRZXdCb2syekRlX1RyNWZxRHA1N1VjVlloZE1IdEpoeXA0RDFVSmd2NUFMWS1tU1pyNDdydFBuNHB3X09Oc2JiOXhaYWlBcTVqZXYtb000VHd0LdIBzgFBVV95cUxPdXJoMkhDcTFSUFVpR2d3RHVvY3VDU2U5MFBsNV9OdzJEREhNVjF6TWllbVhRVGhCelVPcmVySVd4dXJVV3JMekwzczhoc3RNSkRndy02MnVCa0lhODY2QW91U21MVUJQRHNObGN5QkJ0UmdNWks0aVh3a3BaOTc4dmJiR00yZ0ZSRzBFRXRJc1JMWFhsNXdPYmRDSEdza3NHN0hQTnVrN1p3TTVfeS0wNVRLQXo5bkJSdkJDSVlTVDBmRU55ekxheF9jNDJFQQ?oc=5",
+      "date": "2026-09-14",
+      "name": null,
+      "location": null,
+      "title": "Senior Sunni cleric killed in Iran area near Pakistan - Al Arabiya English",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWlRbFp5emlhMjY0SXNVOFYxUzRfN1JNbWZrZVdoTjkzTVFyVGhjQTRsd0h5YmhVVGVTSXpObTQ2TWlhSmFna19nQ0N1NUNBTDE1NVJfWS12UjFDQ0dJZkF2bXRkdGRGWGh4UndHS0Rod2ZuNFZRZXdCb2syekRlX1RyNWZxRHA1N1VjVlloZE1IdEpoeXA0RDFVSmd2NUFMWS1tU1pyNDdydFBuNHB3X09Oc2JiOXhaYWlBcTVqZXYtb000VHd0LdIBzgFBVV95cUxPdXJoMkhDcTFSUFVpR2d3RHVvY3VDU2U5MFBsNV9OdzJEREhNVjF6TWllbVhRVGhCelVPcmVySVd4dXJVV3JMekwzczhoc3RNSkRndy02MnVCa0lhODY2QW91U21MVUJQRHNObGN5QkJ0UmdNWks0aVh3a3BaOTc4dmJiR00yZ0ZSRzBFRXRJc1JMWFhsNXdPYmRDSEdza3NHN0hQTnVrN1p3TTVfeS0wNVRLQXo5bkJSdkJDSVlTVDBmRU55ekxheF9jNDJFQQ?oc=5",
+      "domain": "Al Arabiya English",
       "source_country": null,
       "language": "en"
     }
