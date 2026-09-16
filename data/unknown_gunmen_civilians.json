@@ -1,8 +1,19 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "events": [
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
+      "date": "2023-12-03",
+      "name": null,
+      "location": null,
+      "title": "Eight bus passengers killed by unknown gunmen in northern Pakistan - arabnews.pk",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
+      "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
     {
       "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
       "date": "2024-02-01",
@@ -33,6 +44,28 @@
       "title": "Unidentified gunmen kill another policeman in restive Pakistani district of North Waziristan - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXB1RHM3QV96dFRkUjY1aUp6Ri1MeXJvbGlKRzJ2RGg5Y29VQXhHemgzZnJ3ZjFRY1BlbUE3cWdtLWZNeTVpYVdtV0lNRXZjVFl2R3VoYW9zbzJpWUN5MkhxdUdCLWJ5VV9MLTRhNENjeG9GSTFaUGFjSEM5QzhXUmlxc0pDaXhjOFpZQXd6dUJaMzhGenFPbHFMeHBZeUptd1NJWHVSdFB2NkVhQ3RkcGVTeVFYRmlXdkdib3N2UldQSHZSUWpCZmdJRks3QQ?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazBEZFVRa2wtcUt2WWp0MmtxbWR3Mnh4UmU0R0k3ODRjM0J5aUFMWmVEUHRWMTlrYXhDWlZEVll1c1lkSFoxWk43WlRJaERudUxoTERGTE1pUGVyYzFteFpGVTNIQnpYdFc0cTZuRmtoZ3JRTHRsVDJNbnVaYmpVZ3BsajRQdFpoN0JRRkZUMFBIeTg?oc=5",
+      "date": "2024-05-09",
+      "name": null,
+      "location": null,
+      "title": "7 killed in attack in southwestern Pakistan - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazBEZFVRa2wtcUt2WWp0MmtxbWR3Mnh4UmU0R0k3ODRjM0J5aUFMWmVEUHRWMTlrYXhDWlZEVll1c1lkSFoxWk43WlRJaERudUxoTERGTE1pUGVyYzFteFpGVTNIQnpYdFc0cTZuRmtoZ3JRTHRsVDJNbnVaYmpVZ3BsajRQdFpoN0JRRkZUMFBIeTg?oc=5",
+      "domain": "Anadolu Ajansı",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQ9IBTkFVX3lxTE96a2pybXZaVEFLRDRyM0F1YzNHdFNaR0VuRWR2bW9qVTJIQ2RkY0k1Z0NoQWR1Q21GVTlReXZIYmE2R1lGRzlJMlZ0SWlPQQ?oc=5",
+      "date": "2025-07-20",
+      "name": null,
+      "location": null,
+      "title": "FC personnel martyred as unknown gunmen open fire at checkpoint in GB’s Diamer: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQ9IBTkFVX3lxTE96a2pybXZaVEFLRDRyM0F1YzNHdFNaR0VuRWR2bW9qVTJIQ2RkY0k1Z0NoQWR1Q21GVTlReXZIYmE2R1lGRzlJMlZ0SWlPQQ?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
@@ -803,6 +836,28 @@
       "title": "Pulwama Attack Mastermind Hamza Burhan Killed by Unknown Gunmen in PoK - Daily Pioneer",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3BHckZ1dEhNRVdjc0hrR1g0RUhKcklxVDdQdDZ6dktmV0s4a3lzRGZ3eTA3c281U2hVTmRtcnRXZ0V2TmdaNG5JS19NUDJ3OVhLME82aEVtVEc3bjNPQV81Zl8zOF9pVkI2alpxR0VvQjZ2Q2wtdXRjWjEwRnJBdC1XNXRNLV82dFhhdE90bEp2UXNUYlg5VldORFp5ZU1DcFE1bzdnb09UMGxiQks5ajBjVUpPeklUZ2I5dA?oc=5",
       "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWhsRGhvS1Z6WHN0X1g1X0lCTnBxaFExVFhtVmxqOXZZV0VuZ2NDTlcxd3g2NFBIYmdNNWZVcXJsQkNaMGI3aDQwbEtwUHo3TnMyNll0bGREQWkxdnJkcy03VDJlTjVMbWszOWNMdkFPTDdnOHBra2xXMDNtRzY1U296cWJuT1JZUHh1ZDhUMTZwd0FfS2NIQzlIX25ld3pMM2VvbEJ0UHd0MXhZU016djJvMjZPcFVp0gG8AUFVX3lxTFB1bDd4eVVXWER0SWdXMTBxcF9aXzRNMnZ6RFBmaDNSNFZ5TjdGcW5qb2N2RVVhcUhGU01CaEZJUUJmV3lqZzNqQkpEV2wzeW5DN3dtVWFydjhnN2s2T0o0Xy1QVmhBRUw3QkdFcWlaYmpaR0hHSWR4VmFfUlRZQXhLaUJjZ0l3Y19hSjFKRjkzUm1iYnFnekJ1RjVUal9fWXJFbHVVVkotNmNMV1g4X1pra1dIZWFGWG85WlFO?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Pulwama attack mastermind Hamza Burhan shot dead by unknown gunmen in PoK - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWhsRGhvS1Z6WHN0X1g1X0lCTnBxaFExVFhtVmxqOXZZV0VuZ2NDTlcxd3g2NFBIYmdNNWZVcXJsQkNaMGI3aDQwbEtwUHo3TnMyNll0bGREQWkxdnJkcy03VDJlTjVMbWszOWNMdkFPTDdnOHBra2xXMDNtRzY1U296cWJuT1JZUHh1ZDhUMTZwd0FfS2NIQzlIX25ld3pMM2VvbEJ0UHd0MXhZU016djJvMjZPcFVp0gG8AUFVX3lxTFB1bDd4eVVXWER0SWdXMTBxcF9aXzRNMnZ6RFBmaDNSNFZ5TjdGcW5qb2N2RVVhcUhGU01CaEZJUUJmV3lqZzNqQkpEV2wzeW5DN3dtVWFydjhnN2s2T0o0Xy1QVmhBRUw3QkdFcWlaYmpaR0hHSWR4VmFfUlRZQXhLaUJjZ0l3Y19hSjFKRjkzUm1iYnFnekJ1RjVUal9fWXJFbHVVVkotNmNMV1g4X1pra1dIZWFGWG85WlFO?oc=5",
+      "domain": "The Tribune",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1pnUkRFZjA4UmFiUm5JeDcwOWdpeWw5c3FEeWwtQWhvcms1dkk5Q19mTk9FX01IdWEyaUJtWmljYnBpZkl2T0tCTUU2RXFTQUVZZG4tM0tkX3RxaHB1dUgyNUs4UnJUUF9VZ19Bb2VoMkJsZjhKVlVzaVRxNFFxTWdQNkVnNmw5bnhxWmEtd3dyalk?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Pulwama Plotter Hamza Burhan Shot Dead by Unknown Gunmen in PoK - Nagaland Post",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1pnUkRFZjA4UmFiUm5JeDcwOWdpeWw5c3FEeWwtQWhvcms1dkk5Q19mTk9FX01IdWEyaUJtWmljYnBpZkl2T0tCTUU2RXFTQUVZZG4tM0tkX3RxaHB1dUgyNUs4UnJUUF9VZ19Bb2VoMkJsZjhKVlVzaVRxNFFxTWdQNkVnNmw5bnhxWmEtd3dyalk?oc=5",
+      "domain": "Nagaland Post",
       "source_country": null,
       "language": "en"
     },
