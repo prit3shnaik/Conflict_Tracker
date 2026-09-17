@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-17",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -11,6 +11,17 @@
       "title": "Eight bus passengers killed by unknown gunmen in northern Pakistan - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4akp4ajcxajk4XzkyR0FISWU4bzhQSVVHVHhqOGZ6cy1ndXZjamRZOG5jNjI0eDQ1ZE05N3UwWVJWX3RVUmZLT1JIZGN3eUVUeUowdFQzRTNnV25jVVdFM0xtbEpQT0FnVWdtVjB5cmNMYTNmT3p1UHp0YXLSAX9BVV95cUxQdzVsWDJSZ1FxeEJwUjhYcjNrV05ENXhqdE91eEJqamY1azZnNEdJWl9pWFZnNTk5MEZja1Ixa09MMFR3MGJta29lV1R2VC1xTEdYM3JKNk5UTTZST1N6LXI2QjVrZUZJZDJ4aHYzVWc4TG9uU3h1SFExTDBxbHdR?oc=5",
+      "date": "2024-01-27",
+      "name": null,
+      "location": null,
+      "title": "Pakistan Confirms Death Of 9 Citizens In Attack By Unknown Gunmen Inside Iran - Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4akp4ajcxajk4XzkyR0FISWU4bzhQSVVHVHhqOGZ6cy1ndXZjamRZOG5jNjI0eDQ1ZE05N3UwWVJWX3RVUmZLT1JIZGN3eUVUeUowdFQzRTNnV25jVVdFM0xtbEpQT0FnVWdtVjB5cmNMYTNmT3p1UHp0YXLSAX9BVV95cUxQdzVsWDJSZ1FxeEJwUjhYcjNrV05ENXhqdE91eEJqamY1azZnNEdJWl9pWFZnNTk5MEZja1Ixa09MMFR3MGJta29lV1R2VC1xTEdYM3JKNk5UTTZST1N6LXI2QjVrZUZJZDJ4aHYzVWc4TG9uU3h1SFExTDBxbHdR?oc=5",
+      "domain": "Radio Free Europe/Radio Liberty",
       "source_country": null,
       "language": "en"
     },
@@ -44,6 +55,17 @@
       "title": "Unidentified gunmen kill another policeman in restive Pakistani district of North Waziristan - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXB1RHM3QV96dFRkUjY1aUp6Ri1MeXJvbGlKRzJ2RGg5Y29VQXhHemgzZnJ3ZjFRY1BlbUE3cWdtLWZNeTVpYVdtV0lNRXZjVFl2R3VoYW9zbzJpWUN5MkhxdUdCLWJ5VV9MLTRhNENjeG9GSTFaUGFjSEM5QzhXUmlxc0pDaXhjOFpZQXd6dUJaMzhGenFPbHFMeHBZeUptd1NJWHVSdFB2NkVhQ3RkcGVTeVFYRmlXdkdib3N2UldQSHZSUWpCZmdJRks3QQ?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXVIbmF3akFaNGlCOERRX1RoUWp2YzRuNy0tdkVPaFE3M1RSUFZGd2NBVjBUODg1MVBDSEhDNlZYOS15LVJySVhxSExUWkw4MVZLYUZpOUhVc2tENHR6X2tnNlV4VTFHSkdDdzJDclowZGNaLXpxSnVzY3h6bW96VFo5OWZ6S0J0Z29IbUVIT0N1dy1hN3g3LVNlTDAxeHNRek1MV0dPck1kd1htM0E?oc=5",
+      "date": "2024-04-13",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen kill nine passengers in Pakistan’s restive southwest - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXVIbmF3akFaNGlCOERRX1RoUWp2YzRuNy0tdkVPaFE3M1RSUFZGd2NBVjBUODg1MVBDSEhDNlZYOS15LVJySVhxSExUWkw4MVZLYUZpOUhVc2tENHR6X2tnNlV4VTFHSkdDdzJDclowZGNaLXpxSnVzY3h6bW96VFo5OWZ6S0J0Z29IbUVIT0N1dy1hN3g3LVNlTDAxeHNRek1MV0dPck1kd1htM0E?oc=5",
+      "domain": "Arab News PK",
       "source_country": null,
       "language": "en"
     },
