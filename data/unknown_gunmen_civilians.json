@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -81,6 +81,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXNyYU5hNVVMaEZERm05Y25rWTB3OHI5dlBRVDhxRlNadDBpSFh4aDhtcl9HUi03S1ZfeWZMcUNYNGh2b0IxMl9haW9xR3p1ZE5DNkNHVTBoZzhyQVJILVY1NmRYY2pYRWQ3QmJLdzZqSDBxMnM2Tkw2cnQ4TWI2cFkzTmtOVG9zanBVZTZSUkVKQ0Z2OUxoZDFhVk1GQnJVUk5QWW5Ham94emtNUXRuWUNCZEpiMmM?oc=5",
+      "date": "2025-03-10",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen kill three Sindh-based barbers in southwestern Pakistan - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXNyYU5hNVVMaEZERm05Y25rWTB3OHI5dlBRVDhxRlNadDBpSFh4aDhtcl9HUi03S1ZfeWZMcUNYNGh2b0IxMl9haW9xR3p1ZE5DNkNHVTBoZzhyQVJILVY1NmRYY2pYRWQ3QmJLdzZqSDBxMnM2Tkw2cnQ4TWI2cFkzTmtOVG9zanBVZTZSUkVKQ0Z2OUxoZDFhVk1GQnJVUk5QWW5Ham94emtNUXRuWUNCZEpiMmM?oc=5",
+      "domain": "Arab News PK",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQ9IBTkFVX3lxTE96a2pybXZaVEFLRDRyM0F1YzNHdFNaR0VuRWR2bW9qVTJIQ2RkY0k1Z0NoQWR1Q21GVTlReXZIYmE2R1lGRzlJMlZ0SWlPQQ?oc=5",
       "date": "2025-07-20",
       "name": null,
@@ -125,6 +136,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOR0h3QVFjMWVZV0RZWUFSTmhwampWdndDMmlrMmdSUVg1QzhLajRpQjIzakZIdnl2NkVTSmJTOE1LelprQmZDbHRxSkI1U1lWOGt2RDFPUGh5bDZXeHlVS2puNkY1Z2lDNUt6cjNMTWdpakpscnc3MzFIZVFlTDZnZVhlbXNXR05ZWVZ4MENFeFQ2MFdTYUNzX2EtV2VEUjY1R0JMR2k2Ty11TWRzNS11SkpSc3BNMl9QNlRNT1U1blZlUUI3UWJYV3k3UDNjVUItU20zRkQ1aHBYSWxuV1NWZGVSMWlqOUtjOHF5WFZvSnZmS05uYTNNYnRqbTBRWlFCbTRrVNIBigJBVV95cUxQU1g5YTFrWkVLcEU3eVVOZzg2ZUJPd1FETzcyVkhIX2lWUFB2eFU5eTAzVk1mbzZ2MElaRUFaY2lhTTFCU1pRVHN3ZXhZdFc0eWhmVXhyOVI5N09icGFYRjJ3VlBjQm1hUWNVQU9QQzhzaExzSk9aMFJfV1p4TmlhRERiRmljNFB0UkRzU0pXaTRweGhBLVo3dzFRNTBJUGtSUmtVVElJVVBXSm93cjRXZ2c5a1N0TS05TlVmb05lVmdqU2REMFRILVJULUg3dFlKdzlfNjhIcFB3Nm1mSkIwZlRibWZTaDVzcHdGSExXWFU1VE9rRmk3RFRuUk1JMEEtaUtyVEMzSTIyUQ?oc=5",
+      "date": "2025-11-11",
+      "name": null,
+      "location": null,
+      "title": "Naseem Shah’s residence targeted by unknown assailants in chilling incident; player unmoved, continues national duty | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOR0h3QVFjMWVZV0RZWUFSTmhwampWdndDMmlrMmdSUVg1QzhLajRpQjIzakZIdnl2NkVTSmJTOE1LelprQmZDbHRxSkI1U1lWOGt2RDFPUGh5bDZXeHlVS2puNkY1Z2lDNUt6cjNMTWdpakpscnc3MzFIZVFlTDZnZVhlbXNXR05ZWVZ4MENFeFQ2MFdTYUNzX2EtV2VEUjY1R0JMR2k2Ty11TWRzNS11SkpSc3BNMl9QNlRNT1U1blZlUUI3UWJYV3k3UDNjVUItU20zRkQ1aHBYSWxuV1NWZGVSMWlqOUtjOHF5WFZvSnZmS05uYTNNYnRqbTBRWlFCbTRrVNIBigJBVV95cUxQU1g5YTFrWkVLcEU3eVVOZzg2ZUJPd1FETzcyVkhIX2lWUFB2eFU5eTAzVk1mbzZ2MElaRUFaY2lhTTFCU1pRVHN3ZXhZdFc0eWhmVXhyOVI5N09icGFYRjJ3VlBjQm1hUWNVQU9QQzhzaExzSk9aMFJfV1p4TmlhRERiRmljNFB0UkRzU0pXaTRweGhBLVo3dzFRNTBJUGtSUmtVVElJVVBXSm93cjRXZ2c5a1N0TS05TlVmb05lVmdqU2REMFRILVJULUg3dFlKdzlfNjhIcFB3Nm1mSkIwZlRibWZTaDVzcHdGSExXWFU1VE9rRmk3RFRuUk1JMEEtaUtyVEMzSTIyUQ?oc=5",
+      "domain": "Hindustan Times",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnNHSldfTlZWTlNVRVp1bGlEY05KOUtKSFdaSU1DckRCNG9uMDZ4NWM4UFd2Y0ZQS094ZGZta3NNMGhkdnBlQ19zTzdpSnlBMmxMbTM1QjlqZlcxVm9WNUxKcUNxOWVMV1UwMC1Mbk5MVGY3cnRZTVhsMmZSMFdSTnBycVNlZnJfVDJHVnR6RHROeWw0Z1NaNHZLdlJtWmNrejMwTGZQVHdhNVRfb3JNbV9ZTUdOVm5kMmMyakY4dTV4Vm00ZERHaE8tTzlJZw?oc=5",
       "date": "2025-11-24",
       "name": null,
@@ -136,6 +158,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmdHYmFTSGN1NFRXRDkycE41a3BtclJPLXFMNVRpNTJSVHlWaFMtRXdyR3R6SzlJRkNnMVJ5NzJHdjlmTzQ2WjRJRWUwYkJrcHBrRTNoazhqakZaZDRGZzk4bUpvX1ZVMDF2Nl93VjlRVzZYVExNUTUwVWl0aHlUQXl3azFCMlh6?oc=5",
+      "date": "2026-01-05",
+      "name": null,
+      "location": null,
+      "title": "Four Police Officers Killed in Separate Attacks in Khyber Pakhtunkhwa, Pakistan - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmdHYmFTSGN1NFRXRDkycE41a3BtclJPLXFMNVRpNTJSVHlWaFMtRXdyR3R6SzlJRkNnMVJ5NzJHdjlmTzQ2WjRJRWUwYkJrcHBrRTNoazhqakZaZDRGZzk4bUpvX1ZVMDF2Nl93VjlRVzZYVExNUTUwVWl0aHlUQXl3azFCMlh6?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjVQQVZCVTlmTS00TVFxbnR4YzBBU2l0WUFqX0tkX2JOTmdpRjByREdqTjg4M1VDeW02b0tJdk15Q3VfLWJfT1NtazZKR0RyczdIS2g0ckxiLWFxOVFHSjY1RHB0WDF0N1BLMXpzdjJtdkowdXFPbWNhU0UzQ3o5SDZxQzJSRGxmX19QcEVpMWkxODNya2dodE9fR3ppb0pyTXE5Y21zUGVzemtod3U0Nk1jVDhFeFh6ZUdkQnZPQzVxd9IByAFBVV95cUxOWTU5REJ6SG1neVAzMnpERTVVMTJoYlRHQUR4R21Ha3g1MHZBaUYwczdocHc0TF9SdTFUMUh2Mzk5MGhkd3hadTJiY0FseW1oS3VzTG9zelhCTUpPSzJqQmpOZURreEJVRnk2a25kT3llVXNqcVhIT1JyaTdlb2NnN3NUQkg1MDFpU2hwSEpCM2tkRGN4TEJoaHBlcVlvMGhKa1lPT1lfd2hta0hYMThkRVJqVlQ5ZFZrenktRVhZYUlYVDNtMUlfMw?oc=5",
       "date": "2026-01-13",
       "name": null,
@@ -143,6 +176,17 @@
       "title": "Four peace committee members shot dead in northwest Pakistan - The Hindu",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjVQQVZCVTlmTS00TVFxbnR4YzBBU2l0WUFqX0tkX2JOTmdpRjByREdqTjg4M1VDeW02b0tJdk15Q3VfLWJfT1NtazZKR0RyczdIS2g0ckxiLWFxOVFHSjY1RHB0WDF0N1BLMXpzdjJtdkowdXFPbWNhU0UzQ3o5SDZxQzJSRGxmX19QcEVpMWkxODNya2dodE9fR3ppb0pyTXE5Y21zUGVzemtod3U0Nk1jVDhFeFh6ZUdkQnZPQzVxd9IByAFBVV95cUxOWTU5REJ6SG1neVAzMnpERTVVMTJoYlRHQUR4R21Ha3g1MHZBaUYwczdocHc0TF9SdTFUMUh2Mzk5MGhkd3hadTJiY0FseW1oS3VzTG9zelhCTUpPSzJqQmpOZURreEJVRnk2a25kT3llVXNqcVhIT1JyaTdlb2NnN3NUQkg1MDFpU2hwSEpCM2tkRGN4TEJoaHBlcVlvMGhKa1lPT1lfd2hta0hYMThkRVJqVlQ5ZFZrenktRVhZYUlYVDNtMUlfMw?oc=5",
       "domain": "The Hindu",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0g0TUcyMG5KVWhKNld6aTBNMEFlcVZSckpqdF90LXBCOVZVR2owc1QwcTZxd29uMHY3TWRwWkFBMlFXaG9USGNWbF9iQ3pXNjNsWmFzVUstcC1mQm1JRThwMXBOdmdKMFdET0JCczk3UmtRQV9QRnlTaDgyTDc2dUpKR3BqazgxcDZFVDZCR2FSeXhSQVJOV2NiSFdDaUVfclFGV2pXNnhtZnZhdUtXbtIBvgFBVV95cUxOOWlVeG5oelZicjQ0Rk5EdU9HRlJsN0x2RndHemhaRnQ2ZWV6QlBxQWdqMUhjWUdJTzhicTI2S195R1VQZ2NqNE1SSThSem12TGRoOHNaOHZwYXYxS3JCcTY4MEF0QkhTczAtM1U3QWlOYkRRbmZyUHNzSGttMTNIRmQ3SE9sMmIwOTEwekV6RExiZUM0U2xQcUZWZEJ4Vzg3V1hQbFAzNGhSQ3A1d0tSY2NQM1NCT1FNMkJweE5R?oc=5",
+      "date": "2026-01-13",
+      "name": null,
+      "location": null,
+      "title": "Four peace committee members shot dead in northwest Pakistan - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0g0TUcyMG5KVWhKNld6aTBNMEFlcVZSckpqdF90LXBCOVZVR2owc1QwcTZxd29uMHY3TWRwWkFBMlFXaG9USGNWbF9iQ3pXNjNsWmFzVUstcC1mQm1JRThwMXBOdmdKMFdET0JCczk3UmtRQV9QRnlTaDgyTDc2dUpKR3BqazgxcDZFVDZCR2FSeXhSQVJOV2NiSFdDaUVfclFGV2pXNnhtZnZhdUtXbtIBvgFBVV95cUxOOWlVeG5oelZicjQ0Rk5EdU9HRlJsN0x2RndHemhaRnQ2ZWV6QlBxQWdqMUhjWUdJTzhicTI2S195R1VQZ2NqNE1SSThSem12TGRoOHNaOHZwYXYxS3JCcTY4MEF0QkhTczAtM1U3QWlOYkRRbmZyUHNzSGttMTNIRmQ3SE9sMmIwOTEwekV6RExiZUM0U2xQcUZWZEJ4Vzg3V1hQbFAzNGhSQ3A1d0tSY2NQM1NCT1FNMkJweE5R?oc=5",
+      "domain": "The New Indian Express",
       "source_country": null,
       "language": "en"
     },
