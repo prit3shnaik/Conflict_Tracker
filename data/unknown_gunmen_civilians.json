@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-19",
+  "last_updated": "2026-09-20",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -1123,6 +1123,17 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWlRbFp5emlhMjY0SXNVOFYxUzRfN1JNbWZrZVdoTjkzTVFyVGhjQTRsd0h5YmhVVGVTSXpObTQ2TWlhSmFna19nQ0N1NUNBTDE1NVJfWS12UjFDQ0dJZkF2bXRkdGRGWGh4UndHS0Rod2ZuNFZRZXdCb2syekRlX1RyNWZxRHA1N1VjVlloZE1IdEpoeXA0RDFVSmd2NUFMWS1tU1pyNDdydFBuNHB3X09Oc2JiOXhaYWlBcTVqZXYtb000VHd0LdIBzgFBVV95cUxPdXJoMkhDcTFSUFVpR2d3RHVvY3VDU2U5MFBsNV9OdzJEREhNVjF6TWllbVhRVGhCelVPcmVySVd4dXJVV3JMekwzczhoc3RNSkRndy02MnVCa0lhODY2QW91U21MVUJQRHNObGN5QkJ0UmdNWks0aVh3a3BaOTc4dmJiR00yZ0ZSRzBFRXRJc1JMWFhsNXdPYmRDSEdza3NHN0hQTnVrN1p3TTVfeS0wNVRLQXo5bkJSdkJDSVlTVDBmRU55ekxheF9jNDJFQQ?oc=5",
       "domain": "Al Arabiya English",
       "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2031271/an-eye-on-balochistan-border",
+      "date": "2026-09-20",
+      "name": null,
+      "location": null,
+      "title": "An eye on Balochistan border",
+      "url": "https://www.dawn.com/news/2031271/an-eye-on-balochistan-border",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
       "language": "en"
     }
   ]
