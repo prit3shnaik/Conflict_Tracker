@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-20",
+  "last_updated": "2026-09-21",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
@@ -209,6 +209,17 @@
       "title": "‘Unknown Gunmen’ Strike Again? Hamza Burhan Among Pakistani Terrorists Killed In Recent Years - News18",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZW1Eak1XRmVtTVlmSkJmbjNRa1MzQ2RlY3RhNVBaVzVfRVZBd2I1cW5iV3UyU2hOYk14djdsaDFKSlNKdFRkZVBHanFHUVJ0LUlJWk9ld3Q3QXotdTAyYVB3SVk0RlRNVkxDWkFTcEI0bWpRSUxwX0xja2RXUFByV0RwME00enVKOGstSHRFTjB2d01OSWZYUzhBVkJ2UGN1YWRBMUIwQktaM1ZsaVFHaEVvdmZVMWZoelFiV3dlcDU0QXFLMmwwRllZRFRDR1lqNXdrQdIB2gFBVV95cUxPX0VyZXNzaDF3TmczTHd0UHFYOUExLUE3c0ZTdGl6QkZxOVNiQ1U5c21jcVZsRndhNkZiWVU5ZHh3MFMwaFM3empnR0hDT0h6TXRUZFZnajllbjY0aC1TWTRZMXRwNjVTSjBQMzhBOU1ZWWJCbEV5ZHk0blpTN2pOVmExZ1hPdHE4bzEzcG9Md3JaeHQ5aHhiTDItTXAydDltV0FKTTNXdkk5aTBnQmNpSVJRb3RpU0F4U2RkMHQ2TmZBRE1RNVQ0Q0R0dTZFUDlMVm1ucU5hZUd0QQ?oc=5",
       "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZpY3lrU2NpTkl5ZkdTanhndS1BVGxCTnlkd3N2T3FXR0k2LUsxNndpLTlmRVd1MWRLRGpDMWV2ZHNhQmJDOENJX0dleG9aM1E0dExZUDU5SnZLbFB2ZjR0dDVfN0VRa3RKZEJzS3kzWmlfeTBmVGgyZ2puQi0ydG5HbDNSbEhpVlJVbDFqbnlrYkdnTEV0VGREemd1bTRWQ08tVG45YW0?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Pulwama attack-linked terrorist Hamza Burhan killed in Pakistan: Sources - PGurus",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZpY3lrU2NpTkl5ZkdTanhndS1BVGxCTnlkd3N2T3FXR0k2LUsxNndpLTlmRVd1MWRLRGpDMWV2ZHNhQmJDOENJX0dleG9aM1E0dExZUDU5SnZLbFB2ZjR0dDVfN0VRa3RKZEJzS3kzWmlfeTBmVGgyZ2puQi0ydG5HbDNSbEhpVlJVbDFqbnlrYkdnTEV0VGREemd1bTRWQ08tVG45YW0?oc=5",
+      "domain": "PGurus",
       "source_country": null,
       "language": "en"
     },
