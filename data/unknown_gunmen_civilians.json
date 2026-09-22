@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-22",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -990,6 +990,17 @@
       "title": "Cop martyred after unidentified assailants open fire in KP's Bannu - dawn.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJMFZPS3IzSEJnN1lVYkwtRjNRaFFXUEtPWmVMaWNaZG52ZFpNdDZ5Ynowc2J4cE9hbnhuZnhOUDFvdkVOYWllMdIBTkFVX3lxTE91ek9aY2p2OE5CajhlMFN3azVjNXE2UFlpcHV0YzU5VUpOcVQxeVNhODNCMkxhaW52ZHFYVVJpVjFCelRFUEhGYUFZX3dWZw?oc=5",
       "domain": "dawn.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTVOaVd1TmtsSUt1bm9BNEViVzJ1ZXFZd2hkdEN5c2JycFhyNDRVb0dlMmRSaFZpMElodWNEUkRzMXlTcGFSVWwtSnVCR2I0aTBwSnoyQzN2LW5US2dpTWV6bld4UDRCVm85Y0dreFpFajF1bWJnWmZCT2J4YnlSX2NaLXhlNnNOamF0bk53SmwxX1QwdjM0aTFEbkxvY3VzOWdacmVUVkZDc3dzNVB5MnptTFE3UGpfRHBlTTRyUlRoQms?oc=5",
+      "date": "2026-07-01",
+      "name": null,
+      "location": null,
+      "title": "Pulwama plotter Hamza Burhan shot dead by unknown gunmen in PoK - GujaratSamachar English",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTVOaVd1TmtsSUt1bm9BNEViVzJ1ZXFZd2hkdEN5c2JycFhyNDRVb0dlMmRSaFZpMElodWNEUkRzMXlTcGFSVWwtSnVCR2I0aTBwSnoyQzN2LW5US2dpTWV6bld4UDRCVm85Y0dreFpFajF1bWJnWmZCT2J4YnlSX2NaLXhlNnNOamF0bk53SmwxX1QwdjM0aTFEbkxvY3VzOWdacmVUVkZDc3dzNVB5MnptTFE3UGpfRHBlTTRyUlRoQms?oc=5",
+      "domain": "GujaratSamachar English",
       "source_country": null,
       "language": "en"
     },
