@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-22",
+  "last_updated": "2026-09-23",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
@@ -286,6 +286,17 @@
       "title": "LeT Terrorist Admits Over 30 Outfit Members Killed In Pakistan And PoK By 'Unknown Gunmen', Alleges India's Hand | Video | World News - News18",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWNSdktMNlRkbkhjZW1QWVFrZW5mQkhXSHpxOEJPTW01ZVZlYkhwQ1ZtT19Ya1d0d0FwR0otSEx4clozNkQxUUtpNUp4YkJHdmt0cWNJZnRobU0yaE9CdFBiSFAyTW92SUlERFI3ZkhYOXRlWUlzYzZmeDdBSVdZNF8zNEdkMHp6UjBEeXlzMnhZSUNNTnZraTJOU3p6YzhDYjllMkdkN3JXSUFrOXhCVFE1Z0NINEQ0a1hWY3MtMEdtTWpUYTEyNm95TDZFVnZFcC1VelBSSDM0NF9hOUd3THdiNUhoS1E?oc=5",
       "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTEwdkp6YzA0MWlCZU5mTW1HbUxiWWRmc0xoSS0xanh2ZHk1eDBFN0gzYnZ5TWc2bFlyRGZtTDAyRExVV0lpdEVxcEFuUVl6SGpiOHBYMmpFTmY4eGVJSzdXcTA1aEdUdGxZbEduV1F2YjR5NzNQTjJmaWpPX1RwSFo0Ulo3N0Ywa2RUdnBfbTliTjF3cm83NG0tTllyWkdzUDRwbkVkWDB4bzB2UXU2cVlZTHRPaVJYekE?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "'Unknown Gunmen' Have Killed Over 30 Lashkar Men In Pak: Terrorist On Camera - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTEwdkp6YzA0MWlCZU5mTW1HbUxiWWRmc0xoSS0xanh2ZHk1eDBFN0gzYnZ5TWc2bFlyRGZtTDAyRExVV0lpdEVxcEFuUVl6SGpiOHBYMmpFTmY4eGVJSzdXcTA1aEdUdGxZbEduV1F2YjR5NzNQTjJmaWpPX1RwSFo0Ulo3N0Ywa2RUdnBfbTliTjF3cm83NG0tTllyWkdzUDRwbkVkWDB4bzB2UXU2cVlZTHRPaVJYekE?oc=5",
+      "domain": "NDTV",
       "source_country": null,
       "language": "en"
     },
