@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-09-24",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -418,6 +418,17 @@
       "title": "Tag: Pakistan Lahore shooting - connectedtoindia.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aTV9qLXZ5YWxxOV9PbEQ5ZkdHeFFjdG5qOHRBMnJyYkpaX3d4ZlFTcHVnZzNDZGw1T1dsVHJULVVoeTNpVWpudDZhelNvVXRqaXBhb2xmRkNGNjBvOFE1Q25WNDBPSG5WT1ZoTTNfcw?oc=5",
       "domain": "connectedtoindia.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkJONFJBYVBKUFpyZ1BDUmNqaUpPOHUxY0JoRzMzRHU5b1JCdlJpc2Vva08tdzhfRlZsVXA4QlBSem81aGJOanJaaW5wbFJQWFNEaDVkNkpsaDE2S0Z3c2I0cTBVODU1b0NsX0ZTTWR3NWluaUJaaC1WZUI3MVBieXA0cXhfdFplaDRTS1UxX3lsRXZwQnc2Z0ZhQkQyaURiUkI1b2Z2T2hSRURja3AyQzhLOEFycER6UjY1NHhwVkrSAcYBQVVfeXFMTnFkT3lnVDVfMS1TcllaUlYzU2ZxZHJaZ19oUFJNT2lFaEhjTklvTUVMUTNLdXlKSHZLLVI4N2JhN1FPLWY5cEQxZEhKdUVzNldUWWo0WUFfQkFxME1LQkRGV3pvVDU5NzEtMnVQNDR2SVRJSzFVdVJHSnEzYloyVGJsMnA4Y0lJbVNxdkJBc2xvNDVjTDlySFNJTVRLbVdWUFh6NkY1RW1WcWVJU3hZdEdVRjhWQm5BWWtsWUd6NzNjMkhsRTNB?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "LeT Co-Founder Amir Hamza Shot By Unidentified Gunmen In Lahore, Critical - News18",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkJONFJBYVBKUFpyZ1BDUmNqaUpPOHUxY0JoRzMzRHU5b1JCdlJpc2Vva08tdzhfRlZsVXA4QlBSem81aGJOanJaaW5wbFJQWFNEaDVkNkpsaDE2S0Z3c2I0cTBVODU1b0NsX0ZTTWR3NWluaUJaaC1WZUI3MVBieXA0cXhfdFplaDRTS1UxX3lsRXZwQnc2Z0ZhQkQyaURiUkI1b2Z2T2hSRURja3AyQzhLOEFycER6UjY1NHhwVkrSAcYBQVVfeXFMTnFkT3lnVDVfMS1TcllaUlYzU2ZxZHJaZ19oUFJNT2lFaEhjTklvTUVMUTNLdXlKSHZLLVI4N2JhN1FPLWY5cEQxZEhKdUVzNldUWWo0WUFfQkFxME1LQkRGV3pvVDU5NzEtMnVQNDR2SVRJSzFVdVJHSnEzYloyVGJsMnA4Y0lJbVNxdkJBc2xvNDVjTDlySFNJTVRLbVdWUFh6NkY1RW1WcWVJU3hZdEdVRjhWQm5BWWtsWUd6NzNjMkhsRTNB?oc=5",
+      "domain": "News18",
       "source_country": null,
       "language": "en"
     },
