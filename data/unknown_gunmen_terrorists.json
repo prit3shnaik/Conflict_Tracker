@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-26",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
@@ -363,6 +363,17 @@
       "title": "Lashkar commander dies mysteriously in Pakistan days after terror operative claims 30 killed - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3hYck1XVlRjQldfX2NQSmR0SXNiR29zamRQRlV4NnM3MmlKQ2tpekN6TGZveERKd1d0OXNQbHJUVVhQTUVXdE84OEhMMWtFMnZoQ2RVMFJJQ2VtMzM4MGZtUFpZU2FBQTZMWnZ1NkltZDNQWHhoWVBXaFlqMjNBekxKSXg3UU1qWDdNczgyUTlXWjY0SVpfTEowUTVBR2NwZzE4SlpPQTNWVHZJWUhBdUhQMXptVW9Zc2ViaWswNGZxcW1sSUNyZEVNU0VNOWRLSWg0cNIB2gFBVV95cUxOY1FRN1JsZ3V5Zno3dnNtQXlpNDY2SUFBMEg3UzBJa1psTEJDcFRIMkhMQUVIekxaYXItenVRSU5RUm82MWozUDZDZHVXRGswa1plUE9DUjJNa1R5NXdGSW80SGllcEZlckVDWUtFTUFGdHFmTV9RVHdacUxoQVc4XzJrVEpxZzZURXRoX3FTR2sybHNKVW5FbkJZTTJRdmpKeGFSU0hoRV9PRWszVXdrcG9LNXU0cm92Z2dwR01jMjVEUUJId1lzZHVEOHNJbks2X0pvVWpMaVNvQQ?oc=5",
       "domain": "Firstpost",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnFtM3hWakZZUkZERklCdUx3U0hKdEhyWU9KcUN0TV96ZHdRTzFLREVZdVRXZ21rTkZUTHd6ZWRDcFQ2R0s5RGlkcEZuU2daREJ5ZnNYV2FUd1JhZ0R3SkxXeFhSMmRZQm1Gb29hV0lTcDNFeGhkZzVDbjZVNUhrejFtNWJibkFjTUducDh5TVJrVlBMZDJ2RlpDWXpFM2N6ajRRLTUxWkFkU3FSNC1rMmpUN1o2SFljVE5VNFgyYW8zMHlzYzFsOFUxNkxIT2hBVEIwNlJydEs4QkdaN1lySUQ3VnRRTGlyM0xickE3TDNBZw?oc=5",
+      "date": "2026-08-10",
+      "name": null,
+      "location": null,
+      "title": "After 'unknown gunmen', 'unknown dhaba' killing Lashkar terrorists, LeT's commander Qari Saeed Abdul Aziz dies after eating at unfamiliar dhaba - thepamphlet.in",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnFtM3hWakZZUkZERklCdUx3U0hKdEhyWU9KcUN0TV96ZHdRTzFLREVZdVRXZ21rTkZUTHd6ZWRDcFQ2R0s5RGlkcEZuU2daREJ5ZnNYV2FUd1JhZ0R3SkxXeFhSMmRZQm1Gb29hV0lTcDNFeGhkZzVDbjZVNUhrejFtNWJibkFjTUducDh5TVJrVlBMZDJ2RlpDWXpFM2N6ajRRLTUxWkFkU3FSNC1rMmpUN1o2SFljVE5VNFgyYW8zMHlzYzFsOFUxNkxIT2hBVEIwNlJydEs4QkdaN1lySUQ3VnRRTGlyM0xickE3TDNBZw?oc=5",
+      "domain": "thepamphlet.in",
       "source_country": null,
       "language": "en"
     },

@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-26",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -429,6 +429,17 @@
       "title": "LeT Co-Founder Amir Hamza Shot By Unidentified Gunmen In Lahore, Critical - News18",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkJONFJBYVBKUFpyZ1BDUmNqaUpPOHUxY0JoRzMzRHU5b1JCdlJpc2Vva08tdzhfRlZsVXA4QlBSem81aGJOanJaaW5wbFJQWFNEaDVkNkpsaDE2S0Z3c2I0cTBVODU1b0NsX0ZTTWR3NWluaUJaaC1WZUI3MVBieXA0cXhfdFplaDRTS1UxX3lsRXZwQnc2Z0ZhQkQyaURiUkI1b2Z2T2hSRURja3AyQzhLOEFycER6UjY1NHhwVkrSAcYBQVVfeXFMTnFkT3lnVDVfMS1TcllaUlYzU2ZxZHJaZ19oUFJNT2lFaEhjTklvTUVMUTNLdXlKSHZLLVI4N2JhN1FPLWY5cEQxZEhKdUVzNldUWWo0WUFfQkFxME1LQkRGV3pvVDU5NzEtMnVQNDR2SVRJSzFVdVJHSnEzYloyVGJsMnA4Y0lJbVNxdkJBc2xvNDVjTDlySFNJTVRLbVdWUFh6NkY1RW1WcWVJU3hZdEdVRjhWQm5BWWtsWUd6NzNjMkhsRTNB?oc=5",
       "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVJ6WVdEVGhKRXBac3ZoZ2hxcUpvS0IzdGpVdWltSmY0WjB0ZFZ1NkpDcXlkYzVzaHZZeFlLdHVMaUhkeWktSzJ6ZEdadWM0ZzZ5NTNSTW9rT3Z5Wk55SXBOM3lXWTk5M0lQaTJXRHZFSW5McmJnN3BSZ0JPVzB0TVJYTkVCeUc1Qkh3ekUwZVk3dHRYQzFJWGVFeWJEODZXZ0E1dDROU1I2QQ?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Amir Hamza Shot in Lahore: LeT Co-Founder Critical After Gun Attack in Pakistan - pgurus.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVJ6WVdEVGhKRXBac3ZoZ2hxcUpvS0IzdGpVdWltSmY0WjB0ZFZ1NkpDcXlkYzVzaHZZeFlLdHVMaUhkeWktSzJ6ZEdadWM0ZzZ5NTNSTW9rT3Z5Wk55SXBOM3lXWTk5M0lQaTJXRHZFSW5McmJnN3BSZ0JPVzB0TVJYTkVCeUc1Qkh3ekUwZVk3dHRYQzFJWGVFeWJEODZXZ0E1dDROU1I2QQ?oc=5",
+      "domain": "pgurus.com",
       "source_country": null,
       "language": "en"
     },
