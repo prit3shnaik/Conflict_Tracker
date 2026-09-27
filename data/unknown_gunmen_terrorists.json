@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
@@ -386,6 +386,17 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDM1SWRaVC1BYkFTWVNDcGVSa29tUWdYTVNlUmM5UHZaa2NHOTI2LUVrRGdRRHBBc292WTVCWERFMWJXRjF0R1M1SUNyMEdoU1dkYUVkc0FXamZiXzZVdnFKaGJQNlQ1dDlCMHQ1Q0hYVlN0TDh1N3RsUEFqM25oc1ZBSk1aQ1VDLW40LWdybF9YVWluWkl4ZU1uQUZ0SDRwZXNScU0zNmpzUVUtSF82TTRNMEdyZ0ZFbFp4WEVoR0JpOGd5TDl0eGJNdUtnZGR4d1NNUUlrV1QyVUNsUkVvRS05OUhFOWFGVjBqTGhPbGtYWEhjLUJudy1Bb0FmM1lfbmFjcNIBigJBVV95cUxNU0xRYXdNUlNMQjc1YzZHTEt4OXlDTDJ2amZRNXBjWjQ0bjJHMktIanRyY0NjS29mc09meUxoWUZ6aFRaZXRmUGRuX2ktVlAzcDJabXlsNnczNDRuRC1OUzhsWEphZ21Da0lRamNiS0doXzhJRjdsTXV3dkdjQ0JHazRjVkViYzZzRFJXWE5ZVjlMNmpEQU9GVXFNdTI5UmZtUHdRXzE4NVZlRVk3al9NN3ZmLVR4OFpieXFkNHp2cXJva0p3eUR1eEdSWFpsVU5UcW1vQWJKRkpKVlFBR3hKazA3UUFLOVFKcFdJd0trS2dUbWtDcHRfOGlQVTA2RF9KVGRhV083XzFCQQ?oc=5",
       "domain": "The Times of India",
       "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2032829/suicide-blast-targeting-di-khan-checkpost-claims-12-lives-injures-30",
+      "date": "2026-09-26",
+      "name": null,
+      "location": null,
+      "title": "Suicide blast targeting DI Khan checkpost claims 12 lives, injures 30",
+      "url": "https://www.dawn.com/news/2032829/suicide-blast-targeting-di-khan-checkpost-claims-12-lives-injures-30",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
       "language": "en"
     }
   ]
