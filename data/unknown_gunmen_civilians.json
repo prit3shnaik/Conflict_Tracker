@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-10-03",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -209,6 +209,17 @@
       "title": "Unidentified assailants hurl hand grenade on KP minister’s residence in Swat - dawn.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UWFpRekFMaU85Qjh0dlZYVGtLOTF0eTl0QncwaEgyaFNwRU1NQU9GMkhJaFBHa1h2SUpsb3loY0xFWG90Wm5acdIBTkFVX3lxTFBXcDJwS0tYckQtZFp4ZV9aMzI0WnRHdUl4Q2NkelpSU243QndPVE1Oek8xWEp4dXBfeEFSQjgwZXVkSmtfZmJqRFFJRlRqUQ?oc=5",
       "domain": "dawn.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UWFpRekFMaU85Qjh0dlZYVGtLOTF0eTl0QncwaEgyaFNwRU1NQU9GMkhJaFBHa1h2SUpsb3loY0xFWG90Wm5acQ?oc=5",
+      "date": "2026-01-21",
+      "name": null,
+      "location": null,
+      "title": "Unidentified assailants hurl hand grenade on KP minister’s residence in Swat - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UWFpRekFMaU85Qjh0dlZYVGtLOTF0eTl0QncwaEgyaFNwRU1NQU9GMkhJaFBHa1h2SUpsb3loY0xFWG90Wm5acQ?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
