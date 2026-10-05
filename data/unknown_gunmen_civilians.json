@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -98,6 +98,17 @@
       "location": null,
       "title": "FC personnel martyred as unknown gunmen open fire at checkpoint in GB’s Diamer: police - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQ9IBTkFVX3lxTE96a2pybXZaVEFLRDRyM0F1YzNHdFNaR0VuRWR2bW9qVTJIQ2RkY0k1Z0NoQWR1Q21GVTlReXZIYmE2R1lGRzlJMlZ0SWlPQQ?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQw?oc=5",
+      "date": "2025-07-20",
+      "name": null,
+      "location": null,
+      "title": "FC personnel martyred as unknown gunmen open fire at checkpoint in GB’s Diamer: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQw?oc=5",
       "domain": "Dawn",
       "source_country": null,
       "language": "en"
