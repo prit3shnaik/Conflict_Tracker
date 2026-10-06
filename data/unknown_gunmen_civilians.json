@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -109,6 +109,17 @@
       "location": null,
       "title": "FC personnel martyred as unknown gunmen open fire at checkpoint in GB’s Diamer: police - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQw?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pRHdCZEdjZVlZSzNPaDI2Z09mdjFsUTYzRVJRdE1OOXZSRWVzai1FbVZQN1F1cmxuSC1tUEQzNXNRdkhmam4wbw?oc=5",
+      "date": "2025-09-25",
+      "name": null,
+      "location": null,
+      "title": "Constable martyred by unknown assailants in KP’s Bannu: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pRHdCZEdjZVlZSzNPaDI2Z09mdjFsUTYzRVJRdE1OOXZSRWVzai1FbVZQN1F1cmxuSC1tUEQzNXNRdkhmam4wbw?oc=5",
       "domain": "Dawn",
       "source_country": null,
       "language": "en"
@@ -1027,6 +1038,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjZEdzdoNFMtd0prb0UzN0VaRjl5TDYwS1VpMy10LXE2U09NUV82Sk5pSlVIaS1Ic0pJVjdmRWg5a0E3X2VBZmVvOWNnSVpLVTh1d1Y2Sk9yUlM1TlFHNEdIVWxjdFZ5X1owdnRobUoxRWI3T244Uy12MmZkeVFKeXRER3ZCamEzU2xfYlE5R2Npd2JOYU5uTF9QdjcxUlhiUUtTdzNuRUNQZl92SHRoNlJB?oc=5",
+      "date": "2026-05-26",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: 6 killed in indiscriminate firing by unknown assailants in Khyber Pakhtunkhwa - News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjZEdzdoNFMtd0prb0UzN0VaRjl5TDYwS1VpMy10LXE2U09NUV82Sk5pSlVIaS1Ic0pJVjdmRWg5a0E3X2VBZmVvOWNnSVpLVTh1d1Y2Sk9yUlM1TlFHNEdIVWxjdFZ5X1owdnRobUoxRWI3T244Uy12MmZkeVFKeXRER3ZCamEzU2xfYlE5R2Npd2JOYU5uTF9QdjcxUlhiUUtTdzNuRUNQZl92SHRoNlJB?oc=5",
+      "domain": "News On AIR",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUNnOVJjd1ctcEE0VFNQMVk0NWhnb1hlQkYyU2x5aGllNjhfdGJlVTZQZU5Kd1Nzckk0eGZ2Rm5aTmd2UmVSdENNbDRDSjE3Tm42OUUwQ2xXSko4eTBBNnp1anRsVmNDZERaM2NfSVpoWlBrdDllNDNnUFZ6emxkTlFaajRweV9HV0EzN1VaeHM3V1pNUzhMTGE1d2w5NDdBRHVRaWFKa0RhcS1qUVgyYUNCQksyakk?oc=5",
       "date": "2026-05-29",
       "name": null,
@@ -1045,6 +1067,17 @@
       "title": "Pakistan: Gunmen Ambush Police Convoy, Kill Two Suspects - rediff.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2ZFcmZCSS1HdUxPYlMtejlFM19jQmtESlIzWDdaQS1DYmh3QnJrZGlXT0pyYkRBTnNhTjR3NUVJSzcxM3NQSG9OaXlVWDVxa0NJS1BwYUNGQXRBcml2UW1jUWxxYnlYeklwLV9teko3XzBJU1I3ZlV3UUpMaG82THBEYVhmU2JuOW1xUkhiQnlwVDE1QzBucU5nNTYwMmRodFZLYnd3MNIBqgFBVV95cUxNTGhEWDRvZi1zbG4zLWt2VVZCT2s0bzRISDF0RjVQTU1sNXpVdVdDQ1A5cTBtVmhReDM0TFFHUTlyVzEzbk5ILW5CTF80dW1CdkpGR0xubkVrT2UxUUtqb2FWT0xJcTdQYU5rYzRXbjdseGl2WVFDRXd3dWFoOTg4bXJZOVBaSjR2WGNmNlI1Z1A2UnQxd3RJQlRLU1RybDhiTTFaTVFqNXNPQQ?oc=5",
       "domain": "rediff.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11ZU1SUjczellUNEUyZUZxZnlDb3RtQlhMblZlcE1LWUFuT2d6aU9COHNySVlsTklsTndHbEV4U1NtYlFEcUVBSC16a1dpSFlrQjlSWkJyOXZhOVRI?oc=5",
+      "date": "2026-06-10",
+      "name": null,
+      "location": null,
+      "title": "Pakistan Deeply Shocked As Unknown Gunmen Ne Pak Army Mi17 Ke Udaye Parkhache | Hindustan wala | PAK - youtu.be",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11ZU1SUjczellUNEUyZUZxZnlDb3RtQlhMblZlcE1LWUFuT2d6aU9COHNySVlsTklsTndHbEV4U1NtYlFEcUVBSC16a1dpSFlrQjlSWkJyOXZhOVRI?oc=5",
+      "domain": "youtu.be",
       "source_country": null,
       "language": "en"
     },
@@ -1231,6 +1264,17 @@
       "location": null,
       "title": "Bodies of 2 FC personnel who went missing in Bannu recovered",
       "url": "https://www.dawn.com/news/2031569/bodies-of-2-fc-personnel-who-went-missing-in-bannu-recovered",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2035149/4-fbr-officials-traffic-policeman-martyred-in-di-khan-attacks-police",
+      "date": "2026-10-06",
+      "name": null,
+      "location": null,
+      "title": "4 FBR officials, traffic policeman martyred in DI Khan attacks: police",
+      "url": "https://www.dawn.com/news/2035149/4-fbr-officials-traffic-policeman-martyred-in-di-khan-attacks-police",
       "domain": "Dawn",
       "source_country": "Pakistan",
       "language": "en"
