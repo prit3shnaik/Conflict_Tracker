@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -154,6 +154,17 @@
       "title": "Unidentified gunmen kidnap NCCIA senior officer at his residence - Business Recorder",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPck9VRDJYbXFobEF4MFZaTk5jMVBpT1RCYnJwbFZCUzlzWV9rakdLdjJYSmdmanI4dUo1ay1CdVE2a2E1MWk4ZWV1OHhlTkNYV2VTYnc3alVUYzYtLWtsd0g3OVF4b3ZScWFtMUw2SU9BU0JnUnQ1MVJCeXNHWTNVY21lNUJmbmlrbEJJZEp0Q2k2THIzaFh5TDFmd3gzWG1GMnI3TTF0b9IBVkFVX3lxTE4wTWxlYWtiYWZIN2JhenJOX1NXYmxXX2ltVUFraW1PbWdUMnhDM2xBdDBRNGEyOWpodkx5LVkxRm1QYXlWTXF1NGEzYWxSeklYMFVRcGxn?oc=5",
       "domain": "Business Recorder",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjdJT2NDbHowX2tGUnBKSFZjSUZ4RTVxanc4U1dSVWNhOEJjOUtvMzk4djVEWWJfbnNqeWctSzdTdTNnRWw0bFpmZlZDMzdKRGZZT2FzNEoySkdGTFliUk85MERVQlFCeG5pcXVfVU1WVjQ4MDJKYXdhT3RQSG95dFFDYmxjV1lSRi00azhtaXZ0VTZvS3AxQkpWMmhnZlRWX1HSAZ4BQVVfeXFMT1Q1Y0ZubEJ1RTRVU2NSYTNISFlzRVB1eUpvUW1LbXhVNFBmMVM5MW1CZDlOdGFPMzJlLTRvYTA0aFAxUnduQjFTb3o3Z2NWQlg0NjYxdHZfdzFTVTFaYjIzQVd0SldOS3F4UmdYcEFRY05QRFhUUnFyZEk5dnJnaUhzc2tjYkY4RUhJYkNqRmVqSUpCZEVJRVJzeWNiSkE?oc=5",
+      "date": "2025-11-10",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen attack Naseem Shah's property - The News International",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjdJT2NDbHowX2tGUnBKSFZjSUZ4RTVxanc4U1dSVWNhOEJjOUtvMzk4djVEWWJfbnNqeWctSzdTdTNnRWw0bFpmZlZDMzdKRGZZT2FzNEoySkdGTFliUk85MERVQlFCeG5pcXVfVU1WVjQ4MDJKYXdhT3RQSG95dFFDYmxjV1lSRi00azhtaXZ0VTZvS3AxQkpWMmhnZlRWX1HSAZ4BQVVfeXFMT1Q1Y0ZubEJ1RTRVU2NSYTNISFlzRVB1eUpvUW1LbXhVNFBmMVM5MW1CZDlOdGFPMzJlLTRvYTA0aFAxUnduQjFTb3o3Z2NWQlg0NjYxdHZfdzFTVTFaYjIzQVd0SldOS3F4UmdYcEFRY05QRFhUUnFyZEk5dnJnaUhzc2tjYkY4RUhJYkNqRmVqSUpCZEVJRVJzeWNiSkE?oc=5",
+      "domain": "The News International",
       "source_country": null,
       "language": "en"
     },
