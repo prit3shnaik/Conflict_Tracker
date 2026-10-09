@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -301,6 +301,28 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aeTdhQnExeFJMU3IwRC1EMUR2QUd1NGVMb0RfUXRjc3Z3MDlaWDhmYnlnUEFMRllub0Z5WkpTOC1ial9fQ0wtSQ?oc=5",
+      "date": "2026-02-25",
+      "name": null,
+      "location": null,
+      "title": "4 cops martyred, 2 injured in firing by unidentified assailants on patrol squad in KP’s Bajaur - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aeTdhQnExeFJMU3IwRC1EMUR2QUd1NGVMb0RfUXRjc3Z3MDlaWDhmYnlnUEFMRllub0Z5WkpTOC1ial9fQ0wtSQ?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xWmEwbTVpYzFCYVd4NW12cHNRWGo1MkdpY01ocGgwUnprWV9PNTB0Ql9GMl9zSHkxd0JqZDBHbTROVGVRN2xMddIBTkFVX3lxTE44WDBCQmxLZWhMSnFRU1ZVQ29iMEF6bTVhMGk1Z2lpVS14N3VVTm9obW9CM2RzOTAxN2tWSUcySVJCV2hJbTVlTVdzSUUtQQ?oc=5",
+      "date": "2026-03-12",
+      "name": null,
+      "location": null,
+      "title": "Cop wounded as unidentified assailants hurl hand grenade at police post in Bajaur - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xWmEwbTVpYzFCYVd4NW12cHNRWGo1MkdpY01ocGgwUnprWV9PNTB0Ql9GMl9zSHkxd0JqZDBHbTROVGVRN2xMddIBTkFVX3lxTE44WDBCQmxLZWhMSnFRU1ZVQ29iMEF6bTVhMGk1Z2lpVS14N3VVTm9obW9CM2RzOTAxN2tWSUcySVJCV2hJbTVlTVdzSUUtQQ?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQUo3T3lJNDFDcnJwYm45VTJvVVFsSGIybHVld1F5RkJfOVdXREtWNWJMZndMS1JOVy1KN0FuMDQtUXVrYmlkWlpxaDQzSlZqdFBXc25iM1A0YmVNMzNoaGhEakg0dGQ0R2U0NXlMc2VXT081Z2JMS3FOSW9ISXNGbDZudnVnd3dlN2hXQno1THhfU2x1Q0ZrMmhzcDFJQ1o2REdueVFEZUsxdUEyT0JIS1VEam15Y3prbUxmajExT2pjb3JPNjZwbzhpQ0p4QzV6RjRSelhvb01WSkVlNUhJSGhybzlTcUZnbjdJWWh6X1JXZHdXUmg4WDB6NnFVd9IBgwJBVV95cUxPbnRrc2ZEcl9JUXl6bERsRm5qRm4xTkZDOGE5NUVnWV81cWlxenQ0R1dremZUQ1hHUk5fLXBqNXJfcGpEMUVXVFQ0em9Lcmhhb2VpZ2drRDdTUHFtaE51aklSNVMzM3BMdGJ3XzJkd2JfRDI3Y0FLZUE1NjBWTXpJdjJTcVZyNHUyQWtYNVNpeG96Sngxcmx3WWs1ZEZkYUE0QUpzLWZIN1c3WGJhdk1SMnhJMUw4Q1JkM2UzY0QwTVNpOVd5S3BJTXpRYWZzSFlWMXdoQnJPLVYzaW9XWG9SdGhtd0xMcXo0X1d5dDZiWlBYUkdqWmhEUXZScmk4MFY2U1BF?oc=5",
       "date": "2026-03-22",
       "name": null,
@@ -517,6 +539,17 @@
       "title": "Pakistan Police Registers Case Against Unidentified Gunmen For Opening Fire on LeT Co-Founder - ETV Bharat",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM1Q2M2pwWGNXd3NtTy1jZmVYcmRKVFFKVVdjUUhkdlhOX2RvVlR0bnZZLS1MVHREb2ZSZ2JrZUU3el96QUxQU0FoOTVOOVd2VEdKY1gxNWRpZHpFUlRNZzJ1SG1BVUtUUzVWaWVxblpCb0p2dFRpYzZYeW8yMEl6ZkRqZEprckRhT2stNVJoV1llWnN2X050bUNEUUpuWjhFZTU0ZzNKZUhQcW96amJxaUE0aWpFSElIX0I4LVlqOEhwNkZMZHN5Q04tYVlZcE40dC0ybFdyX1dFbUhMMXhWOEFsZmV6UdIB6wFBVV95cUxOVFBlSWRKcHYtYmNrQWxxSWlLMUtqR0ZPWHN3bk1fbmNGQTZYOHc3REl0OVFFdk1Lb2NuQXZEOUVYaXBIRFNhS0Y1dEo3UDNsa0wwWXI2SEFpNktNMF9TSVJob0JTekpFWDR2eU96SUdNR1NiNm1BcVM3bTdTd2JTWGVVNkZJc1hyV09DSWVJbUFsLVBkTl9SajVPeERCTE1ycWFfOFZqdjBNZXFWNUZjVFlPSU1ObHpDeHVHbDB1a3g5SjRaanZEQnZSeXhqMkFIbl9kQ0pCWEVKUUFSa1VOSzN0eEc1R3lpcGNv?oc=5",
       "domain": "ETV Bharat",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbW1JSlo1V081Y1pZYnNuNUZQSVptcjR3aWMyS09EcGwzRDRQT2p2UTVHM1BzSzd3dldhTDBwNmhrbmN3RHB6Z21IbE9BcmhDU3FhRkdkR2dNYTFEYjVvT25DckR4NGlKLXgxR1BrelRRZjRoeWppQnNra0EwSUlyUEFUdTFzczlKUXpvOE1GaVJIaDJXcFVYODhRakJTckc0S0xZNl9jMWFRd2VYWTRGZGJsNzlLQS0tdS05dGFHSml5NFJ5Q2c2VEpEODVlY05jaDhzOGJ6MXptOElGNVhTOVNnanJVa05pUUJONElVb9IB9AFBVV95cUxNNDExV19TVzVSSUh6QWpkcmJ4LVVzbzRlcVZrcHdFaFhnUG1TQVJYNC1Ha1RPTy1NSHZ0Q0pZd2djREdKQ0NmZnA3cXpMbVk0a1hDRGpTWDFYYVBYNXFPQUlMU3Q0YVE4REtIQUdGX2hwNFJLZlMxaWlRWjdLRjBHRFdVRjZFRzN3R0RDYmRjZTdmS2hTQzFDd3Y1VkI1RU1VbHYtU2NwV3JUejNQYnlaN0ExVjBUZmhVbHFlVUZtRjg5UkU0dHJfOEEtMG0wUVRyTjE1azNjMmE3MzlKX2Fld3Z6eEJGbHFYR1Z2TW9QRHVEcXct?oc=5",
+      "date": "2026-04-17",
+      "name": null,
+      "location": null,
+      "title": "Pak police registers case against unidentified gunmen for opening fire on LeT co-founder | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbW1JSlo1V081Y1pZYnNuNUZQSVptcjR3aWMyS09EcGwzRDRQT2p2UTVHM1BzSzd3dldhTDBwNmhrbmN3RHB6Z21IbE9BcmhDU3FhRkdkR2dNYTFEYjVvT25DckR4NGlKLXgxR1BrelRRZjRoeWppQnNra0EwSUlyUEFUdTFzczlKUXpvOE1GaVJIaDJXcFVYODhRakJTckc0S0xZNl9jMWFRd2VYWTRGZGJsNzlLQS0tdS05dGFHSml5NFJ5Q2c2VEpEODVlY05jaDhzOGJ6MXptOElGNVhTOVNnanJVa05pUUJONElVb9IB9AFBVV95cUxNNDExV19TVzVSSUh6QWpkcmJ4LVVzbzRlcVZrcHdFaFhnUG1TQVJYNC1Ha1RPTy1NSHZ0Q0pZd2djREdKQ0NmZnA3cXpMbVk0a1hDRGpTWDFYYVBYNXFPQUlMU3Q0YVE4REtIQUdGX2hwNFJLZlMxaWlRWjdLRjBHRFdVRjZFRzN3R0RDYmRjZTdmS2hTQzFDd3Y1VkI1RU1VbHYtU2NwV3JUejNQYnlaN0ExVjBUZmhVbHFlVUZtRjg5UkU0dHJfOEEtMG0wUVRyTjE1azNjMmE3MzlKX2Fld3Z6eEJGbHFYR1Z2TW9QRHVEcXct?oc=5",
+      "domain": "Hindustan Times",
       "source_country": null,
       "language": "en"
     },
