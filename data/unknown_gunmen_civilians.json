@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-10",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -275,6 +275,17 @@
       "title": "Police constable martyred as unidentified assailants open fire in Wana - dawn.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xd25JekEyaW95NWNHYmZvaXM3eFlVeUxIQk5KQmpxMENBUEJFZGpmVTFIVmllbDZqZEwtUFZ0ZUhPY3otbC0yRdIBTkFVX3lxTE0wVnpTdWZMVlI2MENOTm9MN2ZGTWRtWnNlUkw5R0lpcGFIYzc5Z0JJU1RxUlVGRm10aHJ5a0NwS1V3R2wtTWNWaGY0N3VhQQ?oc=5",
       "domain": "dawn.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xd25JekEyaW95NWNHYmZvaXM3eFlVeUxIQk5KQmpxMENBUEJFZGpmVTFIVmllbDZqZEwtUFZ0ZUhPY3otbC0yRQ?oc=5",
+      "date": "2026-02-24",
+      "name": null,
+      "location": null,
+      "title": "Police constable martyred as unidentified assailants open fire in Wana - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xd25JekEyaW95NWNHYmZvaXM3eFlVeUxIQk5KQmpxMENBUEJFZGpmVTFIVmllbDZqZEwtUFZ0ZUhPY3otbC0yRQ?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
