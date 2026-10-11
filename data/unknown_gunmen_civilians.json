@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-10",
+  "last_updated": "2026-10-11",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -1089,6 +1089,17 @@
       "title": "Pulwama Attack Mastermind Hamza Burhan Shot Dead by Unknown Gunmen in PoK, Sources Reveal - defence.in",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTZDb0xUQ1RlNmtJdlF1amFxaXctbjFpaVB2RTZVSzFlY0o1N3FYWEl0T2RHRGdXcjBVM3BPcXZlQ1BOdlRteWZDaDJFb3loVlJnZFdDS0toQUZBc1BJN3hfekI4bnVRUEFXNHJ0eWg5MDQ0UG8taWw3TDBTcE9SOFR6UTFxaHp1d0tFMTEyNVNBM1h1eXd6bzl2SGg4X29qR2I2M2Q4TDFYbzF6Zjh6THVwd1lWSGIyMGRtWUtFMA?oc=5",
       "domain": "defence.in",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVZQNXUyUjlscDBOd1NhZ29sM2w1LUItUVJOSV96N2JpN05xQWdUd1FOSUU3Mk1CZzBqWEZpN1VOWXRjdVNUVm41UXhhOVJiQ3BBLUM3VEpOZlFWZ0RHWXB6ZDN5c1F5SHdKWDhLYUhFZVhGMEtIbzNwcHR4V1RLV2FkV3M0clluRnhySXFyNHV2R2drRHdlbHlmaDBwNGl2YVVmRjFPVzdBTFJCMm9LRDU2RWdpMDRJV1lRVE9lRldvU1VDOGZ6eFNGa9IB0AFBVV95cUxNSEk2UURvZU1QZ3N3eGF4UWJ2N3R3YTZyQ3BhVlV4MFNfc2p2aTRXS3hsb2k5SEdPVmE1cGdnWnR1UjBPTmY0Mi1rVTItMXZZdnFKSmJaMGFXVnFDNWZzNV9nX1duRUxqNzVfRnZIbzhVQXZDaWkzOFNRODBka2NOS09XajdidUVPbi05REtHZUI4VkFaR0tZM3NuNUtoenAwajVYbEdLbXFNQVppeDNpMEVTekxTNTRUTlFaU0xRRjF3NEZtMUpRN21uak5OMG5H?oc=5",
+      "date": "2026-05-22",
+      "name": null,
+      "location": null,
+      "title": "Pulwama mastermind Hamza Burhan killed by unknown gunmen in PoK - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVZQNXUyUjlscDBOd1NhZ29sM2w1LUItUVJOSV96N2JpN05xQWdUd1FOSUU3Mk1CZzBqWEZpN1VOWXRjdVNUVm41UXhhOVJiQ3BBLUM3VEpOZlFWZ0RHWXB6ZDN5c1F5SHdKWDhLYUhFZVhGMEtIbzNwcHR4V1RLV2FkV3M0clluRnhySXFyNHV2R2drRHdlbHlmaDBwNGl2YVVmRjFPVzdBTFJCMm9LRDU2RWdpMDRJV1lRVE9lRldvU1VDOGZ6eFNGa9IB0AFBVV95cUxNSEk2UURvZU1QZ3N3eGF4UWJ2N3R3YTZyQ3BhVlV4MFNfc2p2aTRXS3hsb2k5SEdPVmE1cGdnWnR1UjBPTmY0Mi1rVTItMXZZdnFKSmJaMGFXVnFDNWZzNV9nX1duRUxqNzVfRnZIbzhVQXZDaWkzOFNRODBka2NOS09XajdidUVPbi05REtHZUI4VkFaR0tZM3NuNUtoenAwajVYbEdLbXFNQVppeDNpMEVTekxTNTRUTlFaU0xRRjF3NEZtMUpRN21uak5OMG5H?oc=5",
+      "domain": "The Times of India",
       "source_country": null,
       "language": "en"
     },
