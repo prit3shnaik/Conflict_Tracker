@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
@@ -1170,6 +1170,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJMFZPS3IzSEJnN1lVYkwtRjNRaFFXUEtPWmVMaWNaZG52ZFpNdDZ5Ynowc2J4cE9hbnhuZnhOUDFvdkVOYWllMQ?oc=5",
+      "date": "2026-06-29",
+      "name": null,
+      "location": null,
+      "title": "Cop martyred after unidentified assailants open fire in KP's Bannu - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJMFZPS3IzSEJnN1lVYkwtRjNRaFFXUEtPWmVMaWNaZG52ZFpNdDZ5Ynowc2J4cE9hbnhuZnhOUDFvdkVOYWllMQ?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTVOaVd1TmtsSUt1bm9BNEViVzJ1ZXFZd2hkdEN5c2JycFhyNDRVb0dlMmRSaFZpMElodWNEUkRzMXlTcGFSVWwtSnVCR2I0aTBwSnoyQzN2LW5US2dpTWV6bld4UDRCVm85Y0dreFpFajF1bWJnWmZCT2J4YnlSX2NaLXhlNnNOamF0bk53SmwxX1QwdjM0aTFEbkxvY3VzOWdacmVUVkZDc3dzNVB5MnptTFE3UGpfRHBlTTRyUlRoQms?oc=5",
       "date": "2026-07-01",
       "name": null,
@@ -1220,6 +1231,17 @@
       "location": null,
       "title": "'Ghar Mein Ghus Ke Marenge': India-Backed 'Unknown Gunmen' Killing Terror Operatives In Pakistan, Claims To - News18",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZUVYWlhZQ1VheGppczNmaVBDWFdBM0lRR1RhT1Q2eThDR3J4RUpsLW9IWDJQUVZvODNCb2swalVINlpsenRTcXlUWG81TDJvdU5HLTJZVVRLZU9WRF9HWWhiVXUwbDhYOFpTT1RHSVNnMm5kQWRyYWg1XzBRWExodTEwRVVqZkNWdkZDT1BfekdnbDVqa0F0TzZNNXdVT0pIMkkxMktXQzZtSDdVazNYOGYyMzkzUjZBalVzTXpiZW1RRkhlSFE1MjBxSUUyRkVhbEVBenZ5VUZXXzcwekZJem9SVXk2NHFfNmFBMXRnY1HSAfYBQVVfeXFMTXp0ZDJuRXdSNkduY3VYSHhISVl0akpSYnBJN1RBS2NhWWRwM0xNblZFYjFGMXVmM1lfa3BZS01hcGRwMm9ZT2JpWWRGWDBLcnpxV1pHVHZQRmNmQzNCekVNTW5lZ0paNGtBQ1dwNTNUdVNNNHJjUkJONm9sb1Nna19jT3pGZ085OExmVGhrUWhudjRCd3I5bUtYb0NGZWk5U25BTm1PVUgwczdLTW10eGlFa0dub2tYMXU3TFc4d0Z6X00tMjIyU19nakFDM3hDTDRfRUxjbm9SXzlicVVjUENZLXU0VTh4TTNTWXhnWnU1THV2ejF3?oc=5",
+      "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZUVYWlhZQ1VheGppczNmaVBDWFdBM0lRR1RhT1Q2eThDR3J4RUpsLW9IWDJQUVZvODNCb2swalVINlpsenRTcXlUWG81TDJvdU5HLTJZVVRLZU9WRF9HWWhiVXUwbDhYOFpTT1RHSVNnMm5kQWRyYWg1XzBRWExodTEwRVVqZkNWdkZDT1BfekdnbDVqa0F0TzZNNXdVT0pIMkkxMktXQzZtSDdVazNYOGYyMzkzUjZBalVzTXpiZW1RRkhlSFE1MjBxSUUyRkVhbEVBenZ5VUZXXzcwekZJem9SVXk2NHFfNmFBMXRnY1E?oc=5",
+      "date": "2026-08-03",
+      "name": null,
+      "location": null,
+      "title": "'Ghar Mein Ghus Ke Marenge': India-Backed 'Unknown Gunmen' Killing Terror Operatives In Pakistan, Claims Top LeT Commander | World News - News18",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZUVYWlhZQ1VheGppczNmaVBDWFdBM0lRR1RhT1Q2eThDR3J4RUpsLW9IWDJQUVZvODNCb2swalVINlpsenRTcXlUWG81TDJvdU5HLTJZVVRLZU9WRF9HWWhiVXUwbDhYOFpTT1RHSVNnMm5kQWRyYWg1XzBRWExodTEwRVVqZkNWdkZDT1BfekdnbDVqa0F0TzZNNXdVT0pIMkkxMktXQzZtSDdVazNYOGYyMzkzUjZBalVzTXpiZW1RRkhlSFE1MjBxSUUyRkVhbEVBenZ5VUZXXzcwekZJem9SVXk2NHFfNmFBMXRnY1E?oc=5",
       "domain": "News18",
       "source_country": null,
       "language": "en"
