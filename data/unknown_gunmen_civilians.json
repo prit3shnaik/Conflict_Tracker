@@ -1,8 +1,19 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "events": [
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
+      "date": "2023-12-02",
+      "name": null,
+      "location": null,
+      "title": "Eight bus passengers killed by unknown gunmen in northern Pakistan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
+      "domain": "Reuters",
+      "source_country": null,
+      "language": "en"
+    },
     {
       "event_id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
       "date": "2023-12-03",
@@ -11,6 +22,17 @@
       "title": "Eight bus passengers killed by unknown gunmen in northern Pakistan - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeC1RTlZHRnVPTEFNVEUtaDl2Y0hNZThGaUNOcldSdS1Ga2FhUmVvWG9KM3RHMDlydkUtQ2d3Z0pzcG1ORzd1bHpXWHBFZDhDUXQwYUlDZmF6R0V0bU5ELXVpdnFZekdOM0pvY3JwX0dldGYzc0xmclJncU01LUxKamdsakdOSGxXMmcwcG0zZm8xQnoteUdrNmFwYjFibExXU3ItQjZYQkVkRkk?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5TNHhLM20ySW9Kcjc1YW10bzNQajFvd3h4UDlNN2UxMElKd0NzS2VjakJTOVZOai05?oc=5",
+      "date": "2023-12-03",
+      "name": null,
+      "location": null,
+      "title": "Eight bus passengers killed by unknown gunmen in northern Pakistan - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5TNHhLM20ySW9Kcjc1YW10bzNQajFvd3h4UDlNN2UxMElKd0NzS2VjakJTOVZOai05?oc=5",
+      "domain": "Amu TV",
       "source_country": null,
       "language": "en"
     },
