@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-18",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -774,6 +774,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kcnE0SndSWGhwazd3S09ZUUhlR0cxUTBYd2N2M3VJTEI1REJBNFotVmRZNnhQSWhmNmwwZXNOaURTOVRINEd3R1M2ck1PM2JBWjRXTERlTFplOGd1dDM3MHZYd2lZbTBRZFMwUXlYTVF2M2RZMFHSAYQBQVVfeXFMT1FnazBQVy1sRnJjV1AwVkRCYS1qdloyU1JyeXN5TkJ5OVdZWmtPakhtaV85WDZxcUlxVTN6aE5IU3JoWWlvWUgzTW5TVHVPOGJhVkQ5bE9PV2NRWGVJejR2SHVJNGVySTN5THZjbmZMU2JKYjRPN0tSX21uNFRGRFNpcUtV?oc=5",
+      "date": "2026-05-15",
+      "name": null,
+      "location": null,
+      "title": "LeT commander gunned down in Pakistan - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kcnE0SndSWGhwazd3S09ZUUhlR0cxUTBYd2N2M3VJTEI1REJBNFotVmRZNnhQSWhmNmwwZXNOaURTOVRINEd3R1M2ck1PM2JBWjRXTERlTFplOGd1dDM3MHZYd2lZbTBRZFMwUXlYTVF2M2RZMFHSAYQBQVVfeXFMT1FnazBQVy1sRnJjV1AwVkRCYS1qdloyU1JyeXN5TkJ5OVdZWmtPakhtaV85WDZxcUlxVTN6aE5IU3JoWWlvWUgzTW5TVHVPOGJhVkQ5bE9PV2NRWGVJejR2SHVJNGVySTN5THZjbmZMU2JKYjRPN0tSX21uNFRGRFNpcUtV?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWxlcWpTa24yaFZ0S0x6SkFNcnpRNl9lODhzVGREMjU1eFJRZHEyMlhITWZUNEJGdG9vSGE5a2RkZzVMSGlsa3RIMEVpR1FVNFNPMW1NU2Y0REJYRmtrRy01emdObnY1OENyNEVZOURoN0JYalBpcWhwMXlQQndDTmZKSG5hOEJoU1lqQ2JsUENEWDRNZGVKb1NUUVZJbW8?oc=5",
       "date": "2026-05-17",
       "name": null,
@@ -1155,6 +1166,17 @@
       "title": "Pulwama mastermind Hamza Burhan killed by unknown gunmen in PoK - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVZQNXUyUjlscDBOd1NhZ29sM2w1LUItUVJOSV96N2JpN05xQWdUd1FOSUU3Mk1CZzBqWEZpN1VOWXRjdVNUVm41UXhhOVJiQ3BBLUM3VEpOZlFWZ0RHWXB6ZDN5c1F5SHdKWDhLYUhFZVhGMEtIbzNwcHR4V1RLV2FkV3M0clluRnhySXFyNHV2R2drRHdlbHlmaDBwNGl2YVVmRjFPVzdBTFJCMm9LRDU2RWdpMDRJV1lRVE9lRldvU1VDOGZ6eFNGa9IB0AFBVV95cUxNSEk2UURvZU1QZ3N3eGF4UWJ2N3R3YTZyQ3BhVlV4MFNfc2p2aTRXS3hsb2k5SEdPVmE1cGdnWnR1UjBPTmY0Mi1rVTItMXZZdnFKSmJaMGFXVnFDNWZzNV9nX1duRUxqNzVfRnZIbzhVQXZDaWkzOFNRODBka2NOS09XajdidUVPbi05REtHZUI4VkFaR0tZM3NuNUtoenAwajVYbEdLbXFNQVppeDNpMEVTekxTNTRUTlFaU0xRRjF3NEZtMUpRN21uak5OMG5H?oc=5",
       "domain": "The Times of India",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnJELXRuRlJwWUZuNVEzRi1WNTNkMUhSdE03Y0czeWtET2RjRmlYVDRYbl84Yy1RX0U2MGhJWTVJNkJkWTc2WGw2WTI5bW4zUHZiV0RNbWROTkI3SWx0WkxQODFIc0ltZzhVRzVtLS0zTEtXOUUyckQwOUZxYnRqLWNyLTBCRkJGdGpV0gGaAUFVX3lxTE85RlpqVXlkR3BGOG1HZG1jRWc5VTd0akJMT2hVRUtVUFNVOXBfbUl5ZzJ4T0xMRFpFcUJLb3VEQTBISTNHU2I5ZEhzVjdRYjFRUmFKLTBSb3NncXhZVDBUVGdGRTY5eWZxNWxxSlVvel9SdUJPbG9vYnE3TmdITGhSWUVYVTVtTEdleGZQeHBsVXVnUmgxYnpMM1E?oc=5",
+      "date": "2026-05-22",
+      "name": null,
+      "location": null,
+      "title": "Pulwama attack linked terror operative shot at in PoK - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnJELXRuRlJwWUZuNVEzRi1WNTNkMUhSdE03Y0czeWtET2RjRmlYVDRYbl84Yy1RX0U2MGhJWTVJNkJkWTc2WGw2WTI5bW4zUHZiV0RNbWROTkI3SWx0WkxQODFIc0ltZzhVRzVtLS0zTEtXOUUyckQwOUZxYnRqLWNyLTBCRkJGdGpV0gGaAUFVX3lxTE85RlpqVXlkR3BGOG1HZG1jRWc5VTd0akJMT2hVRUtVUFNVOXBfbUl5ZzJ4T0xMRFpFcUJLb3VEQTBISTNHU2I5ZEhzVjdRYjFRUmFKLTBSb3NncXhZVDBUVGdGRTY5eWZxNWxxSlVvel9SdUJPbG9vYnE3TmdITGhSWUVYVTVtTEdleGZQeHBsVXVnUmgxYnpMM1E?oc=5",
+      "domain": "Daily Pioneer",
       "source_country": null,
       "language": "en"
     },
