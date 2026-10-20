@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -407,6 +407,17 @@
       "title": "From Zahoor Mistry to Abu Qasim Kashmiri: Top Pakistani terror leaders eliminated in mysterious targeted... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQUo3T3lJNDFDcnJwYm45VTJvVVFsSGIybHVld1F5RkJfOVdXREtWNWJMZndMS1JOVy1KN0FuMDQtUXVrYmlkWlpxaDQzSlZqdFBXc25iM1A0YmVNMzNoaGhEakg0dGQ0R2U0NXlMc2VXT081Z2JMS3FOSW9ISXNGbDZudnVnd3dlN2hXQno1THhfU2x1Q0ZrMmhzcDFJQ1o2REdueVFEZUsxdUEyT0JIS1VEam15Y3prbUxmajExT2pjb3JPNjZwbzhpQ0p4QzV6RjRSelhvb01WSkVlNUhJSGhybzlTcUZnbjdJWWh6X1JXZHdXUmg4WDB6NnFVd9IBgwJBVV95cUxPbnRrc2ZEcl9JUXl6bERsRm5qRm4xTkZDOGE5NUVnWV81cWlxenQ0R1dremZUQ1hHUk5fLXBqNXJfcGpEMUVXVFQ0em9Lcmhhb2VpZ2drRDdTUHFtaE51aklSNVMzM3BMdGJ3XzJkd2JfRDI3Y0FLZUE1NjBWTXpJdjJTcVZyNHUyQWtYNVNpeG96Sngxcmx3WWs1ZEZkYUE0QUpzLWZIN1c3WGJhdk1SMnhJMUw4Q1JkM2UzY0QwTVNpOVd5S3BJTXpRYWZzSFlWMXdoQnJPLVYzaW9XWG9SdGhtd0xMcXo0X1d5dDZiWlBYUkdqWmhEUXZScmk4MFY2U1BF?oc=5",
       "domain": "Moneycontrol.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcnpCT2tyRkVwbU11bkJzOHYwa0drMjhXSDlrX2x3ZmItTzhFSFNzUmZCMWIxc1FEN09MNm96X3VYTXdaMnRXZmVqeGRaSFBROVlndVA3TUo1Ml9venAxWUdjRXpoVDhmdzl5eFJNUi1mZE5NM3A2aWNpNnJ1YVRwVl9POEQ3bG1mcHpz0gGYAUFVX3lxTE1oaEw4ZkhfdzZiRG9hYy1nTzY0dkpETUN6ZHFfV3V1WlpGeUx5WDFYN2QtM3RORzJVUGtIN2lXdm1xeWExZEd2STYzUVZXanRhOGdMU2tRbkF5bUVWM1Y0YkZ5ZGVkLWpiNFNlWTB5Mld0MmxzMm53SUQ0bWJRMGVDOXlPbTVWQm52aG9FbHlYWU9CaU5UZ3Vz?oc=5",
+      "date": "2026-03-23",
+      "name": null,
+      "location": null,
+      "title": "Three women killed by unidentified gunmen in Pakistan - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcnpCT2tyRkVwbU11bkJzOHYwa0drMjhXSDlrX2x3ZmItTzhFSFNzUmZCMWIxc1FEN09MNm96X3VYTXdaMnRXZmVqeGRaSFBROVlndVA3TUo1Ml9venAxWUdjRXpoVDhmdzl5eFJNUi1mZE5NM3A2aWNpNnJ1YVRwVl9POEQ3bG1mcHpz0gGYAUFVX3lxTE1oaEw4ZkhfdzZiRG9hYy1nTzY0dkpETUN6ZHFfV3V1WlpGeUx5WDFYN2QtM3RORzJVUGtIN2lXdm1xeWExZEd2STYzUVZXanRhOGdMU2tRbkF5bUVWM1Y0YkZ5ZGVkLWpiNFNlWTB5Mld0MmxzMm53SUQ0bWJRMGVDOXlPbTVWQm52aG9FbHlYWU9CaU5UZ3Vz?oc=5",
+      "domain": "Daily Pioneer",
       "source_country": null,
       "language": "en"
     },
@@ -1144,6 +1155,17 @@
       "title": "Pulwama Plotter Hamza Burhan Shot Dead by Unknown Gunmen in PoK - Nagaland Post",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1pnUkRFZjA4UmFiUm5JeDcwOWdpeWw5c3FEeWwtQWhvcms1dkk5Q19mTk9FX01IdWEyaUJtWmljYnBpZkl2T0tCTUU2RXFTQUVZZG4tM0tkX3RxaHB1dUgyNUs4UnJUUF9VZ19Bb2VoMkJsZjhKVlVzaVRxNFFxTWdQNkVnNmw5bnhxWmEtd3dyalk?oc=5",
       "domain": "Nagaland Post",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaHhzenFUVW5QNEgyMDlnVXFLQ1JRbm9OQUJ5S3B0N2huY0dCNWR6ZHBwcC1ORGhWYkxMbUxXTk1XYzNOVlF4bzJ0Vml5bkNnX1J4M2N3QnA4RklhSWxBOGdtMURMc1lLRmpwYkdZcmVLZFl4ajlTU1h1SmxsdEYtMUVjWHYzRFZLajIyWFhHZzNIbENNa0k0cVVLWGN5c3REWWxMNkdQUFFVRVd0UExCclZrbEpzTk9SejZxOGJxcGxSb01Nal9hV1hLNVBtb1hfSDNlWUkyZHVsd3B1djI5UU9JQllPeGFlaXF3Z0lMMUM0R2dVdWVndnUtONIBgAJBVV95cUxNUlpONUlpSGIwcWhWLXJZOFVuVWF0RjBYeG5namdiWHQ5UVEteHo2MkJSY19STWg1U3d4dzVHZEZRSVhkN25mc2xBM245MXFObWhGT1JBaE9nLUpORXdoUmRja2QwNE5HZk10b3hTdGNJak5IaWhsS0laZGtwR3RUUlNfYVdDa3d0YmZwdFIwQkwxYjZDQ0Vka0xkNmc3VW5MVnZWOS1aVk01eVVPM1FrelZsUmFEWUEzRURVazl1bmdXUlZGY0o3ZEpmT2ZaZ3l1SjJmcVQwS1RtQ2oxMDd2MkpjaHNlMUR6bnh5MHpldF9BX0EtQ2lON1ZkLWpGTUJI?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "‘Unknown gunmen’ strike again in Pakistan? Pulwama mastermind Hamza Burhan joins growing list of... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaHhzenFUVW5QNEgyMDlnVXFLQ1JRbm9OQUJ5S3B0N2huY0dCNWR6ZHBwcC1ORGhWYkxMbUxXTk1XYzNOVlF4bzJ0Vml5bkNnX1J4M2N3QnA4RklhSWxBOGdtMURMc1lLRmpwYkdZcmVLZFl4ajlTU1h1SmxsdEYtMUVjWHYzRFZLajIyWFhHZzNIbENNa0k0cVVLWGN5c3REWWxMNkdQUFFVRVd0UExCclZrbEpzTk9SejZxOGJxcGxSb01Nal9hV1hLNVBtb1hfSDNlWUkyZHVsd3B1djI5UU9JQllPeGFlaXF3Z0lMMUM0R2dVdWVndnUtONIBgAJBVV95cUxNUlpONUlpSGIwcWhWLXJZOFVuVWF0RjBYeG5namdiWHQ5UVEteHo2MkJSY19STWg1U3d4dzVHZEZRSVhkN25mc2xBM245MXFObWhGT1JBaE9nLUpORXdoUmRja2QwNE5HZk10b3hTdGNJak5IaWhsS0laZGtwR3RUUlNfYVdDa3d0YmZwdFIwQkwxYjZDQ0Vka0xkNmc3VW5MVnZWOS1aVk01eVVPM1FrelZsUmFEWUEzRURVazl1bmdXUlZGY0o3ZEpmT2ZaZ3l1SjJmcVQwS1RtQ2oxMDd2MkpjaHNlMUR6bnh5MHpldF9BX0EtQ2lON1ZkLWpGTUJI?oc=5",
+      "domain": "Moneycontrol.com",
       "source_country": null,
       "language": "en"
     },
