@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
@@ -341,6 +341,17 @@
       "title": "'Unknown gunmen' killed over 30 LeT terrorists in Pakistan: Top Lashkar operative admits in rare video | WATCH - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZEJpZGx2NHh1RWF0MVV0SU45TFdTM2xGQVFyT2NxT29UZ3BMNHNXVlk1RFFXY3hCREY2OVBVUXNYNTFvc1FEUEZ6SU9pcGNSVlgwd3BPWlQ1WExmOEs4Sld1VzN4clJ4ejd4TWpHWVRGMTNGU2FjWWxVYUpHOGhZd1dUUWQ3WEdKRXFGOVQtN0UtXzBoZElyYWcyQmsxWUw3b1d3d3l4Q1g4SVB1bHNxNmxNQkNRdUNseGhGZTR4NWdaLUJZdzQ0dHp1R0U1N2oyOFBjNWhXU2tHc1lXNWM5QXJETjFuQlpQQWxNTS1OUVlYMXJDMXlB0gH8AUFVX3lxTE5qRFY4Z2JJNDlEcm1rbjhLUG5BR1dLVjFSbmM1SkZOelVkc3pVbDUtQmlvS1ZuVjU2VG9QLXRWVE1IVXJNdzAzcDJSekpibzBsNTI5MFcybzRHUHN6dXhlNlpqclBfRWFHb1VNZkJnX0FNdWRjTmJ3d284QTBmeElxLXR0ZV9oX1lfcGFnb3pSTUdQVlpZM0F0QzVvTnFBR1VhX0xyM1JtekZvMTE3bWlBYXRNWFFuYzNJZ2xYTVpTVDg5ckh0Rm9xMjNwVkJfVklaNk9DZUs3cmo0MVdCMXEyN19zTURJM092M1A0MVZUYmJuNEVqTDE0RDV4eA?oc=5",
       "domain": "Business Today",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUxvTVFuRDlwUkR4OWo4RVlWOWhNLUVhYkNERWRndFkzeFE3ZlNTWDNXbm42bDVReGpMckNUU05SZW5JdWhnYXd6Tm1OdldnWGtwamRGajBlU2VJdFloUm1KUWVRSHUxRzFVUWRzSnE1Ym9kbHFuSDNRWEt5NTRtR0publBlaTU3eFI4THNkQXluSHFq?oc=5",
+      "date": "2026-08-04",
+      "name": null,
+      "location": null,
+      "title": "'Unknown gunmen' kill over 30 Lashkar men in Pakistan - daily-sun.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUxvTVFuRDlwUkR4OWo4RVlWOWhNLUVhYkNERWRndFkzeFE3ZlNTWDNXbm42bDVReGpMckNUU05SZW5JdWhnYXd6Tm1OdldnWGtwamRGajBlU2VJdFloUm1KUWVRSHUxRzFVUWRzSnE1Ym9kbHFuSDNRWEt5NTRtR0publBlaTU3eFI4THNkQXluSHFq?oc=5",
+      "domain": "daily-sun.com",
       "source_country": null,
       "language": "en"
     },

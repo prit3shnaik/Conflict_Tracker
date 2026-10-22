@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -88,6 +88,17 @@
       "title": "Unidentified gunmen kill another policeman in restive Pakistani district of North Waziristan - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXB1RHM3QV96dFRkUjY1aUp6Ri1MeXJvbGlKRzJ2RGg5Y29VQXhHemgzZnJ3ZjFRY1BlbUE3cWdtLWZNeTVpYVdtV0lNRXZjVFl2R3VoYW9zbzJpWUN5MkhxdUdCLWJ5VV9MLTRhNENjeG9GSTFaUGFjSEM5QzhXUmlxc0pDaXhjOFpZQXd6dUJaMzhGenFPbHFMeHBZeUptd1NJWHVSdFB2NkVhQ3RkcGVTeVFYRmlXdkdib3N2UldQSHZSUWpCZmdJRks3QQ?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yeTlrWl83RmtDX2xPckJFT0pFc09CY2RJaFF1MFQtd0xfWVdOa3phOGlteHRlSkhXbDg0UVZTbEo0UEt1SkRhRA?oc=5",
+      "date": "2024-04-05",
+      "name": null,
+      "location": null,
+      "title": "Indian network of extra-territorial killings ‘global phenomenon’, needs coordinated response: FO - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yeTlrWl83RmtDX2xPckJFT0pFc09CY2RJaFF1MFQtd0xfWVdOa3phOGlteHRlSkhXbDg0UVZTbEo0UEt1SkRhRA?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
@@ -510,6 +521,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yU2ljdlJWNkdKYW1DN2hsR3hPSzY3WlV0UjhXWjdkY3p1YU9WbFVmZ05DZWRvdHd1QkFlaFBYUVhPbnk3WU4tMg?oc=5",
+      "date": "2026-04-15",
+      "name": null,
+      "location": null,
+      "title": "Constable martyred after unknown assailants open fire on polio team in Balochistan’s Dera Murad Jamali - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yU2ljdlJWNkdKYW1DN2hsR3hPSzY3WlV0UjhXWjdkY3p1YU9WbFVmZ05DZWRvdHd1QkFlaFBYUVhPbnk3WU4tMg?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTk4aXRONmVYUHpFVDRyRFBCVHpvTzBiZFB4UUZfblAyRTBVbDN6cFdHaEhiSmM5T0xPUldUbGFPMjBiMHJIeWtJaVVuUzZXYzZ0d2QteHhndmY0bXFhWVFxQUZSODBEcWhVNnliQ0YwOF9PVEJITG05SEtvNUgxTVNacTl3aDVJaGgtZWUzazVHMVZUUTFXbnRtUFdqVVdNaC1udGRXRzU0LVFIVV9BT0NWbGw1VHNXUHRxQdIBxAFBVV95cUxPNVE0eTJCeGI4cnU1UVBzeW5Bek1zVnpYdlZPVWlPSkVrRnl0WVRIcE9zMDdGZnJYSFlnMTdRUVotSlgzQjh4MzEzOHc4ZmdYSk4xb09BUXRGMkpkenRqTHBxVGJ5b3RaWXpiU29iQUlJMllfS1NFaTRjWWluQ29fSkl4ZW85cEVjeTYzaXVUcGlFTUVWenJ3T2NfM19ZQUlaTWUyTkFjRVJNVDhKVVFEYlBxZ3VoNkdTVTkxNWtFVHdZc2RE?oc=5",
       "date": "2026-04-16",
       "name": null,
@@ -802,6 +824,17 @@
       "location": null,
       "title": "LeT commander gunned down in Pakistan - Daily Pioneer",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kcnE0SndSWGhwazd3S09ZUUhlR0cxUTBYd2N2M3VJTEI1REJBNFotVmRZNnhQSWhmNmwwZXNOaURTOVRINEd3R1M2ck1PM2JBWjRXTERlTFplOGd1dDM3MHZYd2lZbTBRZFMwUXlYTVF2M2RZMFHSAYQBQVVfeXFMT1FnazBQVy1sRnJjV1AwVkRCYS1qdloyU1JyeXN5TkJ5OVdZWmtPakhtaV85WDZxcUlxVTN6aE5IU3JoWWlvWUgzTW5TVHVPOGJhVkQ5bE9PV2NRWGVJejR2SHVJNGVySTN5THZjbmZMU2JKYjRPN0tSX21uNFRGRFNpcUtV?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rQnphd3pQRFpQQmdIaGVHbTJhNmE3eGN3ZmR3S1Q4ckNkdHA2bU5VNnpucFMwLTVIenJyajk1VVFjeUt2dG5lVDB0Y0MwcHFZWVVuZGRVMnBwTUxndXhWMS1TR210cFlpY3VYcGYzUkpWem5TamN30gGEAUFVX3lxTE9RZ2swUFctbEZyY1dQMFZEQmEtanZaMlNScnlzeU5CeTlXWVprT2pIbWlfOVg2cXFJcVUzemhOSFNyaFlpb1lIM01uU1R1TzhiYVZEOWxPT1djUVhlSXo0dkh1STRlckkzeUx2Y25mTFNiSmI0TzdLUl9tbjRURkRTaXFLVQ?oc=5",
+      "date": "2026-05-15",
+      "name": null,
+      "location": null,
+      "title": "LeT commander gunned down in Pakistan - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rQnphd3pQRFpQQmdIaGVHbTJhNmE3eGN3ZmR3S1Q4ckNkdHA2bU5VNnpucFMwLTVIenJyajk1VVFjeUt2dG5lVDB0Y0MwcHFZWVVuZGRVMnBwTUxndXhWMS1TR210cFlpY3VYcGYzUkpWem5TamN30gGEAUFVX3lxTE9RZ2swUFctbEZyY1dQMFZEQmEtanZaMlNScnlzeU5CeTlXWVprT2pIbWlfOVg2cXFJcVUzemhOSFNyaFlpb1lIM01uU1R1TzhiYVZEOWxPT1djUVhlSXo0dkh1STRlckkzeUx2Y25mTFNiSmI0TzdLUl9tbjRURkRTaXFLVQ?oc=5",
       "domain": "Daily Pioneer",
       "source_country": null,
       "language": "en"
@@ -1166,6 +1199,17 @@
       "title": "‘Unknown gunmen’ strike again in Pakistan? Pulwama mastermind Hamza Burhan joins growing list of... - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaHhzenFUVW5QNEgyMDlnVXFLQ1JRbm9OQUJ5S3B0N2huY0dCNWR6ZHBwcC1ORGhWYkxMbUxXTk1XYzNOVlF4bzJ0Vml5bkNnX1J4M2N3QnA4RklhSWxBOGdtMURMc1lLRmpwYkdZcmVLZFl4ajlTU1h1SmxsdEYtMUVjWHYzRFZLajIyWFhHZzNIbENNa0k0cVVLWGN5c3REWWxMNkdQUFFVRVd0UExCclZrbEpzTk9SejZxOGJxcGxSb01Nal9hV1hLNVBtb1hfSDNlWUkyZHVsd3B1djI5UU9JQllPeGFlaXF3Z0lMMUM0R2dVdWVndnUtONIBgAJBVV95cUxNUlpONUlpSGIwcWhWLXJZOFVuVWF0RjBYeG5namdiWHQ5UVEteHo2MkJSY19STWg1U3d4dzVHZEZRSVhkN25mc2xBM245MXFObWhGT1JBaE9nLUpORXdoUmRja2QwNE5HZk10b3hTdGNJak5IaWhsS0laZGtwR3RUUlNfYVdDa3d0YmZwdFIwQkwxYjZDQ0Vka0xkNmc3VW5MVnZWOS1aVk01eVVPM1FrelZsUmFEWUEzRURVazl1bmdXUlZGY0o3ZEpmT2ZaZ3l1SjJmcVQwS1RtQ2oxMDd2MkpjaHNlMUR6bnh5MHpldF9BX0EtQ2lON1ZkLWpGTUJI?oc=5",
       "domain": "Moneycontrol.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlNPak1JVzJDU3BNTDJveFlsbUdMWnpmeXNGRTc5OWhObFNhc0hBblhWbmRUMEREaWROMWVWa25mYjYwTEJLcTBSNklqeVhqaVByRXZnZi1WVTEyazV3YWVmcHB3bGY4eHhOTmhqTWkwZmFNb1EyWGZKcHZpcFpVbG5obmtXLWFDcmJ0LUN5cHMyQ1MxT2x5Ty1WTURBb0EyY3fSAbgBQVVfeXFMUHZYQXFieXk3Wk9SR2pnSDZ2d21LcFhac0RpVmRoVlc3dUNHZklKcGd1aVpZbkRjenlwZW5JR0VWTkcwMURiV1dWbUhHNktDZE01LS05dnBzRjNGTmN2YVJGNDM5WWY4aUgwYWc1bGFJOVJWeWZUVlJnVEt0U2t4RmJvWG5VX19zOE16c2h0VUt6Q3VxMkdNREJpaVYzWmI3M1FXaktsUGVHb3kzRUp3YlNjQUpETFRKMw?oc=5",
+      "date": "2026-05-21",
+      "name": null,
+      "location": null,
+      "title": "Pulwama Attack Mastermind Hamza Burhan Killed by Unknown Gunmen in PoK - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlNPak1JVzJDU3BNTDJveFlsbUdMWnpmeXNGRTc5OWhObFNhc0hBblhWbmRUMEREaWROMWVWa25mYjYwTEJLcTBSNklqeVhqaVByRXZnZi1WVTEyazV3YWVmcHB3bGY4eHhOTmhqTWkwZmFNb1EyWGZKcHZpcFpVbG5obmtXLWFDcmJ0LUN5cHMyQ1MxT2x5Ty1WTURBb0EyY3fSAbgBQVVfeXFMUHZYQXFieXk3Wk9SR2pnSDZ2d21LcFhac0RpVmRoVlc3dUNHZklKcGd1aVpZbkRjenlwZW5JR0VWTkcwMURiV1dWbUhHNktDZE01LS05dnBzRjNGTmN2YVJGNDM5WWY4aUgwYWc1bGFJOVJWeWZUVlJnVEt0U2t4RmJvWG5VX19zOE16c2h0VUt6Q3VxMkdNREJpaVYzWmI3M1FXaktsUGVHb3kzRUp3YlNjQUpETFRKMw?oc=5",
+      "domain": "Daily Pioneer",
       "source_country": null,
       "language": "en"
     },
