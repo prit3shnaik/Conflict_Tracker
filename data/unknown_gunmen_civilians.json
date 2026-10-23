@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-22",
+  "last_updated": "2026-10-23",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -121,6 +121,17 @@
       "title": "7 killed in attack in southwestern Pakistan - Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazBEZFVRa2wtcUt2WWp0MmtxbWR3Mnh4UmU0R0k3ODRjM0J5aUFMWmVEUHRWMTlrYXhDWlZEVll1c1lkSFoxWk43WlRJaERudUxoTERGTE1pUGVyYzFteFpGVTNIQnpYdFc0cTZuRmtoZ3JRTHRsVDJNbnVaYmpVZ3BsajRQdFpoN0JRRkZUMFBIeTg?oc=5",
       "domain": "Anadolu Ajansı",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONU9tTEF2TTRRVS1uUGNZamRQY2VqQkRLeEV4VXo3WDZQOXYzUTY4enFlZndoWnJyQURQSWJLMkQ2RG8zeUgzZ0JoVl85VEZVSjBMWGF4NWRkWGZEVENQRExMOEJ4Z2lvWG83SXRoQl9oVHVPenZ5eEUwTEx0SGdjZGdFaXhKMTNWMzhKVjNYNjExcWI2cjYtZURoVGEzUXPSAaIBQVVfeXFMUGZjNWFtR1NoRVVYZnNuX3JfTDRwVlU3Q2RnMlRud05VRE5PSk9oN2hUSUw3ckFpbkxfdkM5NV80cTY3bnpLZ3NPRG5tMjE2S3ZJb1FkMzViTno0bjBBSlJyU0tTR28wckRPMXRTZTBJUmJ1OEppd1ZfMkFkZkgwRS1IRjFEZDhGUDViQUdQdnUyZkFkdGFGNUpnQ1AwdW15T3d3?oc=5",
+      "date": "2024-06-20",
+      "name": null,
+      "location": null,
+      "title": "Journalists' killings mount amid declining freedoms in Pakistan - VOA - Voice of America English News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONU9tTEF2TTRRVS1uUGNZamRQY2VqQkRLeEV4VXo3WDZQOXYzUTY4enFlZndoWnJyQURQSWJLMkQ2RG8zeUgzZ0JoVl85VEZVSjBMWGF4NWRkWGZEVENQRExMOEJ4Z2lvWG83SXRoQl9oVHVPenZ5eEUwTEx0SGdjZGdFaXhKMTNWMzhKVjNYNjExcWI2cjYtZURoVGEzUXPSAaIBQVVfeXFMUGZjNWFtR1NoRVVYZnNuX3JfTDRwVlU3Q2RnMlRud05VRE5PSk9oN2hUSUw3ckFpbkxfdkM5NV80cTY3bnpLZ3NPRG5tMjE2S3ZJb1FkMzViTno0bjBBSlJyU0tTR28wckRPMXRTZTBJUmJ1OEppd1ZfMkFkZkgwRS1IRjFEZDhGUDViQUdQdnUyZkFkdGFGNUpnQ1AwdW15T3d3?oc=5",
+      "domain": "VOA - Voice of America English News",
       "source_country": null,
       "language": "en"
     },
@@ -862,6 +873,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWxlcWpTa24yaFZ0S0x6SkFNcnpRNl9lODhzVGREMjU1eFJRZHEyMlhITWZUNEJGdG9vSGE5a2RkZzVMSGlsa3RIMEVpR1FVNFNPMW1NU2Y0REJYRmtrRy01emdObnY1OENyNEVZOURoN0JYalBpcWhwMXlQQndDTmZKSG5hOEJoU1lqQ2JsUENEWDRNZGVKb1NUUVZJbW_SAawBQVVfeXFMTU1JdHJaWXF1THVDNVhlcTJtc2NLdWhMTlg1bkQ1LXpubWNieXFjOEZ4TzJteUdCMUoyMDc1SE1FNTFwbzZnTzNmd3FYY1d6YTY2UDlNekZzQ3F1R2lYd3pzUGxHVndObjVhQUd2cXM4a0ZnR1dPRGlHZ2VOSWV5ZFl6VG4yYkxJWE4tdkFrbm02cXkwTEt1TUpaeHR6OFFIbkN3NXlnRXoySjVhRA?oc=5",
+      "date": "2026-05-17",
+      "name": null,
+      "location": null,
+      "title": "Unknown assailants kill two security officials in northwest Pakistan - Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWxlcWpTa24yaFZ0S0x6SkFNcnpRNl9lODhzVGREMjU1eFJRZHEyMlhITWZUNEJGdG9vSGE5a2RkZzVMSGlsa3RIMEVpR1FVNFNPMW1NU2Y0REJYRmtrRy01emdObnY1OENyNEVZOURoN0JYalBpcWhwMXlQQndDTmZKSG5hOEJoU1lqQ2JsUENEWDRNZGVKb1NUUVZJbW_SAawBQVVfeXFMTU1JdHJaWXF1THVDNVhlcTJtc2NLdWhMTlg1bkQ1LXpubWNieXFjOEZ4TzJteUdCMUoyMDc1SE1FNTFwbzZnTzNmd3FYY1d6YTY2UDlNekZzQ3F1R2lYd3pzUGxHVndObjVhQUd2cXM4a0ZnR1dPRGlHZ2VOSWV5ZFl6VG4yYkxJWE4tdkFrbm02cXkwTEt1TUpaeHR6OFFIbkN3NXlnRXoySjVhRA?oc=5",
+      "domain": "Daily Pioneer",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hVEo4aFExSWtxVk4wYUhZSFRnb1lwcG9TUkgyRVZUN1BNVDc1dGNmS1ZzVXA1QklxUF9QaGR0SUdsUDkxVmtNTdIBTkFVX3lxTE9ubFZ2NTlzeG5NbmtzMzNNZVg0Q0NnTmo0T0xrbG1aemF5SWNKRF9QQlVaSGVMVElPRFhFY21ESTFaVFRQb0ZHc3N5eXdaQQ?oc=5",
       "date": "2026-05-19",
       "name": null,
@@ -1463,6 +1485,17 @@
       "title": "Gunmen kill five workers from Punjab at construction site in Pakistan’s Balochistan - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJnWDJhRTMyWDhUemtyNHQwUDlBRGt4SmpiWVMybHFJRVYxdGVEMjA2V0cwV09OVmYtazh4cmlfLVpmdUVXbE5aM2VXTXAwZGZXMUFIaV85Rml5WVZIWDVCZ3BXU2dnSENnWnA5V3FIWlN5NnlpN2lYUXBpQ2tBM2ZrdEVUWHVEVm9pN0FjYTNOVzA4a0lFN2g4d19RdEpLS1JpY0dTNXFCNkF6NHhKaHdObWRYbTJCWGwtZVBGMTE?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OUHEtODdvRWxrRFlOV3NZN2FUVDNXc0NRclcwVjc1MVRHeGpXY2JnNnVLQlFjcnZhN2RCa1RzUVRRc0NtaHN1VA?oc=5",
+      "date": "2026-08-24",
+      "name": null,
+      "location": null,
+      "title": "Four labourers killed by unknown assailants in Balochistan's Pishin district - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OUHEtODdvRWxrRFlOV3NZN2FUVDNXc0NRclcwVjc1MVRHeGpXY2JnNnVLQlFjcnZhN2RCa1RzUVRRc0NtaHN1VA?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
