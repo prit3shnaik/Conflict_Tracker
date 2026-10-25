@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-24",
+  "last_updated": "2026-10-25",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -33,6 +33,17 @@
       "title": "Eight bus passengers killed by unknown gunmen in northern Pakistan - Amu TV",
       "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5TNHhLM20ySW9Kcjc1YW10bzNQajFvd3h4UDlNN2UxMElKd0NzS2VjakJTOVZOai05?oc=5",
       "domain": "Amu TV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHQk9KYUhxYkJlbmIyYWlCcENwSFl2VjZhTFd1WlB3d29sMzdQSzM0eG1FbWdOOWVrTng3WjJZeDBtRXF6bUNYSg?oc=5",
+      "date": "2024-01-09",
+      "name": null,
+      "location": null,
+      "title": "Death toll from Bajaur attack rises to 7; FIR registered against unidentified assailants - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHQk9KYUhxYkJlbmIyYWlCcENwSFl2VjZhTFd1WlB3d29sMzdQSzM0eG1FbWdOOWVrTng3WjJZeDBtRXF6bUNYSg?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
@@ -1561,6 +1572,17 @@
       "location": null,
       "title": "4 FBR officials, traffic policeman martyred in DI Khan attacks: police",
       "url": "https://www.dawn.com/news/2035149/4-fbr-officials-traffic-policeman-martyred-in-di-khan-attacks-police",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened",
+      "date": "2026-10-25",
+      "name": null,
+      "location": null,
+      "title": "Gabd border crossing with Iran reopened",
+      "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened",
       "domain": "Dawn",
       "source_country": "Pakistan",
       "language": "en"
