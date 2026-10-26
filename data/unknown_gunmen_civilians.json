@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -219,6 +219,17 @@
       "location": null,
       "title": "Ghotki journalist Tufail Rind shot dead by unknown assailants in presence of his children: police - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZktWU1k5c1o1N29reFZKamhmT1kxdXRoZml1LTV6dlFCRXNjU1NVdnVrNnRjNEJ6NzdCd1AxTXNkS0E1Qm1KVtIBTkFVX3lxTE01Y3J4VjFwVWxFaUlTMzlXSUYzVWo0S3FiV1RTLVFrelNmQTl3bUxTT3ctbGoxQzROSmpXSmU5SmYyZnlOb1VVaUcyaFoyUQ?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZktWU1k5c1o1N29reFZKamhmT1kxdXRoZml1LTV6dlFCRXNjU1NVdnVrNnRjNEJ6NzdCd1AxTXNkS0E1Qm1KVg?oc=5",
+      "date": "2025-10-08",
+      "name": null,
+      "location": null,
+      "title": "Ghotki journalist Tufail Rind shot dead by unknown assailants in presence of his children: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZktWU1k5c1o1N29reFZKamhmT1kxdXRoZml1LTV6dlFCRXNjU1NVdnVrNnRjNEJ6NzdCd1AxTXNkS0E1Qm1KVg?oc=5",
       "domain": "Dawn",
       "source_country": null,
       "language": "en"
@@ -902,6 +913,17 @@
       "title": "CTD official killed by unidentified assailants in Turbat: police - dawn.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hVEo4aFExSWtxVk4wYUhZSFRnb1lwcG9TUkgyRVZUN1BNVDc1dGNmS1ZzVXA1QklxUF9QaGR0SUdsUDkxVmtNTdIBTkFVX3lxTE9ubFZ2NTlzeG5NbmtzMzNNZVg0Q0NnTmo0T0xrbG1aemF5SWNKRF9QQlVaSGVMVElPRFhFY21ESTFaVFRQb0ZHc3N5eXdaQQ?oc=5",
       "domain": "dawn.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hVEo4aFExSWtxVk4wYUhZSFRnb1lwcG9TUkgyRVZUN1BNVDc1dGNmS1ZzVXA1QklxUF9QaGR0SUdsUDkxVmtNTQ?oc=5",
+      "date": "2026-05-19",
+      "name": null,
+      "location": null,
+      "title": "CTD official killed by unidentified assailants in Turbat: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hVEo4aFExSWtxVk4wYUhZSFRnb1lwcG9TUkgyRVZUN1BNVDc1dGNmS1ZzVXA1QklxUF9QaGR0SUdsUDkxVmtNTQ?oc=5",
+      "domain": "Dawn",
       "source_country": null,
       "language": "en"
     },
