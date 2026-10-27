@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
@@ -121,6 +121,17 @@
       "title": "Unidentified gunmen kill nine passengers in Pakistan’s restive southwest - Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXVIbmF3akFaNGlCOERRX1RoUWp2YzRuNy0tdkVPaFE3M1RSUFZGd2NBVjBUODg1MVBDSEhDNlZYOS15LVJySVhxSExUWkw4MVZLYUZpOUhVc2tENHR6X2tnNlV4VTFHSkdDdzJDclowZGNaLXpxSnVzY3h6bW96VFo5OWZ6S0J0Z29IbUVIT0N1dy1hN3g3LVNlTDAxeHNRek1MV0dPck1kd1htM0E?oc=5",
       "domain": "Arab News PK",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM29TWkt5SmFhN2xIMzN0b0dDV2JpMkxUdmVnN1ByalFBcUZiLVFiRU1kc3pfNnNPYnpPejJ1QkdKUV9TQ3lDbGxkd3FWa3RmV0J5LWw1RUtCekdNLUxJN0VqQWs1bFM5SkpjUGhVemhuaHJXSmNDQVVmeUZaOUZhY2hVN2U0UWl2SnJZdW5BX1dhVWNUSXJNa2ZKeERiajdCLW5DRnRBMndRSV9HcXFjVEQ4dl9WN3QtZVctdEtDcw?oc=5",
+      "date": "2024-04-14",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: Sarabjit Singh's killer shot dead by unknown gunmen in Lahore - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM29TWkt5SmFhN2xIMzN0b0dDV2JpMkxUdmVnN1ByalFBcUZiLVFiRU1kc3pfNnNPYnpPejJ1QkdKUV9TQ3lDbGxkd3FWa3RmV0J5LWw1RUtCekdNLUxJN0VqQWs1bFM5SkpjUGhVemhuaHJXSmNDQVVmeUZaOUZhY2hVN2U0UWl2SnJZdW5BX1dhVWNUSXJNa2ZKeERiajdCLW5DRnRBMndRSV9HcXFjVEQ4dl9WN3QtZVctdEtDcw?oc=5",
+      "domain": "ANI News",
       "source_country": null,
       "language": "en"
     },
@@ -1596,6 +1607,17 @@
       "url": "https://www.dawn.com/news/2035149/4-fbr-officials-traffic-policeman-martyred-in-di-khan-attacks-police",
       "domain": "Dawn",
       "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0VqWFJXSThzYUhWZ2JSaC1yU0FTQlpMVkZLOGhVUElQZ251OG9FRk1GSXFEc2Jqei1EaG9aWDZlUnV2OXVZRVlwWm5TanNmb0tDN0NFb3JtMWoydVp1ZjBoeVBhNTRUSUVfMlhwSVhlZFBBMjdoUlpSbDA0NlU2dHlWTml0WWM4YlkzaFpZbzJ4aWl6eU9WdjY3eDVBa003cEFPZHdHTUFyUTlFdzViYmNrU1RIc2FtVVR2RHVSMDZlQ0pHdlkwMW5CVHFVbklOTzhVZGxrN1lILWgzME9vaTNGcmhVZGkwbmdDSmZEUdIB9AFBVV95cUxNNUMxZFc3Q0h3ME9YYnRXWXgxMnlrU3VSN2ZaaWUxSWkzNXN5LVNwZEZEX3ptM19ySVFHVXlUa0QxYzZlU2JPTEkxZFpuYmVFZWx2ZjZ2WWtwZ2ZibHEya0Z0M3E3aVpLRTAyWnFmaVdUSHd6MzNwU3BnVi1uWkdxLTJzcGQ3QUdRT3Y3bmZsRGxULVRmM2RqaF92OHVuOWg0N3FFSTk1T18zSWllekZlTC1PMmNSNHpnTlhBNUpYclZhZGlWR0lOWWJCQjNYS2doQnBlaDFQcGlaM3ZYeXFwMWFwYlpLdS1aYURqeXFxZ0swWXNi?oc=5",
+      "date": "2026-10-14",
+      "name": null,
+      "location": null,
+      "title": "LeT commander shot dead by unknown gunman in Pakistan's Punjab province? Video goes viral - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0VqWFJXSThzYUhWZ2JSaC1yU0FTQlpMVkZLOGhVUElQZ251OG9FRk1GSXFEc2Jqei1EaG9aWDZlUnV2OXVZRVlwWm5TanNmb0tDN0NFb3JtMWoydVp1ZjBoeVBhNTRUSUVfMlhwSVhlZFBBMjdoUlpSbDA0NlU2dHlWTml0WWM4YlkzaFpZbzJ4aWl6eU9WdjY3eDVBa003cEFPZHdHTUFyUTlFdzViYmNrU1RIc2FtVVR2RHVSMDZlQ0pHdlkwMW5CVHFVbklOTzhVZGxrN1lILWgzME9vaTNGcmhVZGkwbmdDSmZEUdIB9AFBVV95cUxNNUMxZFc3Q0h3ME9YYnRXWXgxMnlrU3VSN2ZaaWUxSWkzNXN5LVNwZEZEX3ptM19ySVFHVXlUa0QxYzZlU2JPTEkxZFpuYmVFZWx2ZjZ2WWtwZ2ZibHEya0Z0M3E3aVpLRTAyWnFmaVdUSHd6MzNwU3BnVi1uWkdxLTJzcGQ3QUdRT3Y3bmZsRGxULVRmM2RqaF92OHVuOWg0N3FFSTk1T18zSWllekZlTC1PMmNSNHpnTlhBNUpYclZhZGlWR0lOWWJCQjNYS2doQnBlaDFQcGlaM3ZYeXFwMWFwYlpLdS1aYURqeXFxZ0swWXNi?oc=5",
+      "domain": "The Economic Times",
+      "source_country": null,
       "language": "en"
     },
     {
