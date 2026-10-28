@@ -1,8 +1,85 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "events": [
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlsWEFWNHplMnNJR0R4Qjk0VUM2bVJGX2huRUdXdTFDNU5adTF4d2lwZS1fNnoyVXNBSmxYWGlUSEZnWkVxQVNPTHJJOE5jRTgzQTJkSVlVbEJELXhvZ2lJUmJIcWZURjU3VGtjb0tFblZta1ZFY3QwMmt2NHBkMlptTld0R2haN3BORTBuUXdKOVByT2NLUHhYcDlXVGdnTE9QMXJNUEdfMHN0SjIxanZnT09CSnE5NHZJV1JGbmpoc3llc2g3QnZPNWNqQzM1VzRrdWtCTU91cVQ4elBz0gHvAUFVX3lxTE9aMzk4bnRXSDlFZVFmZDdNLWhZTnliTUxIbnRXSHo1ZzE3MFE4UEdmLTBTcllqR04xZHhiRGNVRm0xejQyOHF6Q3FoMTNNN3daVEpWcXY3a1YzcWRKOWRrc0ZDVm80OXdGZGYyZWk0aGVoMzBZa2ZIZ1ZVNk5qY1YyaXVyT00tZFBncDV4MEpfVk9fNnVoTllZa3c2V2ZUcDFGODhuV1pRb2FCbWNtNXE0UENubmpzN0QxVkJQQXNqbV9LX2ZzTXlnNl8xam1aT21TLXpja0pFaVZleVdlSHo2TmVGQWF5d1k3V2E1aEV3?oc=5",
+      "date": "2023-10-11",
+      "name": null,
+      "location": null,
+      "title": "String Of 'Mysterious Shootings' Of Terrorists In Canada And Pakistan: A List Of Individuals Gunned Down In Two Years - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlsWEFWNHplMnNJR0R4Qjk0VUM2bVJGX2huRUdXdTFDNU5adTF4d2lwZS1fNnoyVXNBSmxYWGlUSEZnWkVxQVNPTHJJOE5jRTgzQTJkSVlVbEJELXhvZ2lJUmJIcWZURjU3VGtjb0tFblZta1ZFY3QwMmt2NHBkMlptTld0R2haN3BORTBuUXdKOVByT2NLUHhYcDlXVGdnTE9QMXJNUEdfMHN0SjIxanZnT09CSnE5NHZJV1JGbmpoc3llc2g3QnZPNWNqQzM1VzRrdWtCTU91cVQ4elBz0gHvAUFVX3lxTE9aMzk4bnRXSDlFZVFmZDdNLWhZTnliTUxIbnRXSHo1ZzE3MFE4UEdmLTBTcllqR04xZHhiRGNVRm0xejQyOHF6Q3FoMTNNN3daVEpWcXY3a1YzcWRKOWRrc0ZDVm80OXdGZGYyZWk0aGVoMzBZa2ZIZ1ZVNk5qY1YyaXVyT00tZFBncDV4MEpfVk9fNnVoTllZa3c2V2ZUcDFGODhuV1pRb2FCbWNtNXE0UENubmpzN0QxVkJQQXNqbV9LX2ZzTXlnNl8xam1aT21TLXpja0pFaVZleVdlSHo2TmVGQWF5d1k3V2E1aEV3?oc=5",
+      "domain": "Swarajya",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamZIU1VBLXVNV0l6MVY1M0g2ZS00YnFjU2haZ0pZT1VpejZDTnVqNG80bW1pcEVfa1B1eThxX0tLRjZyRVYyS3pDRXV0RmpOeUhxOXEyWmFlbUE2QXBjM3BxMWZGU0hwV3g5T3ZUY2F3VlV4LUtGNmV5MzRYSjdlUlFVN1JvbzdHZ3BFbG4tU05JTlNMTEJ6dDRMYWx2a2p0Tl8yOUFlRGhOWkpPVldaYUxtbkZmeVVVQjlLYkVYRmZyOEMzZ1A5MXVTSGFsNnNqWHNLRtIB5AFBVV95cUxNWnJWQi1NVnJPWEpjdkRkbnZ3SkNKLTNDQXpPRENLY2tOcVZGWWRESUt4Y2xoeXZvLUNWMjRaV0lKY3pCN1dYVEQwZDdYOVpJenJRNjBTUWx5b1cyckZSUFJVUW9iVzV1dWNnODRsTlFMZGI5NlZuSDR1aHJuWGRzYi1CVnFUNzVOVmYxRi1wdUZlY21aLUtSMGlENG9JYl9GbFJfLXg1bTFfamdWeUhsVUc1aktVOHFod3lBZTFNOEZkc3hmaWNRcUhVSXlMcC1mcXFBZ2VrUWZuVVVqbGNWWUpZbjY?oc=5",
+      "date": "2023-12-06",
+      "name": null,
+      "location": null,
+      "title": "Unknown Gunmen At Work Again: Another LeT Terrorist 'Adnan Ahmed' Close To Hafeez Saeed Shot Dead In Pakistan - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamZIU1VBLXVNV0l6MVY1M0g2ZS00YnFjU2haZ0pZT1VpejZDTnVqNG80bW1pcEVfa1B1eThxX0tLRjZyRVYyS3pDRXV0RmpOeUhxOXEyWmFlbUE2QXBjM3BxMWZGU0hwV3g5T3ZUY2F3VlV4LUtGNmV5MzRYSjdlUlFVN1JvbzdHZ3BFbG4tU05JTlNMTEJ6dDRMYWx2a2p0Tl8yOUFlRGhOWkpPVldaYUxtbkZmeVVVQjlLYkVYRmZyOEMzZ1A5MXVTSGFsNnNqWHNLRtIB5AFBVV95cUxNWnJWQi1NVnJPWEpjdkRkbnZ3SkNKLTNDQXpPRENLY2tOcVZGWWRESUt4Y2xoeXZvLUNWMjRaV0lKY3pCN1dYVEQwZDdYOVpJenJRNjBTUWx5b1cyckZSUFJVUW9iVzV1dWNnODRsTlFMZGI5NlZuSDR1aHJuWGRzYi1CVnFUNzVOVmYxRi1wdUZlY21aLUtSMGlENG9JYl9GbFJfLXg1bTFfamdWeUhsVUc1aktVOHFod3lBZTFNOEZkc3hmaWNRcUhVSXlMcC1mcXFBZ2VrUWZuVVVqbGNWWUpZbjY?oc=5",
+      "domain": "Swarajya",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZnpaOEVKOGpTTEV2SlZvWTBqV1BVXzBqVHV2OTJKLTF3OUozVlViYlo3cUNKOVBuZWFBOFRkRTFLWXRHN3AtNzRiOGEyTGYxQnBLR1prbGQ0ZzdzWXdSMUNtSk85Qmc1cHlZTkRJZW0zSzZ3MkZjZWlGSFpha1JvdFJrVzVXU01MQzFPZ2gyZUxZQjJDYlZYbzd5Q0k5ZzhmOXl4MHdGQ2xrYllLdjkzRUNfV1B2ZEN3XzdxcGxCbGdMXzdveElIdE9wZFpndlY3bVlTWE5nc9IB5wFBVV95cUxQRE9zLU4xOTVwRjk4cXd2LXFXY0pyMmkwM0pJLXVYdUdoVVhrQml4NFdGVjhhNEVEbmlJUU9EdklCMkdWUzFwaUk2YVBrMmRtR2cxOWRqbU5HRTNtUkJuTkhoUGNLbmlJZUJQQWs2dDZwT3U4bkRMdGg3QjlDR05UXzNFQmlCRnV3NDU0M280bWEyMGMxc1k4QVU1c0RNaGwzLW9SZVBQa2t6djk0YmRXS2VJdEJXY1d6S3lsZ3BkcXVFclZTeFVvYVZVNC1QTmZwS0xTMW9QV1BDc09BZkZpY09lUDloeW8?oc=5",
+      "date": "2023-12-07",
+      "name": null,
+      "location": null,
+      "title": "Six More Pakistani Terrorists Added To Kill-List As 'Mysterious Shootings' By 'Unknown Gunmen' Continue Unabated - Swarajyamag",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZnpaOEVKOGpTTEV2SlZvWTBqV1BVXzBqVHV2OTJKLTF3OUozVlViYlo3cUNKOVBuZWFBOFRkRTFLWXRHN3AtNzRiOGEyTGYxQnBLR1prbGQ0ZzdzWXdSMUNtSk85Qmc1cHlZTkRJZW0zSzZ3MkZjZWlGSFpha1JvdFJrVzVXU01MQzFPZ2gyZUxZQjJDYlZYbzd5Q0k5ZzhmOXl4MHdGQ2xrYllLdjkzRUNfV1B2ZEN3XzdxcGxCbGdMXzdveElIdE9wZFpndlY3bVlTWE5nc9IB5wFBVV95cUxQRE9zLU4xOTVwRjk4cXd2LXFXY0pyMmkwM0pJLXVYdUdoVVhrQml4NFdGVjhhNEVEbmlJUU9EdklCMkdWUzFwaUk2YVBrMmRtR2cxOWRqbU5HRTNtUkJuTkhoUGNLbmlJZUJQQWs2dDZwT3U4bkRMdGg3QjlDR05UXzNFQmlCRnV3NDU0M280bWEyMGMxc1k4QVU1c0RNaGwzLW9SZVBQa2t6djk0YmRXS2VJdEJXY1d6S3lsZ3BkcXVFclZTeFVvYVZVNC1QTmZwS0xTMW9QV1BDc09BZkZpY09lUDloeW8?oc=5",
+      "domain": "Swarajyamag",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmNCc0VTVVl2VUJxU19UWVhTOGxPWjBuQWdYMF9mYVFxUlo0ekRldXBRU3lUcTVqR19iSEpYQ2xSYlBlYXQ3emVhZXNSUnVaTEpOX2ZLXzhLaUlrRUNma2pQbTN1X1JiRTVNYjBRUGNPTkJVaE9YODRrTi1GVG1YcXFQNnhoT2U5Q0J3NEFIbXhIdVdVOFh3eE5JUG44SGZzek0zYVZabzRtdjd1Q2I3UElLVWdPMWdyMmdZSU1IZC1CeDc0WWZBcFFQem1VVkpvRmZYdEdUTFpjd9IB4AFBVV95cUxQNW9RTkttdG96eC1EazRQN2Q5cVo4T3BCdkVHMFloSjBiZDJTQnhQbWpQM19JcW43WF9QUDdRUnBIby1ISExvUnkxRkU1UnppdlZNWmVBT0h4UVdfSkgtRENXVWxJbm82aHBUN2tlSGszY2pmWmJZbmF0LVlzUXd3MmllM1ZwSjBCdXVyYl9ZZG12czZZdVU5S0g1RlFIcjZBTDM0TkVSV1c1VVdTcXl5SmZXbmRYdlRBQ0tlVjRUTng1UTBhZkp5Ym5JUnUwUTRZV0F3VW00aWVOcDMwYzlaRA?oc=5",
+      "date": "2025-05-18",
+      "name": null,
+      "location": null,
+      "title": "Lashkar-e-Taiba terrorist Razaullah Nizamani killed by unidentified gunmen in Sindh - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmNCc0VTVVl2VUJxU19UWVhTOGxPWjBuQWdYMF9mYVFxUlo0ekRldXBRU3lUcTVqR19iSEpYQ2xSYlBlYXQ3emVhZXNSUnVaTEpOX2ZLXzhLaUlrRUNma2pQbTN1X1JiRTVNYjBRUGNPTkJVaE9YODRrTi1GVG1YcXFQNnhoT2U5Q0J3NEFIbXhIdVdVOFh3eE5JUG44SGZzek0zYVZabzRtdjd1Q2I3UElLVWdPMWdyMmdZSU1IZC1CeDc0WWZBcFFQem1VVkpvRmZYdEdUTFpjd9IB4AFBVV95cUxQNW9RTkttdG96eC1EazRQN2Q5cVo4T3BCdkVHMFloSjBiZDJTQnhQbWpQM19JcW43WF9QUDdRUnBIby1ISExvUnkxRkU1UnppdlZNWmVBT0h4UVdfSkgtRENXVWxJbm82aHBUN2tlSGszY2pmWmJZbmF0LVlzUXd3MmllM1ZwSjBCdXVyYl9ZZG12czZZdVU5S0g1RlFIcjZBTDM0TkVSV1c1VVdTcXl5SmZXbmRYdlRBQ0tlVjRUTng1UTBhZkp5Ym5JUnUwUTRZV0F3VW00aWVOcDMwYzlaRA?oc=5",
+      "domain": "The Hindu",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFZoYkVPT3NYUWpfYTRfNFFZa3FtM0VpUlRNbmpNUXJaT2hvVUdKS0FBY3dzcHhYd2l2Vy1aTDZWTlZuSHhrU1NtR1lMQW9kOUwzWjJkQkhDVWpVNUJPT0JtZXRfeFZHckZ6V1RGcEZCcG8tZzE1bjFSYU1pTGxlMkxoUU5NS0lHWFVsQ29IRmpkQVljWWJIX3BrNUN0UHQ0ZWs2LW8tcWliYS1FdlJv0gG_AUFVX3lxTE5GZkE0ZGR3ZnB2bDJMblJ1NXFLdE1xQmc2UlJ2SUVSMk9rbVV4SXk2Ymg0UG90dnplT1NodjBGZlpMTHhacE0yTmI1M2VvTlRxdC1qS3E3NWUyWjNfeThuSXp6cDBLd2h1X0RWYk9IZzNXQjVEeDBpOThlM29BajFmXzlpczZTTW1CTlZWQm9mRzNZMmtIUEEyd1M4eV9jdk44UGtkMGlBN25wZjBDTEhIR1RkQVgxWEVxeXhURVp3?oc=5",
+      "date": "2025-05-18",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: 'Unknown Gunmen' Strike Again, Kill Another Lashkar-e-Taiba Commander - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFZoYkVPT3NYUWpfYTRfNFFZa3FtM0VpUlRNbmpNUXJaT2hvVUdKS0FBY3dzcHhYd2l2Vy1aTDZWTlZuSHhrU1NtR1lMQW9kOUwzWjJkQkhDVWpVNUJPT0JtZXRfeFZHckZ6V1RGcEZCcG8tZzE1bjFSYU1pTGxlMkxoUU5NS0lHWFVsQ29IRmpkQVljWWJIX3BrNUN0UHQ0ZWs2LW8tcWliYS1FdlJv0gG_AUFVX3lxTE5GZkE0ZGR3ZnB2bDJMblJ1NXFLdE1xQmc2UlJ2SUVSMk9rbVV4SXk2Ymg0UG90dnplT1NodjBGZlpMTHhacE0yTmI1M2VvTlRxdC1qS3E3NWUyWjNfeThuSXp6cDBLd2h1X0RWYk9IZzNXQjVEeDBpOThlM29BajFmXzlpczZTTW1CTlZWQm9mRzNZMmtIUEEyd1M4eV9jdk44UGtkMGlBN25wZjBDTEhIR1RkQVgxWEVxeXhURVp3?oc=5",
+      "domain": "Swarajya",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2dlZnZiNld1WDFGVU5FS3RCVjJ2X1ROSGprOUNLVmRUNDhEMGx3RHlVaTZOUHVzUW9iY01NeXZxX3Nhc1dXQm5NVlhYSnRpdld3TnZyVzE0azZDUVFvRTU4dm94OFhtMlR4ZXdkUEtaTWtyUnE4Q2RKTnoxTnFPQk1RRm5Pc0lZN3JGRDFIMi1KU1VwWVNBdFpQZFI0S2E5SDlsclc4VjRBX3VkaHRoWnV6Wkk5VlIwd0pIYUhkNm5NVTl1bFJGYXpQanl3M2ZkclNpZmlGeUhhd2thOHJoNHZ3WTdGRklKUTlzb3BwTS14UdIBggJBVV95cUxNYXNGQkx2Z3pDYTd4elVMWDkyOTVOcl8tczh4OXl3XzBWd3BqMGk0VHQ4NzJFVmNhMk5nUVBfNWEwV2xROEM3aVp0aXNYTWY5QWFnTENLXzlaU0NpSGhjSjhfdDhWb1p4LUZlSTUzaUp0Z1h5cUNjLWlSN0k5dDQ5aFFBMVNvek9ycVdreXVwVHIxZHVVTWpWTUJMczBIamhkM2Q3VVRndWFGak5ycC1vVVdSbEdUMjZkNTRHN1F0MzE4cm12ekdGT3c0eHd1cHU0eU5IcnZ3bmJOQnVvS0RaM2V0WFAwUlNqSGNVRVBRSHB2VF85WVlyeHFaZHAzak1YOWc?oc=5",
+      "date": "2025-05-18",
+      "name": null,
+      "location": null,
+      "title": "Saifullah Khalid, Top Lashkar Terrorist Behind Three Major Attacks In India, Killed By Unknown Gunmen In Pakistan's Sindh: Report - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2dlZnZiNld1WDFGVU5FS3RCVjJ2X1ROSGprOUNLVmRUNDhEMGx3RHlVaTZOUHVzUW9iY01NeXZxX3Nhc1dXQm5NVlhYSnRpdld3TnZyVzE0azZDUVFvRTU4dm94OFhtMlR4ZXdkUEtaTWtyUnE4Q2RKTnoxTnFPQk1RRm5Pc0lZN3JGRDFIMi1KU1VwWVNBdFpQZFI0S2E5SDlsclc4VjRBX3VkaHRoWnV6Wkk5VlIwd0pIYUhkNm5NVTl1bFJGYXpQanl3M2ZkclNpZmlGeUhhd2thOHJoNHZ3WTdGRklKUTlzb3BwTS14UdIBggJBVV95cUxNYXNGQkx2Z3pDYTd4elVMWDkyOTVOcl8tczh4OXl3XzBWd3BqMGk0VHQ4NzJFVmNhMk5nUVBfNWEwV2xROEM3aVp0aXNYTWY5QWFnTENLXzlaU0NpSGhjSjhfdDhWb1p4LUZlSTUzaUp0Z1h5cUNjLWlSN0k5dDQ5aFFBMVNvek9ycVdreXVwVHIxZHVVTWpWTUJMczBIamhkM2Q3VVRndWFGak5ycC1vVVdSbEdUMjZkNTRHN1F0MzE4cm12ekdGT3c0eHd1cHU0eU5IcnZ3bmJOQnVvS0RaM2V0WFAwUlNqSGNVRVBRSHB2VF85WVlyeHFaZHAzak1YOWc?oc=5",
+      "domain": "Swarajya",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWhwRUVtU0JMWVpsWDVyQmpjSmYxN1pKay1QeEVSM0hHTHAxZ2Foc0Y2X1ZQY0NwWUhvdUtrMTFEYUxXaHVOeENzZmxDTURIU2xfUUdYU1J5ZmI1X3JfbzNhYks5Y1RyamZwWkxfMFRsaVduMTU2OVJnNnd5OGNYSU9hQldDYTFVRG5nM0xmUkd2RnE4TGJvU1J5dGFscEN4eUJ1SDBiTVI2SUZyQTdiaWpKSU9TVEZPSTBGZ3FibF85QlZGMUJtSHp2QmZ3OWFNbW1DX2NBZE3SAd4BQVVfeXFMUEJPUW9lMmlVUTNKYmhKMEpSdDdFck5ydjVWSGRMS181cHpyMnMteEd6VmFaLWFNNkphTzl5alFGZWNkV1ZUeXdjWW1zTHpmdDhFc1hXbXI1Ti1vLS1tWHFTM1JudVlvQ1c0UmtCZnB0UHNKUzZfWTVZTFRGNmdqWWR1T3dTa2g1X3NzTW56S2trUTNwTFBrZ3FLR01WM1ZfanUxYkdwRl9NNHZ2eXB4ajVibTVPTDc1NjNQTDktY1JWUVllMlpMcW5HeUhxdXBBQUxTNmZ1dzBzZ0o1aVdB?oc=5",
+      "date": "2025-06-01",
+      "name": null,
+      "location": null,
+      "title": "32 terrorists killed by unknown gunmen; Frankenstein effect cracks Pakistan from within - Organiser",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWhwRUVtU0JMWVpsWDVyQmpjSmYxN1pKay1QeEVSM0hHTHAxZ2Foc0Y2X1ZQY0NwWUhvdUtrMTFEYUxXaHVOeENzZmxDTURIU2xfUUdYU1J5ZmI1X3JfbzNhYks5Y1RyamZwWkxfMFRsaVduMTU2OVJnNnd5OGNYSU9hQldDYTFVRG5nM0xmUkd2RnE4TGJvU1J5dGFscEN4eUJ1SDBiTVI2SUZyQTdiaWpKSU9TVEZPSTBGZ3FibF85QlZGMUJtSHp2QmZ3OWFNbW1DX2NBZE3SAd4BQVVfeXFMUEJPUW9lMmlVUTNKYmhKMEpSdDdFck5ydjVWSGRMS181cHpyMnMteEd6VmFaLWFNNkphTzl5alFGZWNkV1ZUeXdjWW1zTHpmdDhFc1hXbXI1Ti1vLS1tWHFTM1JudVlvQ1c0UmtCZnB0UHNKUzZfWTVZTFRGNmdqWWR1T3dTa2g1X3NzTW56S2trUTNwTFBrZ3FLR01WM1ZfanUxYkdwRl9NNHZ2eXB4ajVibTVPTDc1NjNQTDktY1JWUVllMlpMcW5HeUhxdXBBQUxTNmZ1dzBzZ0o1aVdB?oc=5",
+      "domain": "Organiser",
+      "source_country": null,
+      "language": "en"
+    },
     {
       "event_id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZYblNleTZQbnBmSWlPWnU0Y0d5V2Z1Uy11T0JmMFU5cnVUWGRtNlZ3UU5YNGVfMTJmNTIxVy1pRDgzR1laQXU1WE5fLWFRTXAtVzNpVGNNenhQLWlmNnRLMUlFYVVGcHNicHRqY0F6RUl4NndLM2RhME90cU00STJYcEhsVFBJQVRTaXBGOURtVkVVMVBGSUR1X3ZWcVh0LU9EX01KaFZ5QWNEQ3FCRFY1ZWZQZlRNWFhkVnlxakVrU2Q2QzFla2tnTEcySjjSAdQBQVVfeXFMTlpvUG1FdGxHR19CdmRseEJreV94LTJDY1MtTFpzT2ZJMldHRi1Wa3BuMlEwUXBtRlQ0Q3luVnlEa2RacWcyTDBibTRqN3BCc25CdHRJUmNhT0hleGxjbTFyWTZRbG9hTF83cUtYSlh4UzVYZHJwUm9vN1p5bTZWeVQ4Q0ZMSnhrb0w2SlFNMDB1TU1KLU5DcUNqT0dNRDVwR1NqRWxoX2RjbUh2aVEtaGZCRFE3ZjdqTXZaY3MtWkFqRGM1VUQzRHdERlF1bV9uVmE2MXU?oc=5",
       "date": "2026-01-19",
@@ -198,6 +275,17 @@
       "title": "Unknown gunmen expose Pakistan’s double game: LeT commander killed, ISI official found with ISIS files - The Shillong Times",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREFMdkRCVnRpS2x0RHFYa3JVQ0ctZG1lYWl6NWZvem4zMlEtSjZub1hOdlk1SHJSRlNWeE85YTlvVWljRTlZa1MyYThnaUhzRFhZWEZLdDVFUG5ibXdxeHZTSHM2QTRJdEtGNkNGcGFmdmpuc051SWl4bVp6TTRPR24xeWlNOTZzOXAtbXgyajhlVDRTS2RGclcxOFdZdDdBOGdKRExfZkdUWjVaRXdXQVpCcHZSZWZoenNaZTB0aXJGeGJlRmprM2dQTWUtaU9vSnltSDNuZw?oc=5",
       "domain": "The Shillong Times",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeDI4TVJVRk5qeEhsWG1ZMW1wV29kSGFoSGpuNzZZbEpHanl2OGJlZGRRZ3c4SDZiT0U4XzY3bWl2ZlEwdHRvMDAzdkhWQkhScEVjRTduNmtTcFBvMDFpVGwzdGRFWkxpLVphbnIyVHo1TTdKWkJVcnFTZUVYR0JTOG4yaTNrc29FUUo3dXJ0MDBacmgxTHdtVkJ4WjdfdmtocUpHN1VQa0JjRUx0RXVmd0FkdHVxMVhRSUZDWkYwOGN6MVBlYVVhVUtNaGFNSXNhTGdPYTU0NlNrTGxJeVJHXzUyaGhMc2V5TndIetIB8gFBVV95cUxPNXB6d1RhNFpJNmMwRHdhX2RjM0lHc2NFNERBbE1LMUJmZDFHZmhlVDBUdXpjaWRUYWNPbjNiNzcxRkFRV25RRWtycklOa2lmQW90aFNkcFdWQXBsNzBPcjk1N3RPZm5DLXpzbDZhWlMzcU9PaXMtRWtPSEdHalR5bTREMzEzclpPTTdDd0dzWEZMZHh1b2NOaGhhNEJYdHJHamhPU3lJaVp1ckpGV18tNlQydHh5OG1GR3V2TmMyUm9uT1I4Z2VjWHYtQUE4ZlpjVlpOWlAtY0VWX2kyVHV6a0wxeVNnb2hKTXJfRGFPVkRYZw?oc=5",
+      "date": "2026-05-12",
+      "name": null,
+      "location": null,
+      "title": "Unknown gunmen expose Pakistan’s double game: LeT commander killed, ISI official found with ISIS files - Mid-Day",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeDI4TVJVRk5qeEhsWG1ZMW1wV29kSGFoSGpuNzZZbEpHanl2OGJlZGRRZ3c4SDZiT0U4XzY3bWl2ZlEwdHRvMDAzdkhWQkhScEVjRTduNmtTcFBvMDFpVGwzdGRFWkxpLVphbnIyVHo1TTdKWkJVcnFTZUVYR0JTOG4yaTNrc29FUUo3dXJ0MDBacmgxTHdtVkJ4WjdfdmtocUpHN1VQa0JjRUx0RXVmd0FkdHVxMVhRSUZDWkYwOGN6MVBlYVVhVUtNaGFNSXNhTGdPYTU0NlNrTGxJeVJHXzUyaGhMc2V5TndIetIB8gFBVV95cUxPNXB6d1RhNFpJNmMwRHdhX2RjM0lHc2NFNERBbE1LMUJmZDFHZmhlVDBUdXpjaWRUYWNPbjNiNzcxRkFRV25RRWtycklOa2lmQW90aFNkcFdWQXBsNzBPcjk1N3RPZm5DLXpzbDZhWlMzcU9PaXMtRWtPSEdHalR5bTREMzEzclpPTTdDd0dzWEZMZHh1b2NOaGhhNEJYdHJHamhPU3lJaVp1ckpGV18tNlQydHh5OG1GR3V2TmMyUm9uT1I4Z2VjWHYtQUE4ZlpjVlpOWlAtY0VWX2kyVHV6a0wxeVNnb2hKTXJfRGFPVkRYZw?oc=5",
+      "domain": "Mid-Day",
       "source_country": null,
       "language": "en"
     },

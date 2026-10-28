@@ -1,8 +1,52 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "events": [
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
+      "date": "2018-05-05",
+      "name": null,
+      "location": null,
+      "title": "At least 6 killed, 1 injured by unknown gunmen in Kharan, Pakistan - Xinhua | English.news.cn - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
+      "domain": "新华网",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSk9BclRDZTRFX0taY0JYYUZSNFA3Tmt4UVVfclFidjAyWThQd1Z3azE0Mk8xeUI5eE1wbGY2d0Z4QWl6ZFQ4b29POVFLRlJuWVBMaUY0eFFRendMMU5wVHd1VzZXcnhjdXdOcUprdFJxbENGNVNRRVBMcWRUUm9ZcDVmMG5Xbzg4U3Q4aTd6d053aUk?oc=5",
+      "date": "2018-11-02",
+      "name": null,
+      "location": null,
+      "title": "Maulana Sami-ul-Haq killed by unknown assailants - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSk9BclRDZTRFX0taY0JYYUZSNFA3Tmt4UVVfclFidjAyWThQd1Z3azE0Mk8xeUI5eE1wbGY2d0Z4QWl6ZFQ4b29POVFLRlJuWVBMaUY0eFFRendMMU5wVHd1VzZXcnhjdXdOcUprdFJxbENGNVNRRVBMcWRUUm9ZcDVmMG5Xbzg4U3Q4aTd6d053aUk?oc=5",
+      "domain": "Arab News PK",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JWGd2T0pQOEJ6R3lySG5ORE5IaURHVzV2TWM2X245OWMxX3RkRnJScGZuQkJrZ1A2Qk45VktwT2RoTDdIV0piS29YVUNRc19BbXJwSktUdm83LTR2WGFPYmV1RS1hVURjc2hKZGp5OXBoclHSAXZBVV95cUxQcnBfT2swTWlKeTV3OTROdUpxUzM0dUlCREVyVVNYWUN5VEdlSjlDQTBtTkRtMzNEX25rMkpuLVh0LUtRY09FNjdpMVVIbU5PNUpnWHZSWnpSX1VzblFlWjJRZzdLZnJoQndscUtUeFdqdWlzOXdn?oc=5",
+      "date": "2021-04-11",
+      "name": null,
+      "location": null,
+      "title": "Pakistani Journalist Shot Dead By Unknown Gunmen - Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JWGd2T0pQOEJ6R3lySG5ORE5IaURHVzV2TWM2X245OWMxX3RkRnJScGZuQkJrZ1A2Qk45VktwT2RoTDdIV0piS29YVUNRc19BbXJwSktUdm83LTR2WGFPYmV1RS1hVURjc2hKZGp5OXBoclHSAXZBVV95cUxQcnBfT2swTWlKeTV3OTROdUpxUzM0dUlCREVyVVNYWUN5VEdlSjlDQTBtTkRtMzNEX25rMkpuLVh0LUtRY09FNjdpMVVIbU5PNUpnWHZSWnpSX1VzblFlWjJRZzdLZnJoQndscUtUeFdqdWlzOXdn?oc=5",
+      "domain": "Radio Free Europe/Radio Liberty",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm5KaG1ueXpQREZaTUxvODA5SzYyTXFBOUhwMjFaUXgzRVAxZlJEOEtDazlZTVBsdGZFcFpPek42M0w0OURnOUJ2czU0MDNHSjJlNW9RUjEtSzdoN21qSjVUdFVVb0k1Z2sxUW9NeHVRVWVmOWwxUG1aNXdQUUNwZVlzRmx0Ujd3SWQxREd3NzhkRGR5OE41YkdfLUJacXFOYmdmN3gwbTFSWnNY0gG2AUFVX3lxTE9ZTkhDVUotUzRObWNPcUNoUkhuemxacW9BZmRmYktxdWhrQ3ItTktPc0FWNFRaY2E2REEtVXR6dkx0QXY4eVBLS1dNdkJONVFvem1HU2hCVFc4MHJYX1F2R0NicE5nSUw1MkNDS2N6U3FlcldlU2tmc3FzcU4wcWxfdmhpNkFBc1hseGlUR2tKZ196WHhOSXpGaWlTU0lzSk91aVczWkk2b1dwUjNDdHZCdXhNQV9n?oc=5",
+      "date": "2023-07-17",
+      "name": null,
+      "location": null,
+      "title": "Afghan Singer Hasiba Noori Killed in Attack by Unknown Gunmen in Pakistan - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm5KaG1ueXpQREZaTUxvODA5SzYyTXFBOUhwMjFaUXgzRVAxZlJEOEtDazlZTVBsdGZFcFpPek42M0w0OURnOUJ2czU0MDNHSjJlNW9RUjEtSzdoN21qSjVUdFVVb0k1Z2sxUW9NeHVRVWVmOWwxUG1aNXdQUUNwZVlzRmx0Ujd3SWQxREd3NzhkRGR5OE41YkdfLUJacXFOYmdmN3gwbTFSWnNY0gG2AUFVX3lxTE9ZTkhDVUotUzRObWNPcUNoUkhuemxacW9BZmRmYktxdWhrQ3ItTktPc0FWNFRaY2E2REEtVXR6dkx0QXY4eVBLS1dNdkJONVFvem1HU2hCVFc4MHJYX1F2R0NicE5nSUw1MkNDS2N6U3FlcldlU2tmc3FzcU4wcWxfdmhpNkFBc1hseGlUR2tKZ196WHhOSXpGaWlTU0lzSk91aVczWkk2b1dwUjNDdHZCdXhNQV9n?oc=5",
+      "domain": "TheWire.in",
+      "source_country": null,
+      "language": "en"
+    },
     {
       "event_id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BCNmZZc2tvcWNnR1RIbHd3NTdaMERLMzUwM29ZQXY5djhUbGZaem1Hck5Yc0phUGtULVdMdW04SkpDazhMQkl4dEpVbTFxNkNlcmVEazk3X0JEQ1V1ODlBVzVvUExVZFNrLWEydFA1VHNQWTZMWWpVU1dDR0FVa01lbTFlNmpjZE9QS0lQaE84RGJNRjVZLTZDekdmWEw1S3BhMHpuWGlSSVcwWktZTXA5enU0NXdsc0E?oc=5",
       "date": "2023-12-02",
@@ -187,6 +231,39 @@
       "title": "Unidentified gunmen kill three Sindh-based barbers in southwestern Pakistan - Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXNyYU5hNVVMaEZERm05Y25rWTB3OHI5dlBRVDhxRlNadDBpSFh4aDhtcl9HUi03S1ZfeWZMcUNYNGh2b0IxMl9haW9xR3p1ZE5DNkNHVTBoZzhyQVJILVY1NmRYY2pYRWQ3QmJLdzZqSDBxMnM2Tkw2cnQ4TWI2cFkzTmtOVG9zanBVZTZSUkVKQ0Z2OUxoZDFhVk1GQnJVUk5QWW5Ham94emtNUXRuWUNCZEpiMmM?oc=5",
       "domain": "Arab News PK",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZnRRN3ZScm1fQW5MRTdLaVFPd1A2d0FpM0t6NnUzWDdHeVM5VnloX2FJbUllWTVsYmFXOHZ1bGU4WjV0Z083cTk1c0FPSXhjMW15ZXA2cmd4d2lRTUg1N3pjSXpZWnY4bmVlVVJteTc5VzNZd0lfNVB1VExnSnBYcHB3a1hWd01tRUdRS1NON25oTmtQZ3EzR24zc0tLaGRqQXp1bzhidVJmNUFxaW5QbFZLZngwOGxNMEhMeWJ3VmtoQlk3Zmd4MzNmZE1SWEt5MWd3V2FySXB1ME8tTkJWMVhkRE81Q25scmo4dzd30gH0AUFVX3lxTFBUYVBOMGVKNk1PTl9LUEhpUEotSTZvMmZDdGFMZHdqc0FSekdRMFhNam95YzhzS2paa0ZNTU1OelhaZHcxTGliWXNWUlpZQXpYc21DS3M2R3U4TUU2QzBncmExQ2R2bWFkTzBnaFMyQ1Z3Q0pqQXBFV0xBd2RWbHlvOXlxV0U4bjQtVHhPU2YyWHUtTEhRSGRyZjRiaEJjQng0WnFVRE96U3l4TEpFTVZLQlVPdzNtTUNkemhHLXNaYlg1V3NkRENNUlNLd2NTb1o1S28xd1dPVXlkS2JKenl1eUJPU1Nsbm5oVlczaE5YR2NBbmY?oc=5",
+      "date": "2025-03-16",
+      "name": null,
+      "location": null,
+      "title": "⁠Unknown gunmen’ strike Hafiz Saeed’s close aide Sindhi in Pakistan; was behind Poonch-Rajouri attacks - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZnRRN3ZScm1fQW5MRTdLaVFPd1A2d0FpM0t6NnUzWDdHeVM5VnloX2FJbUllWTVsYmFXOHZ1bGU4WjV0Z083cTk1c0FPSXhjMW15ZXA2cmd4d2lRTUg1N3pjSXpZWnY4bmVlVVJteTc5VzNZd0lfNVB1VExnSnBYcHB3a1hWd01tRUdRS1NON25oTmtQZ3EzR24zc0tLaGRqQXp1bzhidVJmNUFxaW5QbFZLZngwOGxNMEhMeWJ3VmtoQlk3Zmd4MzNmZE1SWEt5MWd3V2FySXB1ME8tTkJWMVhkRE81Q25scmo4dzd30gH0AUFVX3lxTFBUYVBOMGVKNk1PTl9LUEhpUEotSTZvMmZDdGFMZHdqc0FSekdRMFhNam95YzhzS2paa0ZNTU1OelhaZHcxTGliWXNWUlpZQXpYc21DS3M2R3U4TUU2QzBncmExQ2R2bWFkTzBnaFMyQ1Z3Q0pqQXBFV0xBd2RWbHlvOXlxV0U4bjQtVHhPU2YyWHUtTEhRSGRyZjRiaEJjQng0WnFVRE96U3l4TEpFTVZLQlVPdzNtTUNkemhHLXNaYlg1V3NkRENNUlNLd2NTb1o1S28xd1dPVXlkS2JKenl1eUJPU1Nsbm5oVlczaE5YR2NBbmY?oc=5",
+      "domain": "The Hindu",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUxvZFp6V2M0eTVnVlBtR0g1YzJoTWwwV1ZjVHVGVWVSeFQ5RkhNZVVVb0x2cXVCTTl2Tlh3MVlxbDlvaVhzQnZDOEdHdlpvUXVBR0p3MHFoOE85NnZKZ3pjYklTcVd1cURuZjVFN2RUTEJLb3czT0F5dURVdGxMdmRRYlVCOGY3akk2T3JFUDBTNXZaY256dzFfYmt4RUF5a1NrTjFEbVdFT015cFUzX1B4cGN1STEwZGpnOFUxaURVQVAxX1VNMEQwSU1YTnZl0gHWAUFVX3lxTE1mQzQzTlE5YnVGTWVNakp1MUlkNWxnYjd0NFVGeEtmR2R2dGRVVFZ1UW9uRENqRWlqSnFyM2c2UnRXNVRlby1EbnZBVENYNVg1a1hDcUlPRVY5WGlHb2k3YTZWVEZzb2dCalhnaWszMGhTOVR3ZFlfeGVfa0xuajFTRGJZMWdJazM4dk83NEhtaHlYY3NnYnptNHdaMkRacHlETnU2UFBQbHlubUpiTHFpSU5wcTA3b1NldDhQMUtoTUZ3aUpKWVhRUndKeXlGSXdSZnZzS2c?oc=5",
+      "date": "2025-03-16",
+      "name": null,
+      "location": null,
+      "title": "‘Unknown gunmen’ strike Hafiz Saeed’s close aide Sindhi in Pakistan; was behind Poonch-Rajouri attacks - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUxvZFp6V2M0eTVnVlBtR0g1YzJoTWwwV1ZjVHVGVWVSeFQ5RkhNZVVVb0x2cXVCTTl2Tlh3MVlxbDlvaVhzQnZDOEdHdlpvUXVBR0p3MHFoOE85NnZKZ3pjYklTcVd1cURuZjVFN2RUTEJLb3czT0F5dURVdGxMdmRRYlVCOGY3akk2T3JFUDBTNXZaY256dzFfYmt4RUF5a1NrTjFEbVdFT015cFUzX1B4cGN1STEwZGpnOFUxaURVQVAxX1VNMEQwSU1YTnZl0gHWAUFVX3lxTE1mQzQzTlE5YnVGTWVNakp1MUlkNWxnYjd0NFVGeEtmR2R2dGRVVFZ1UW9uRENqRWlqSnFyM2c2UnRXNVRlby1EbnZBVENYNVg1a1hDcUlPRVY5WGlHb2k3YTZWVEZzb2dCalhnaWszMGhTOVR3ZFlfeGVfa0xuajFTRGJZMWdJazM4dk83NEhtaHlYY3NnYnptNHdaMkRacHlETnU2UFBQbHlubUpiTHFpSU5wcTA3b1NldDhQMUtoTUZ3aUpKWVhRUndKeXlGSXdSZnZzS2c?oc=5",
+      "domain": "ThePrint",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXpJdC1XYU4ybEVuTkZxbVJjOWdodm8zRmliSE9QcVNKMGR3SXBYbDBUeFVVTmJPYjJpT2FQM1J4OU1LMzA3MUlibWVReW9VNFFwTDNhS05tc1Y4Rmd4anRtQ0VXVkw3YjREZEV2am9HYm1OMHA1R29QLUdsSXdydFBsRGZxRXNYYnJRS0Y4UU1tYzZJdy1IRWk2X3dNaGJwTjhuRkJUaEJiU1Y0ekE?oc=5",
+      "date": "2025-04-09",
+      "name": null,
+      "location": null,
+      "title": "'Unknown gunmen' shoot JeM chief's close aide in Pakistan - Awaz The Voice",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXpJdC1XYU4ybEVuTkZxbVJjOWdodm8zRmliSE9QcVNKMGR3SXBYbDBUeFVVTmJPYjJpT2FQM1J4OU1LMzA3MUlibWVReW9VNFFwTDNhS05tc1Y4Rmd4anRtQ0VXVkw3YjREZEV2am9HYm1OMHA1R29QLUdsSXdydFBsRGZxRXNYYnJRS0Y4UU1tYzZJdy1IRWk2X3dNaGJwTjhuRkJUaEJiU1Y0ekE?oc=5",
+      "domain": "Awaz The Voice",
       "source_country": null,
       "language": "en"
     },
@@ -1629,6 +1706,17 @@
       "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened",
       "domain": "Dawn",
       "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2JqaGM2c2d0eHU1bVFua05qWFRaSkxSZXJoSHE3YklWalJQZ0hxMXVSM2otQXRldzZvUS12U2NDZHIxV1NnRjlRYW4zcTQ2Szl0ZWNmblR2RG14Sml6cjdYUElnMk1XdFdBV1RFZFBORl9HSW5KWENMbGttM1VhWWZsdktBT29CbUMtLXdleWM?oc=5",
+      "date": "2026-10-27",
+      "name": null,
+      "location": null,
+      "title": "One Killed After Unidentified Gunmen Open Fire In Nushki - UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2JqaGM2c2d0eHU1bVFua05qWFRaSkxSZXJoSHE3YklWalJQZ0hxMXVSM2otQXRldzZvUS12U2NDZHIxV1NnRjlRYW4zcTQ2Szl0ZWNmblR2RG14Sml6cjdYUElnMk1XdFdBV1RFZFBORl9HSW5KWENMbGttM1VhWWZsdktBT29CbUMtLXdleWM?oc=5",
+      "domain": "UrduPoint",
+      "source_country": null,
       "language": "en"
     }
   ]
