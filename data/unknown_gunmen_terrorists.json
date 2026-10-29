@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-29",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlsWEFWNHplMnNJR0R4Qjk0VUM2bVJGX2huRUdXdTFDNU5adTF4d2lwZS1fNnoyVXNBSmxYWGlUSEZnWkVxQVNPTHJJOE5jRTgzQTJkSVlVbEJELXhvZ2lJUmJIcWZURjU3VGtjb0tFblZta1ZFY3QwMmt2NHBkMlptTld0R2haN3BORTBuUXdKOVByT2NLUHhYcDlXVGdnTE9QMXJNUEdfMHN0SjIxanZnT09CSnE5NHZJV1JGbmpoc3llc2g3QnZPNWNqQzM1VzRrdWtCTU91cVQ4elBz0gHvAUFVX3lxTE9aMzk4bnRXSDlFZVFmZDdNLWhZTnliTUxIbnRXSHo1ZzE3MFE4UEdmLTBTcllqR04xZHhiRGNVRm0xejQyOHF6Q3FoMTNNN3daVEpWcXY3a1YzcWRKOWRrc0ZDVm80OXdGZGYyZWk0aGVoMzBZa2ZIZ1ZVNk5qY1YyaXVyT00tZFBncDV4MEpfVk9fNnVoTllZa3c2V2ZUcDFGODhuV1pRb2FCbWNtNXE0UENubmpzN0QxVkJQQXNqbV9LX2ZzTXlnNl8xam1aT21TLXpja0pFaVZleVdlSHo2TmVGQWF5d1k3V2E1aEV3?oc=5",
