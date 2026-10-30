@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -44,6 +44,17 @@
       "title": "Afghan Singer Hasiba Noori Killed in Attack by Unknown Gunmen in Pakistan - TheWire.in",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm5KaG1ueXpQREZaTUxvODA5SzYyTXFBOUhwMjFaUXgzRVAxZlJEOEtDazlZTVBsdGZFcFpPek42M0w0OURnOUJ2czU0MDNHSjJlNW9RUjEtSzdoN21qSjVUdFVVb0k1Z2sxUW9NeHVRVWVmOWwxUG1aNXdQUUNwZVlzRmx0Ujd3SWQxREd3NzhkRGR5OE41YkdfLUJacXFOYmdmN3gwbTFSWnNY0gG2AUFVX3lxTE9ZTkhDVUotUzRObWNPcUNoUkhuemxacW9BZmRmYktxdWhrQ3ItTktPc0FWNFRaY2E2REEtVXR6dkx0QXY4eVBLS1dNdkJONVFvem1HU2hCVFc4MHJYX1F2R0NicE5nSUw1MkNDS2N6U3FlcldlU2tmc3FzcU4wcWxfdmhpNkFBc1hseGlUR2tKZ196WHhOSXpGaWlTU0lzSk91aVczWkk2b1dwUjNDdHZCdXhNQV9n?oc=5",
       "domain": "TheWire.in",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTmdERDdWREltY21jaWcyRWExS01DZUJGanhKWU82QjRCazlwWm5ENmVhOFJfT1JyTTVaMDhvbkxSN0pacWtBWk9NR0F4YU84bWQwRktJbUs3NHp5U1locWtiZ19MZ1E3Q3NrejFISVZwRVJTM04xREQtTm00cDM1NFZMbnQyT2J2S0gzQnBSRXlaYTBqSVkxZ0Q2QXNGeWtoWE5yVnVZUFV2ZmtPYXpqYVVHMW5LaV9fTzhJVGpuYUtvbzFrMTVCNTR4UXM3TGFDUk5ldm5PcUplUWM?oc=5",
+      "date": "2023-09-13",
+      "name": null,
+      "location": null,
+      "title": "Police initiate investigations as local cleric in Pakistan’s Karachi fatally shot by unknown assailants - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTmdERDdWREltY21jaWcyRWExS01DZUJGanhKWU82QjRCazlwWm5ENmVhOFJfT1JyTTVaMDhvbkxSN0pacWtBWk9NR0F4YU84bWQwRktJbUs3NHp5U1locWtiZ19MZ1E3Q3NrejFISVZwRVJTM04xREQtTm00cDM1NFZMbnQyT2J2S0gzQnBSRXlaYTBqSVkxZ0Q2QXNGeWtoWE5yVnVZUFV2ZmtPYXpqYVVHMW5LaV9fTzhJVGpuYUtvbzFrMTVCNTR4UXM3TGFDUk5ldm5PcUplUWM?oc=5",
+      "domain": "Arab News PK",
       "source_country": null,
       "language": "en"
     },
@@ -286,6 +297,17 @@
       "title": "FC personnel martyred as unknown gunmen open fire at checkpoint in GB’s Diamer: police - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Y2l2YXdWQ3NXY1ZYc1g3cWpQbG1ld3ZtNzV0WDZST1VHWU5POGFXNzVIYUJMSVhJdjdtR3hBM3NHaEk5OFBoQw?oc=5",
       "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2xVN0V0Uk9ENktNUzE4OVNmX2xlcnlzb3cwY2gzVGg2ejlXNHp3cVJ6WkxlVEc4eTFyeVVHbE1FNi11VWpaM2ZNLVo5VjRYa01LWW5LZUpwb1JsbHJmZnZSRFFsWDZQZEcyVFpxeEF3cVpsRWlCM1NXYVpTZzNnTzdDbURrT2hGUG8zVHIyalAxS1pmWmNhOVBOdHlOV0NRdEhkT2hGWE9tTWctZXdBYmZIVjZGQXl0V3ExNWJTaC1pdE1RWExwYXd2emU1eU4yUUxxaXlnVdIB3gFBVV95cUxPQXloWmt6Y2VKQS1rQU03Y2NMcW5fYThLeVZCaENsRkZLOWJ0MVF0aUpQa2cwcFVaODBhdEw4ZTBIS29QZGFybzU0NlZNVTIzS2RXYVhwM2RiYnBkcVdQM1B1ZS1YMnNCMTlQRnFCU09vVnR1OUVENG1yMXlUREEwQXdWb2Vfb2VlZ3I0WU5KeWFCaGZMNU1Kb0FBN3AzNjE1LVd6UUdDaXM3TWk4Q2szTU1PME93MGZrb0tHRHFGWDRpYjFfZE5qbnA0LV84YkxGSzRRa29JQ2tnaXB6bHc?oc=5",
+      "date": "2025-07-26",
+      "name": null,
+      "location": null,
+      "title": "Unknown gunmen kill 6, wound 20 in attack on court building in southeast Iran - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2xVN0V0Uk9ENktNUzE4OVNmX2xlcnlzb3cwY2gzVGg2ejlXNHp3cVJ6WkxlVEc4eTFyeVVHbE1FNi11VWpaM2ZNLVo5VjRYa01LWW5LZUpwb1JsbHJmZnZSRFFsWDZQZEcyVFpxeEF3cVpsRWlCM1NXYVpTZzNnTzdDbURrT2hGUG8zVHIyalAxS1pmWmNhOVBOdHlOV0NRdEhkT2hGWE9tTWctZXdBYmZIVjZGQXl0V3ExNWJTaC1pdE1RWExwYXd2emU1eU4yUUxxaXlnVdIB3gFBVV95cUxPQXloWmt6Y2VKQS1rQU03Y2NMcW5fYThLeVZCaENsRkZLOWJ0MVF0aUpQa2cwcFVaODBhdEw4ZTBIS29QZGFybzU0NlZNVTIzS2RXYVhwM2RiYnBkcVdQM1B1ZS1YMnNCMTlQRnFCU09vVnR1OUVENG1yMXlUREEwQXdWb2Vfb2VlZ3I0WU5KeWFCaGZMNU1Kb0FBN3AzNjE1LVd6UUdDaXM3TWk4Q2szTU1PME93MGZrb0tHRHFGWDRpYjFfZE5qbnA0LV84YkxGSzRRa29JQ2tnaXB6bHc?oc=5",
+      "domain": "The Hindu",
       "source_country": null,
       "language": "en"
     },
