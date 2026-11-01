@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-01",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -92,6 +92,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYktLSGJLbWo0MC1hc2R3djRMMURTMlRreTRXVU9MaTdSMFkxNW1HbkVkejBBYzc3c084RlY3ZWZMNHJyMWtrenJVbHRZdnk4YWxVLW5JQ3NQNmtFb21sWUxzUkxkSXVyRkF4UjY2Z1JSWkQycEhKdVM4ZzNKaVdaVDNRZktCR0VCcnE3ZFcxdGhJYWhsMmpTOWdiTVlCZ2xyNDlsWFBVTHp4d0VHTW9PVG55MXJfaVo5VWV6MUZR?oc=5",
+      "date": "2024-01-05",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen fatally shoot Sunni Ulama Council cleric in Islamabad suburb - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYktLSGJLbWo0MC1hc2R3djRMMURTMlRreTRXVU9MaTdSMFkxNW1HbkVkejBBYzc3c084RlY3ZWZMNHJyMWtrenJVbHRZdnk4YWxVLW5JQ3NQNmtFb21sWUxzUkxkSXVyRkF4UjY2Z1JSWkQycEhKdVM4ZzNKaVdaVDNRZktCR0VCcnE3ZFcxdGhJYWhsMmpTOWdiTVlCZ2xyNDlsWFBVTHp4d0VHTW9PVG55MXJfaVo5VWV6MUZR?oc=5",
+      "domain": "Arab News PK",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHQk9KYUhxYkJlbmIyYWlCcENwSFl2VjZhTFd1WlB3d29sMzdQSzM0eG1FbWdOOWVrTng3WjJZeDBtRXF6bUNYSg?oc=5",
       "date": "2024-01-09",
       "name": null,
@@ -121,6 +132,17 @@
       "title": "Bodies of nine Pakistanis killed by unknown gunmen in Iran repatriated - arabnews.pk",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlkeXkwQ3R5QXB3SzBUMWNqM2dGdlh1bXdrSzc3VXVXRmZ1Rzg1X3dfbGxoaEwzZDNGQjRONHRJVjRrVHpablBSa0VHdi1LaFhMN0NsS2V3NFhtRnVIZjBLOGJCYl95d05aQklFdzF6cmdfUTFCWjBLekFvU013cEgydnlsQnQtN2hvNVk3Y1RHRDJWUm05S0FqTmpfSHFHYVBsa2VxZjdJck1mT3NqSw?oc=5",
       "domain": "arabnews.pk",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQam1BTU4wMzJaSVNLTHJOSS1ZcGd4ZEJaUU8xMmdSTHh1RGFPbk1WV3BFMGN6cVltemRPbWpOYTBxSDZUdzctaUVtZnFnNmxSc2E5Nk9ORmtYdHE0cWQtOHRqbzNEWGl5VnJkb3ZDS0FIeGJWZnIzT05SSnJrZngyNWxvTQ?oc=5",
+      "date": "2024-02-01",
+      "name": null,
+      "location": null,
+      "title": "The bodies of 9 Pakistanis killed by unknown gunmen in Iran have been repatriated - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQam1BTU4wMzJaSVNLTHJOSS1ZcGd4ZEJaUU8xMmdSTHh1RGFPbk1WV3BFMGN6cVltemRPbWpOYTBxSDZUdzctaUVtZnFnNmxSc2E5Nk9ORmtYdHE0cWQtOHRqbzNEWGl5VnJkb3ZDS0FIeGJWZnIzT05SSnJrZngyNWxvTQ?oc=5",
+      "domain": "The Independent",
       "source_country": null,
       "language": "en"
     },
