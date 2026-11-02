@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -803,6 +803,17 @@
       "title": "Amir Hamza Shot in Lahore: LeT Co-Founder Critical After Gun Attack in Pakistan - pgurus.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVJ6WVdEVGhKRXBac3ZoZ2hxcUpvS0IzdGpVdWltSmY0WjB0ZFZ1NkpDcXlkYzVzaHZZeFlLdHVMaUhkeWktSzJ6ZEdadWM0ZzZ5NTNSTW9rT3Z5Wk55SXBOM3lXWTk5M0lQaTJXRHZFSW5McmJnN3BSZ0JPVzB0TVJYTkVCeUc1Qkh3ekUwZVk3dHRYQzFJWGVFeWJEODZXZ0E1dDROU1I2QQ?oc=5",
       "domain": "pgurus.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTk4aXRONmVYUHpFVDRyRFBCVHpvTzBiZFB4UUZfblAyRTBVbDN6cFdHaEhiSmM5T0xPUldUbGFPMjBiMHJIeWtJaVVuUzZXYzZ0d2QteHhndmY0bXFhWVFxQUZSODBEcWhVNnliQ0YwOF9PVEJITG05SEtvNUgxTVNacTl3aDVJaGgtZWUzazVHMVZUUTFXbnRtUFdqVVdNaC1udGRXRzU0LVFIVV9BT0NWbGw1VHNXUHRxQQ?oc=5",
+      "date": "2026-04-16",
+      "name": null,
+      "location": null,
+      "title": "Who's Behind The Hits? India's Most-Wanted Terror Figures Fall In Pakistan - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTk4aXRONmVYUHpFVDRyRFBCVHpvTzBiZFB4UUZfblAyRTBVbDN6cFdHaEhiSmM5T0xPUldUbGFPMjBiMHJIeWtJaVVuUzZXYzZ0d2QteHhndmY0bXFhWVFxQUZSODBEcWhVNnliQ0YwOF9PVEJITG05SEtvNUgxTVNacTl3aDVJaGgtZWUzazVHMVZUUTFXbnRtUFdqVVdNaC1udGRXRzU0LVFIVV9BT0NWbGw1VHNXUHRxQQ?oc=5",
+      "domain": "NDTV",
       "source_country": null,
       "language": "en"
     },
@@ -1761,6 +1772,28 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2JqaGM2c2d0eHU1bVFua05qWFRaSkxSZXJoSHE3YklWalJQZ0hxMXVSM2otQXRldzZvUS12U2NDZHIxV1NnRjlRYW4zcTQ2Szl0ZWNmblR2RG14Sml6cjdYUElnMk1XdFdBV1RFZFBORl9HSW5KWENMbGttM1VhWWZsdktBT29CbUMtLXdleWM?oc=5",
       "domain": "UrduPoint",
       "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNENUcWNxenlvVjlZWEI2TjJudmpyMkczcWREV2xlWkxLOE1aNzBzbWswTC14Y1lYZmRCUTZCQ0dKa1VGTUhDZ2FlS0tjUW9wX0xOajdYVzJNamlZMTZOMmJHVHNET1dPeWduajllQnJkMmpBRzBoNnduMk9yREU5NEN3NXJBVFh1VU1zX1FhSzZwbnlMYlBOeVhxc0ZmYjdlWnN2VmpiV0lRUQ?oc=5",
+      "date": "2026-10-31",
+      "name": null,
+      "location": null,
+      "title": "Unknown Gunmen Open Fire On Official Vehicle, Mansehra AC Adil Wasim Seriously Injured - UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNENUcWNxenlvVjlZWEI2TjJudmpyMkczcWREV2xlWkxLOE1aNzBzbWswTC14Y1lYZmRCUTZCQ0dKa1VGTUhDZ2FlS0tjUW9wX0xOajdYVzJNamlZMTZOMmJHVHNET1dPeWduajllQnJkMmpBRzBoNnduMk9yREU5NEN3NXJBVFh1VU1zX1FhSzZwbnlMYlBOeVhxc0ZmYjdlWnN2VmpiV0lRUQ?oc=5",
+      "domain": "UrduPoint",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2041460/pia-engineer-gunned-down-in-suspected-targeted-attack-in-karachis-gulistan-i-jauhar",
+      "date": "2026-11-02",
+      "name": null,
+      "location": null,
+      "title": "PIA engineer gunned down in suspected targeted attack in Karachi's Gulistan-i-Jauhar",
+      "url": "https://www.dawn.com/news/2041460/pia-engineer-gunned-down-in-suspected-targeted-attack-in-karachis-gulistan-i-jauhar",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
       "language": "en"
     }
   ]
