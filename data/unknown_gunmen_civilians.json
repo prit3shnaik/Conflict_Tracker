@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -1786,12 +1786,34 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0VFaENLWjJheHBxbjFtVU9qQVZ5X3M2eE11UVhhRlBGMTE4dkM3LU15V1FyTzRCY05taHd2YXVxOVM0bzJ0cDB4Q0JuVGN5TnR5UlBneVIyLWtXNjdzNWNFbDQ1WWxsb0NSM183ZE9HQ1k0ZU85RTFITTBuQW5kRF9RS19HNVZZeTNWZG5STHZhNVlSVUhReWRPS0dHSHc5Y0YycGhCenUzQdIBrAFBVV95cUxNSGdXMnVmenk4cjEtcXA5T3JaX2dhTUpQXzk0QzJGb1EzYUNVejJJaGN1aFJxN1dSNERQZkZEYVBMQ0J3RTQzV2psZDBJMnV2M3JnTUZSZ3VkR3BxcDFuNkpTSENsTHBENExGZXVPZUtGMFk2OEd6NVJjRWN5Q19oZF9UcGZyemNzUnlmMlRsaTE0UUdVQTN1MGtBLVF6eGtUbjg0dXEtd0FNbEdW?oc=5",
+      "date": "2026-11-01",
+      "name": null,
+      "location": null,
+      "title": "Unidentified Gunmen Kill Three In Balochistan, Sparking Tribal Protests - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0VFaENLWjJheHBxbjFtVU9qQVZ5X3M2eE11UVhhRlBGMTE4dkM3LU15V1FyTzRCY05taHd2YXVxOVM0bzJ0cDB4Q0JuVGN5TnR5UlBneVIyLWtXNjdzNWNFbDQ1WWxsb0NSM183ZE9HQ1k0ZU85RTFITTBuQW5kRF9RS19HNVZZeTNWZG5STHZhNVlSVUhReWRPS0dHSHc5Y0YycGhCenUzQdIBrAFBVV95cUxNSGdXMnVmenk4cjEtcXA5T3JaX2dhTUpQXzk0QzJGb1EzYUNVejJJaGN1aFJxN1dSNERQZkZEYVBMQ0J3RTQzV2psZDBJMnV2M3JnTUZSZ3VkR3BxcDFuNkpTSENsTHBENExGZXVPZUtGMFk2OEd6NVJjRWN5Q19oZF9UcGZyemNzUnlmMlRsaTE0UUdVQTN1MGtBLVF6eGtUbjg0dXEtd0FNbEdW?oc=5",
+      "domain": "Rediff",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://www.dawn.com/news/2041460/pia-engineer-gunned-down-in-suspected-targeted-attack-in-karachis-gulistan-i-jauhar",
       "date": "2026-11-02",
       "name": null,
       "location": null,
       "title": "PIA engineer gunned down in suspected targeted attack in Karachi's Gulistan-i-Jauhar",
       "url": "https://www.dawn.com/news/2041460/pia-engineer-gunned-down-in-suspected-targeted-attack-in-karachis-gulistan-i-jauhar",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2041809/2-policemen-martyred-1-injured-in-attack-en-route-to-polio-duty-in-kps-mohmand",
+      "date": "2026-11-03",
+      "name": null,
+      "location": null,
+      "title": "2 policemen martyred, 1 injured in attack en route to polio duty in KP's Mohmand",
+      "url": "https://www.dawn.com/news/2041809/2-policemen-martyred-1-injured-in-attack-en-route-to-polio-duty-in-kps-mohmand",
       "domain": "Dawn",
       "source_country": "Pakistan",
       "language": "en"
