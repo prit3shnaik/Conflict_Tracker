@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-05",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -1816,6 +1816,17 @@
       "url": "https://www.dawn.com/news/2041809/2-policemen-martyred-1-injured-in-attack-en-route-to-polio-duty-in-kps-mohmand",
       "domain": "Dawn",
       "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcndtSTlZQWR1aTV6M05nU3FhNl9sbDB5QnYzSk4ycjFLTlRLTHhCMjNxam14d3hybzhRQV9ydzRIMWxzOVA2UU91UkdveFY5SjBKelI3NHNfTFpGa0I4U3FLcUVwRTFKbW9lQkhhdUlfOTZYTkxlZ3plaDMxZlN6b2ZuYUJKWlljYjQ5V3hXOEtCajl6NXNvZ192WWptaWJiOXJYakVkdXJkYU5pSFpGa25XUXJTdDdF?oc=5",
+      "date": "2026-11-05",
+      "name": null,
+      "location": null,
+      "title": "Pakistan: Polio worker kidnapped in Khyber Pakhtunkhwa during vaccination campaign - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcndtSTlZQWR1aTV6M05nU3FhNl9sbDB5QnYzSk4ycjFLTlRLTHhCMjNxam14d3hybzhRQV9ydzRIMWxzOVA2UU91UkdveFY5SjBKelI3NHNfTFpGa0I4U3FLcUVwRTFKbW9lQkhhdUlfOTZYTkxlZ3plaDMxZlN6b2ZuYUJKWlljYjQ5V3hXOEtCajl6NXNvZ192WWptaWJiOXJYakVkdXJkYU5pSFpGa25XUXJTdDdF?oc=5",
+      "domain": "IANS LIVE",
+      "source_country": null,
       "language": "en"
     }
   ]
