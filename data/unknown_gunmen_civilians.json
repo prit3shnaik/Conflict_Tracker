@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -1827,6 +1827,39 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcndtSTlZQWR1aTV6M05nU3FhNl9sbDB5QnYzSk4ycjFLTlRLTHhCMjNxam14d3hybzhRQV9ydzRIMWxzOVA2UU91UkdveFY5SjBKelI3NHNfTFpGa0I4U3FLcUVwRTFKbW9lQkhhdUlfOTZYTkxlZ3plaDMxZlN6b2ZuYUJKWlljYjQ5V3hXOEtCajl6NXNvZ192WWptaWJiOXJYakVkdXJkYU5pSFpGa25XUXJTdDdF?oc=5",
       "domain": "IANS LIVE",
       "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVNTYlNoNHRodVNBWFlfUnY5UEhJUDdkaTVjOUQ4RjlrOTdzbjV4cmdTZ051VDdCRExPOWhBUUtsZHdEUjAxMjRuM2FPUldPQ1M5YkhGT2Q1QkIyY010bkRlNU5BRzE4MlhBaVJEOTI2b0FWMFRNdjhuN0J6eGlHanNVR2NYdzhURFBBTXhRdDh4LUlHWl9WMnhyV0MxLXRDY1JhM1dSRzBEak9OMlBZcGNvQS04c1hYUzlmVWFR?oc=5",
+      "date": "2026-11-06",
+      "name": null,
+      "location": null,
+      "title": "Nadra assistant director shot dead by unidentified gunmen in Peshawar's Hayatabad: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVNTYlNoNHRodVNBWFlfUnY5UEhJUDdkaTVjOUQ4RjlrOTdzbjV4cmdTZ051VDdCRExPOWhBUUtsZHdEUjAxMjRuM2FPUldPQ1M5YkhGT2Q1QkIyY010bkRlNU5BRzE4MlhBaVJEOTI2b0FWMFRNdjhuN0J6eGlHanNVR2NYdzhURFBBTXhRdDh4LUlHWl9WMnhyV0MxLXRDY1JhM1dSRzBEak9OMlBZcGNvQS04c1hYUzlmVWFR?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdG5yaU41UFpfZ0Y5a2lRTkVfSkh1SHU4QVZJMjFsa1VxcVU5cGM4emNvX2JXOVZ4M0dWTWtFdzRJcE9xeVVGd1RIdnotM2lvVllOV01iWS1SbVBhVHNxRWpabXY5YWY3RjVlWUJpNzg4V1VVSlR6RkI0WWgyd1RWVFNCTDlMTGg1bng0Z2NVS1g1SkZRVEdSMQ?oc=5",
+      "date": "2026-11-06",
+      "name": null,
+      "location": null,
+      "title": "Pakistan reports ninth polio case from Khyber Pakhtunkhwa - IANS LIVE",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdG5yaU41UFpfZ0Y5a2lRTkVfSkh1SHU4QVZJMjFsa1VxcVU5cGM4emNvX2JXOVZ4M0dWTWtFdzRJcE9xeVVGd1RIdnotM2lvVllOV01iWS1SbVBhVHNxRWpabXY5YWY3RjVlWUJpNzg4V1VVSlR6RkI0WWgyd1RWVFNCTDlMTGg1bng0Z2NVS1g1SkZRVEdSMQ?oc=5",
+      "domain": "IANS LIVE",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://www.dawn.com/news/2042578/nadra-assistant-director-shot-dead-by-unidentified-gunmen-in-peshawars-hayatabad-police",
+      "date": "2026-11-06",
+      "name": null,
+      "location": null,
+      "title": "Nadra assistant director shot dead by unidentified gunmen in Peshawar's Hayatabad: police",
+      "url": "https://www.dawn.com/news/2042578/nadra-assistant-director-shot-dead-by-unidentified-gunmen-in-peshawars-hayatabad-police",
+      "domain": "Dawn",
+      "source_country": "Pakistan",
       "language": "en"
     }
   ]
