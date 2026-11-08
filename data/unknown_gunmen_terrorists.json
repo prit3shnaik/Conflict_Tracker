@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-07",
+  "last_updated": "2026-11-08",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlsWEFWNHplMnNJR0R4Qjk0VUM2bVJGX2huRUdXdTFDNU5adTF4d2lwZS1fNnoyVXNBSmxYWGlUSEZnWkVxQVNPTHJJOE5jRTgzQTJkSVlVbEJELXhvZ2lJUmJIcWZURjU3VGtjb0tFblZta1ZFY3QwMmt2NHBkMlptTld0R2haN3BORTBuUXdKOVByT2NLUHhYcDlXVGdnTE9QMXJNUEdfMHN0SjIxanZnT09CSnE5NHZJV1JGbmpoc3llc2g3QnZPNWNqQzM1VzRrdWtCTU91cVQ4elBz0gHvAUFVX3lxTE9aMzk4bnRXSDlFZVFmZDdNLWhZTnliTUxIbnRXSHo1ZzE3MFE4UEdmLTBTcllqR04xZHhiRGNVRm0xejQyOHF6Q3FoMTNNN3daVEpWcXY3a1YzcWRKOWRrc0ZDVm80OXdGZGYyZWk0aGVoMzBZa2ZIZ1ZVNk5qY1YyaXVyT00tZFBncDV4MEpfVk9fNnVoTllZa3c2V2ZUcDFGODhuV1pRb2FCbWNtNXE0UENubmpzN0QxVkJQQXNqbV9LX2ZzTXlnNl8xam1aT21TLXpja0pFaVZleVdlSHo2TmVGQWF5d1k3V2E1aEV3?oc=5",
@@ -33,6 +33,17 @@
       "title": "Six More Pakistani Terrorists Added To Kill-List As 'Mysterious Shootings' By 'Unknown Gunmen' Continue Unabated - Swarajyamag",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZnpaOEVKOGpTTEV2SlZvWTBqV1BVXzBqVHV2OTJKLTF3OUozVlViYlo3cUNKOVBuZWFBOFRkRTFLWXRHN3AtNzRiOGEyTGYxQnBLR1prbGQ0ZzdzWXdSMUNtSk85Qmc1cHlZTkRJZW0zSzZ3MkZjZWlGSFpha1JvdFJrVzVXU01MQzFPZ2gyZUxZQjJDYlZYbzd5Q0k5ZzhmOXl4MHdGQ2xrYllLdjkzRUNfV1B2ZEN3XzdxcGxCbGdMXzdveElIdE9wZFpndlY3bVlTWE5nc9IB5wFBVV95cUxQRE9zLU4xOTVwRjk4cXd2LXFXY0pyMmkwM0pJLXVYdUdoVVhrQml4NFdGVjhhNEVEbmlJUU9EdklCMkdWUzFwaUk2YVBrMmRtR2cxOWRqbU5HRTNtUkJuTkhoUGNLbmlJZUJQQWs2dDZwT3U4bkRMdGg3QjlDR05UXzNFQmlCRnV3NDU0M280bWEyMGMxc1k4QVU1c0RNaGwzLW9SZVBQa2t6djk0YmRXS2VJdEJXY1d6S3lsZ3BkcXVFclZTeFVvYVZVNC1QTmZwS0xTMW9QV1BDc09BZkZpY09lUDloeW8?oc=5",
       "domain": "Swarajyamag",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0V1bFU0TTZsc080c2l5V3dnZWE3QjBTb0k4U3FaUENMTzQ5TTUzZDRSOGR2UlBlaW5sS3VXUEttRGJZRDhZVkdSby1wdXM5MldIMzFRa3pGQTlhdU1VbHhfTWxaTGRfOVQzSkxKbFJOQVpWaU9IN01rMEkxbGJPUVAxMlJ2c0lqbW9KQmJOUUhNT3RTUDRyb214cTBHaldsaXN5cl9rN0lSUk5EV25MUXdQU0g4VHF4LW9JaXkybk9PV2F2dlVRVlFGR2Z2Sko4TlgtYXN6SlE2MlJQSkczblRtQkljLW1Bblpj0gHwAUFVX3lxTE82YmQ5UlhUR1lmVEwtRWczZFJTcGUtV2t5SHRRNzYtdlZFbDVUZVN5WTUwZXJPMklkeWtXUUtrNUktallNX19QM1JKaUh5Y3ZTd2pMY2dNYVlOamxpQ3FxVVpyOWpfcGVOSDlJN2RtN2dfbkphUHBVaV9JX3ZVRGZ2QjRXUnp2Xy1zaU1IOFVRcmZSSUhzZlNkRkNjRWFMTlJhbFVHZk5iTWM0N1FEc2E5Rkgtdkk5WTN3d2ZVYUtLbGF1ajVMa05FM0Fsa3VNR1doc1R5OUVmNHY0Q0lXZTlDbXg3aHNVLTFhLVdhdGF6WQ?oc=5",
+      "date": "2024-04-20",
+      "name": null,
+      "location": null,
+      "title": "“Whoever has killed, what is the problem,” Amit Shah says about terrorists killed in Pakistan by unknown gunmen - Organiser",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0V1bFU0TTZsc080c2l5V3dnZWE3QjBTb0k4U3FaUENMTzQ5TTUzZDRSOGR2UlBlaW5sS3VXUEttRGJZRDhZVkdSby1wdXM5MldIMzFRa3pGQTlhdU1VbHhfTWxaTGRfOVQzSkxKbFJOQVpWaU9IN01rMEkxbGJPUVAxMlJ2c0lqbW9KQmJOUUhNT3RTUDRyb214cTBHaldsaXN5cl9rN0lSUk5EV25MUXdQU0g4VHF4LW9JaXkybk9PV2F2dlVRVlFGR2Z2Sko4TlgtYXN6SlE2MlJQSkczblRtQkljLW1Bblpj0gHwAUFVX3lxTE82YmQ5UlhUR1lmVEwtRWczZFJTcGUtV2t5SHRRNzYtdlZFbDVUZVN5WTUwZXJPMklkeWtXUUtrNUktallNX19QM1JKaUh5Y3ZTd2pMY2dNYVlOamxpQ3FxVVpyOWpfcGVOSDlJN2RtN2dfbkphUHBVaV9JX3ZVRGZ2QjRXUnp2Xy1zaU1IOFVRcmZSSUhzZlNkRkNjRWFMTlJhbFVHZk5iTWM0N1FEc2E5Rkgtdkk5WTN3d2ZVYUtLbGF1ajVMa05FM0Fsa3VNR1doc1R5OUVmNHY0Q0lXZTlDbXg3aHNVLTFhLVdhdGF6WQ?oc=5",
+      "domain": "Organiser",
       "source_country": null,
       "language": "en"
     },
