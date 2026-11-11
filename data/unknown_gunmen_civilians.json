@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -1638,6 +1638,17 @@
       "location": null,
       "title": "Hindu Trader Shot Dead By Unidentified Gunmen In Pakistan's Balochistan - NDTV",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkp5c0ZNb3pXYWxTVzNOWkxIOUg2YkVJeDJuRWpMY0x4a1pndWdmZ0RRXzFxT21ZOUtzZjJ4bGlMei03dFphVnhpc0VidkI1dkRlcUhFejFYSHJmNE1UZ2wxemk4aUMyOTJKZi1YV0pzZU1Rcy1HMmV2T2I4dldLb0s0b3V5N1BDd0lZVDI4TXFyalhxb2FzdUhpa0F3QzZORjZ1XzVFbDVFSjRZZ3lVTNIBuAFBVV95cUxPT2FTSDNsSlJsWXdqUEY1bW5hcl95TU0wdjhZU2UxLUZfTTJLYUhRdnJwTkR0dlR5YUVqZ2FKUk5XcUM5Ql9lMEhUUjhQS3I2M3FDdWJKMFA0NTN4MDdiRlhxMFlqMDhaenU2Y1dUam50RFVlLWFLY1gxTG1YNS1vYk5iR0FlbTRKbHNmRW5XTUdfX0VTRjFpTUowWEJJeEg1aTlxRDFnTUlvSTEzU0ZhVFhSbUczSEJv?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkp5c0ZNb3pXYWxTVzNOWkxIOUg2YkVJeDJuRWpMY0x4a1pndWdmZ0RRXzFxT21ZOUtzZjJ4bGlMei03dFphVnhpc0VidkI1dkRlcUhFejFYSHJmNE1UZ2wxemk4aUMyOTJKZi1YV0pzZU1Rcy1HMmV2T2I4dldLb0s0b3V5N1BDd0lZVDI4TXFyalhxb2FzdUhpa0F3QzZORjZ1XzVFbDVFSjRZZ3lVTA?oc=5",
+      "date": "2026-08-22",
+      "name": null,
+      "location": null,
+      "title": "Hindu Trader Shot Dead By Unidentified Gunmen In Pakistan's Balochistan - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkp5c0ZNb3pXYWxTVzNOWkxIOUg2YkVJeDJuRWpMY0x4a1pndWdmZ0RRXzFxT21ZOUtzZjJ4bGlMei03dFphVnhpc0VidkI1dkRlcUhFejFYSHJmNE1UZ2wxemk4aUMyOTJKZi1YV0pzZU1Rcy1HMmV2T2I4dldLb0s0b3V5N1BDd0lZVDI4TXFyalhxb2FzdUhpa0F3QzZORjZ1XzVFbDVFSjRZZ3lVTA?oc=5",
       "domain": "NDTV",
       "source_country": null,
       "language": "en"
