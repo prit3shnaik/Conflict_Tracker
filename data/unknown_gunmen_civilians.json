@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -1750,6 +1750,17 @@
       "url": "https://www.dawn.com/news/2035149/4-fbr-officials-traffic-policeman-martyred-in-di-khan-attacks-police",
       "domain": "Dawn",
       "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE1PYTdwY19zRnltVWd3WVFQX2djeERqUU9QSkhNREo0WXNId2Y3RWRKM1BVS050SndPaDBWRU0wV0hqZ08tc1UxZ1ZHTzh0d2J0dERrMkxCLUk2ZExaRnVlbFNEUHZnRkxjbmxKSFJxZVNRQnlQbmluSWczQ0lZMFprOF9wYTZ1OEZYaU9WZVhCZHRPa2lSSzdMNVdteXo5ZmJMQ2VZbFRUejFyOWJnYzlHRlVTZw?oc=5",
+      "date": "2026-10-11",
+      "name": null,
+      "location": null,
+      "title": "Pakistan Election Commission DG Shot Dead By Unidentified Gunmen In Tank - Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE1PYTdwY19zRnltVWd3WVFQX2djeERqUU9QSkhNREo0WXNId2Y3RWRKM1BVS050SndPaDBWRU0wV0hqZ08tc1UxZ1ZHTzh0d2J0dERrMkxCLUk2ZExaRnVlbFNEUHZnRkxjbmxKSFJxZVNRQnlQbmluSWczQ0lZMFprOF9wYTZ1OEZYaU9WZVhCZHRPa2lSSzdMNVdteXo5ZmJMQ2VZbFRUejFyOWJnYzlHRlVTZw?oc=5",
+      "domain": "Outlook India",
+      "source_country": null,
       "language": "en"
     },
     {

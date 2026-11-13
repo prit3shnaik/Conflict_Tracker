@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlsWEFWNHplMnNJR0R4Qjk0VUM2bVJGX2huRUdXdTFDNU5adTF4d2lwZS1fNnoyVXNBSmxYWGlUSEZnWkVxQVNPTHJJOE5jRTgzQTJkSVlVbEJELXhvZ2lJUmJIcWZURjU3VGtjb0tFblZta1ZFY3QwMmt2NHBkMlptTld0R2haN3BORTBuUXdKOVByT2NLUHhYcDlXVGdnTE9QMXJNUEdfMHN0SjIxanZnT09CSnE5NHZJV1JGbmpoc3llc2g3QnZPNWNqQzM1VzRrdWtCTU91cVQ4elBz0gHvAUFVX3lxTE9aMzk4bnRXSDlFZVFmZDdNLWhZTnliTUxIbnRXSHo1ZzE3MFE4UEdmLTBTcllqR04xZHhiRGNVRm0xejQyOHF6Q3FoMTNNN3daVEpWcXY3a1YzcWRKOWRrc0ZDVm80OXdGZGYyZWk0aGVoMzBZa2ZIZ1ZVNk5qY1YyaXVyT00tZFBncDV4MEpfVk9fNnVoTllZa3c2V2ZUcDFGODhuV1pRb2FCbWNtNXE0UENubmpzN0QxVkJQQXNqbV9LX2ZzTXlnNl8xam1aT21TLXpja0pFaVZleVdlSHo2TmVGQWF5d1k3V2E1aEV3?oc=5",
@@ -48,6 +48,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzM2LUI1Sm9ZNEtIcEtJNGtta1lmOVBKN2xUNEEzTDNuNFd0Mmp3bVBXZjFUbXBiZWVOQlpVVVAtNWp6aVNhUUlzMEdSaS1RMGdZeC1iN0tIYUplc2JIU3MyUUg2c09CYXBDVUhZaHhzRUJDcmdqUGR0LTdEQ0h6NnZDdk14S0RfdTZ4VnlOdzd3Wkd0QXZTb3RvMFpsLU5MSDJodUdjS2NCbm5FQ2M3eWxxQ0pnbVZwSlVKY3NhUdIBxAFBVV95cUxNc1FqTnFfZ1RDdFotQlZHN25QaXEyWWg4VnZHQ3pBcmNTcUZxSlJJaFU0MlhxT3BTZkhpcmpCSjlJSzZCM0d6ZEZwUVNUeDBtd3AtOUI1X29ndnktTW82OUk2eDRFVkdrSW9GREVVdlF4MWhHLVc3emJ6WEVnbFRjVHFBUUE4TjJEUk5yenlQNWkwblRsZTRfR1U5WFViUm9qUkRYYkd1bnVfck9TTTJYWkd0WURia3VPaXlHMUxva29pczFP?oc=5",
+      "date": "2025-03-17",
+      "name": null,
+      "location": null,
+      "title": "LeT’s Abu Qatal and more… The mysterious deaths of India’s most-wanted terrorists on Pakistani soil - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzM2LUI1Sm9ZNEtIcEtJNGtta1lmOVBKN2xUNEEzTDNuNFd0Mmp3bVBXZjFUbXBiZWVOQlpVVVAtNWp6aVNhUUlzMEdSaS1RMGdZeC1iN0tIYUplc2JIU3MyUUg2c09CYXBDVUhZaHhzRUJDcmdqUGR0LTdEQ0h6NnZDdk14S0RfdTZ4VnlOdzd3Wkd0QXZTb3RvMFpsLU5MSDJodUdjS2NCbm5FQ2M3eWxxQ0pnbVZwSlVKY3NhUdIBxAFBVV95cUxNc1FqTnFfZ1RDdFotQlZHN25QaXEyWWg4VnZHQ3pBcmNTcUZxSlJJaFU0MlhxT3BTZkhpcmpCSjlJSzZCM0d6ZEZwUVNUeDBtd3AtOUI1X29ndnktTW82OUk2eDRFVkdrSW9GREVVdlF4MWhHLVc3emJ6WEVnbFRjVHFBUUE4TjJEUk5yenlQNWkwblRsZTRfR1U5WFViUm9qUkRYYkd1bnVfck9TTTJYWkd0WURia3VPaXlHMUxva29pczFP?oc=5",
+      "domain": "Firstpost",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmNCc0VTVVl2VUJxU19UWVhTOGxPWjBuQWdYMF9mYVFxUlo0ekRldXBRU3lUcTVqR19iSEpYQ2xSYlBlYXQ3emVhZXNSUnVaTEpOX2ZLXzhLaUlrRUNma2pQbTN1X1JiRTVNYjBRUGNPTkJVaE9YODRrTi1GVG1YcXFQNnhoT2U5Q0J3NEFIbXhIdVdVOFh3eE5JUG44SGZzek0zYVZabzRtdjd1Q2I3UElLVWdPMWdyMmdZSU1IZC1CeDc0WWZBcFFQem1VVkpvRmZYdEdUTFpjd9IB4AFBVV95cUxQNW9RTkttdG96eC1EazRQN2Q5cVo4T3BCdkVHMFloSjBiZDJTQnhQbWpQM19JcW43WF9QUDdRUnBIby1ISExvUnkxRkU1UnppdlZNWmVBT0h4UVdfSkgtRENXVWxJbm82aHBUN2tlSGszY2pmWmJZbmF0LVlzUXd3MmllM1ZwSjBCdXVyYl9ZZG12czZZdVU5S0g1RlFIcjZBTDM0TkVSV1c1VVdTcXl5SmZXbmRYdlRBQ0tlVjRUTng1UTBhZkp5Ym5JUnUwUTRZV0F3VW00aWVOcDMwYzlaRA?oc=5",
       "date": "2025-05-18",
       "name": null,
@@ -77,6 +88,17 @@
       "title": "Saifullah Khalid, Top Lashkar Terrorist Behind Three Major Attacks In India, Killed By Unknown Gunmen In Pakistan's Sindh: Report - Swarajya",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2dlZnZiNld1WDFGVU5FS3RCVjJ2X1ROSGprOUNLVmRUNDhEMGx3RHlVaTZOUHVzUW9iY01NeXZxX3Nhc1dXQm5NVlhYSnRpdld3TnZyVzE0azZDUVFvRTU4dm94OFhtMlR4ZXdkUEtaTWtyUnE4Q2RKTnoxTnFPQk1RRm5Pc0lZN3JGRDFIMi1KU1VwWVNBdFpQZFI0S2E5SDlsclc4VjRBX3VkaHRoWnV6Wkk5VlIwd0pIYUhkNm5NVTl1bFJGYXpQanl3M2ZkclNpZmlGeUhhd2thOHJoNHZ3WTdGRklKUTlzb3BwTS14UdIBggJBVV95cUxNYXNGQkx2Z3pDYTd4elVMWDkyOTVOcl8tczh4OXl3XzBWd3BqMGk0VHQ4NzJFVmNhMk5nUVBfNWEwV2xROEM3aVp0aXNYTWY5QWFnTENLXzlaU0NpSGhjSjhfdDhWb1p4LUZlSTUzaUp0Z1h5cUNjLWlSN0k5dDQ5aFFBMVNvek9ycVdreXVwVHIxZHVVTWpWTUJMczBIamhkM2Q3VVRndWFGak5ycC1vVVdSbEdUMjZkNTRHN1F0MzE4cm12ekdGT3c0eHd1cHU0eU5IcnZ3bmJOQnVvS0RaM2V0WFAwUlNqSGNVRVBRSHB2VF85WVlyeHFaZHAzak1YOWc?oc=5",
       "domain": "Swarajya",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHAwRzFxR2JmTlhTTnV0ZVphekhkZVF4NHlaQ2ZudGdkVHhzdmdhLWdsXzJkWmFMRzBUNTFYTExGTl9ZWFpjTGVRdEwzbDBFZjc2ZkhnSTVYdUtHWTFWb0wwUVhFSGh2YVpUVGs5dGE3ckFwNUZSVlFoUnNaMFlkOXd1Q2pWWE5tbm1wNkZKMHBTRldib1JIWXltUERYYVpXblZzM1gzaTQ2cVdvRlRKXzlISVVpLTNUMTVKNUNaN1RzR1FUOXFadklVVmpLanZfYVV4NEQyS1lKSHp5b0dtOThhTHpuVEQ0RXJYNllPVEZhVWhIZGNHNEIyek9SLXfSAYQCQVVfeXFMT1FHZ2VXZjdlbG5CbkFsTHNaZnUtcmh5MzRIa0lmV19Ud2dlZFJ5X2ZXSU1DQjMyRm90RnctdTVXdnI3OXRjeUhtczB3T3d6MktldzRUa2c5MjNyaFh4dDgxbk5iZXZLREk0M3pmcjBXM0RCOWtDbWw3cEE0NUhIUUE2NGhBZGFqaWo3OTY3dFYtamR4SWNHMU13NjN5SlNVOVFURTRBWENFNU03ZGR5c2dLa1QzdUJjUmtib1E3R3JmN05IRjhUMU9oTkFxVW9xVGh4UFUxVGFxMnpOaWhsaWxBaHoxb3VJbmJBMWtKdWdTSngwWm1HemtSSE9SQlY4cFRraGs?oc=5",
+      "date": "2025-05-19",
+      "name": null,
+      "location": null,
+      "title": "Top Lashkar terrorist killed by unknown gunmen in Pak, India Today exclusive LoC ground reports, more - India Today - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHAwRzFxR2JmTlhTTnV0ZVphekhkZVF4NHlaQ2ZudGdkVHhzdmdhLWdsXzJkWmFMRzBUNTFYTExGTl9ZWFpjTGVRdEwzbDBFZjc2ZkhnSTVYdUtHWTFWb0wwUVhFSGh2YVpUVGs5dGE3ckFwNUZSVlFoUnNaMFlkOXd1Q2pWWE5tbm1wNkZKMHBTRldib1JIWXltUERYYVpXblZzM1gzaTQ2cVdvRlRKXzlISVVpLTNUMTVKNUNaN1RzR1FUOXFadklVVmpLanZfYVV4NEQyS1lKSHp5b0dtOThhTHpuVEQ0RXJYNllPVEZhVWhIZGNHNEIyek9SLXfSAYQCQVVfeXFMT1FHZ2VXZjdlbG5CbkFsTHNaZnUtcmh5MzRIa0lmV19Ud2dlZFJ5X2ZXSU1DQjMyRm90RnctdTVXdnI3OXRjeUhtczB3T3d6MktldzRUa2c5MjNyaFh4dDgxbk5iZXZLREk0M3pmcjBXM0RCOWtDbWw3cEE0NUhIUUE2NGhBZGFqaWo3OTY3dFYtamR4SWNHMU13NjN5SlNVOVFURTRBWENFNU03ZGR5c2dLa1QzdUJjUmtib1E3R3JmN05IRjhUMU9oTkFxVW9xVGh4UFUxVGFxMnpOaWhsaWxBaHoxb3VJbmJBMWtKdWdTSngwWm1HemtSSE9SQlY4cFRraGs?oc=5",
+      "domain": "India Today",
       "source_country": null,
       "language": "en"
     },
