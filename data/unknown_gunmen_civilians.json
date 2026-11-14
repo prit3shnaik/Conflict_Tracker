@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -231,6 +231,17 @@
       "title": "Journalists' killings mount amid declining freedoms in Pakistan - VOA - Voice of America English News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONU9tTEF2TTRRVS1uUGNZamRQY2VqQkRLeEV4VXo3WDZQOXYzUTY4enFlZndoWnJyQURQSWJLMkQ2RG8zeUgzZ0JoVl85VEZVSjBMWGF4NWRkWGZEVENQRExMOEJ4Z2lvWG83SXRoQl9oVHVPenZ5eEUwTEx0SGdjZGdFaXhKMTNWMzhKVjNYNjExcWI2cjYtZURoVGEzUXPSAaIBQVVfeXFMUGZjNWFtR1NoRVVYZnNuX3JfTDRwVlU3Q2RnMlRud05VRE5PSk9oN2hUSUw3ckFpbkxfdkM5NV80cTY3bnpLZ3NPRG5tMjE2S3ZJb1FkMzViTno0bjBBSlJyU0tTR28wckRPMXRTZTBJUmJ1OEppd1ZfMkFkZkgwRS1IRjFEZDhGUDViQUdQdnUyZkFkdGFGNUpnQ1AwdW15T3d3?oc=5",
       "domain": "VOA - Voice of America English News",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTViTXZqaEFXdVhXdkZsU1VyNnI2bUVxNzcyckpBX3ZSTjhVc2IzUWU3elZqZ2NnUklQNDJEcDBIYUdRUXZERG1VRmZrMUUzX3EybWhIUHFaanV0RWpKQlNVTUc4S1RBTEVxQm1aRjBMdmFvdUd3UTdaMTZDclU3VkpOOUpIQmdWcTY4OVRDaTVSaDIzMUhWRUNXLUpZRnhZcmxXM2RTOWNncFFhU2V3S2tDWVk?oc=5",
+      "date": "2024-10-11",
+      "name": null,
+      "location": null,
+      "title": "Unidentified Gunmen Kill at Least 21 Coal Miners in Pakistan - Kıbrıs Postası",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTViTXZqaEFXdVhXdkZsU1VyNnI2bUVxNzcyckpBX3ZSTjhVc2IzUWU3elZqZ2NnUklQNDJEcDBIYUdRUXZERG1VRmZrMUUzX3EybWhIUHFaanV0RWpKQlNVTUc4S1RBTEVxQm1aRjBMdmFvdUd3UTdaMTZDclU3VkpOOUpIQmdWcTY4OVRDaTVSaDIzMUhWRUNXLUpZRnhZcmxXM2RTOWNncFFhU2V3S2tDWVk?oc=5",
+      "domain": "Kıbrıs Postası",
       "source_country": null,
       "language": "en"
     },
