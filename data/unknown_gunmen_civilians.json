@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-14",
+  "last_updated": "2026-11-15",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -33,6 +33,17 @@
       "title": "Pakistani Journalist Shot Dead By Unknown Gunmen - Radio Free Europe/Radio Liberty",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JWGd2T0pQOEJ6R3lySG5ORE5IaURHVzV2TWM2X245OWMxX3RkRnJScGZuQkJrZ1A2Qk45VktwT2RoTDdIV0piS29YVUNRc19BbXJwSktUdm83LTR2WGFPYmV1RS1hVURjc2hKZGp5OXBoclHSAXZBVV95cUxQcnBfT2swTWlKeTV3OTROdUpxUzM0dUlCREVyVVNYWUN5VEdlSjlDQTBtTkRtMzNEX25rMkpuLVh0LUtRY09FNjdpMVVIbU5PNUpnWHZSWnpSX1VzblFlWjJRZzdLZnJoQndscUtUeFdqdWlzOXdn?oc=5",
       "domain": "Radio Free Europe/Radio Liberty",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMGVIOWloeUV6MDBuZWpVaWhOOUZ1c3k4WENtTXpkYldoZ3RSd3VhRV92bFExc0MtU2N0QXlZSVJqR1hlMTNVTFE5dWFQNjBXdi11eExLOEI3SkduMGEwSjlXUkNrTE9pcHZVUV9jWUhURDZRM2FhZ0gyV0RMZWk5NFM5QzBfTENyLUxtZmxRbXlVWkxQT21McGNGYWdvUFM1cEFncy0tZVcySUpFb3cwZk0xQ0lHOVp5R0tTUmUySWloNTBqZ3FSY1dycjloWUZSdUhXV01TT2vSAd8BQVVfeXFMTXYzdUFmVktTLTNOS0lCX241azdWenNYVzRxM01wR09Bb3V6SURDdnRzV3d3b2I5VzVOYVVQczd3dDctTmtZS2oyMkRUc3A1VFpVeFQ2WG1iUTZraWttRzhIMElSMmxaczVubEVXUGlfVzRlWVljSTU2SUpSM0hudEJxMVFQNll4T3ltcVFSU3RYRjJKVUVqczUwYTd2c2RsZ1d0aGNTUHdiTFczMGtpd1JrbVBEUTB5cVI2TE80VEVUc3RJOHZQc09XbWlRY3JhQWVUVlFfREFHdlppUms3aw?oc=5",
+      "date": "2021-08-19",
+      "name": null,
+      "location": null,
+      "title": "Four injured after unidentified assailants fire at police station in Pakistan - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMGVIOWloeUV6MDBuZWpVaWhOOUZ1c3k4WENtTXpkYldoZ3RSd3VhRV92bFExc0MtU2N0QXlZSVJqR1hlMTNVTFE5dWFQNjBXdi11eExLOEI3SkduMGEwSjlXUkNrTE9pcHZVUV9jWUhURDZRM2FhZ0gyV0RMZWk5NFM5QzBfTENyLUxtZmxRbXlVWkxQT21McGNGYWdvUFM1cEFncy0tZVcySUpFb3cwZk0xQ0lHOVp5R0tTUmUySWloNTBqZ3FSY1dycjloWUZSdUhXV01TT2vSAd8BQVVfeXFMTXYzdUFmVktTLTNOS0lCX241azdWenNYVzRxM01wR09Bb3V6SURDdnRzV3d3b2I5VzVOYVVQczd3dDctTmtZS2oyMkRUc3A1VFpVeFQ2WG1iUTZraWttRzhIMElSMmxaczVubEVXUGlfVzRlWVljSTU2SUpSM0hudEJxMVFQNll4T3ltcVFSU3RYRjJKVUVqczUwYTd2c2RsZ1d0aGNTUHdiTFczMGtpd1JrbVBEUTB5cVI2TE80VEVUc3RJOHZQc09XbWlRY3JhQWVUVlFfREFHdlppUms3aw?oc=5",
+      "domain": "The Hindu",
       "source_country": null,
       "language": "en"
     },
@@ -1903,6 +1914,61 @@
       "title": "Nadra assistant director shot dead by unidentified gunmen in Peshawar's Hayatabad: police - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCbDVLMkJtVkRic3BiQktpbTc1LXBZN1YySWg1TnFLbWJOdV9TSERGaG40aEJQanJqN2wxNzBqamdMOFQwZkltWQ?oc=5",
       "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTdGNloxbmhFZlR4S3VSSUJ6bG00aURnSE9xdTJ2NU43Q3BDMUpOQ2haNDlCNkVmMDE4Rm1wSWlrb3FMZGFBUXp3UldWNnJ1QkRJTHNzZldXMFlRZERPTHhTTUZaNlhydmxQTnpOX3lnSm1oTUFXMmxiWTU0WUtjN1FxRWxiSU5IUlVrdlp1V083WkRaNDZod3Z6UEozTmFEU1dHc0RGNFlRcTdGTlA5SjVXd9IBuwFBVV95cUxQV1pIRTVKXzVTTEF0MXFhc1NnYVlnQlpUeDZPbDBCQVp1cUpKSzVXVlBQTnliclA3ek1oYWFOWkdPaHFaRldpQXJoSjhIQWo2X3RRUXpLNS1jSWV4VnJibFdOcklGY2lxSUt1WGNwZl9zS1JNd0pnQ2VnNEJfU2NuLU9zdW1XaWtHazdiRGhSc3p0Qkk4YjlHTHdEdEhsT2EtelhabVNMUHZ3OVM1enZpU3RnR0NZYjlHNzRv?oc=5",
+      "date": "2026-11-14",
+      "name": null,
+      "location": null,
+      "title": "Fear Of 'Unknown Gunmen': Hafiz Saeed, Masood Azhar Moved To Pak Safe Houses - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTdGNloxbmhFZlR4S3VSSUJ6bG00aURnSE9xdTJ2NU43Q3BDMUpOQ2haNDlCNkVmMDE4Rm1wSWlrb3FMZGFBUXp3UldWNnJ1QkRJTHNzZldXMFlRZERPTHhTTUZaNlhydmxQTnpOX3lnSm1oTUFXMmxiWTU0WUtjN1FxRWxiSU5IUlVrdlp1V083WkRaNDZod3Z6UEozTmFEU1dHc0RGNFlRcTdGTlA5SjVXd9IBuwFBVV95cUxQV1pIRTVKXzVTTEF0MXFhc1NnYVlnQlpUeDZPbDBCQVp1cUpKSzVXVlBQTnliclA3ek1oYWFOWkdPaHFaRldpQXJoSjhIQWo2X3RRUXpLNS1jSWV4VnJibFdOcklGY2lxSUt1WGNwZl9zS1JNd0pnQ2VnNEJfU2NuLU9zdW1XaWtHazdiRGhSc3p0Qkk4YjlHTHdEdEhsT2EtelhabVNMUHZ3OVM1enZpU3RnR0NZYjlHNzRv?oc=5",
+      "domain": "NDTV",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDhmM2NCdnkzRzVvNTloWUczMVRFNXhDNmk1V1Q5WlV1VUpRWGRDWTRJSmp1Zkotb0p5Uk1RckZOdG1ibWhxYzBUOFZOWS1kUFB6V0NVY2tEMnBFQmdVVTM4bmNVYzMteDBkZXZOMWhsT25YNi0zeWxmNzZKb24teGs2QXpiNXNZRU5ITlp4S0VOYXVMQ3NiNnFYdkhUSTRPckRQZGVGajRZWGZ5a0lhYUR5UGtTMl9pUGg4OVE2QkVVR08wLWRoV05ka05Dckx1WktWRG0xVzYyR3FSNE5Vc2Y5ZHN5ZnF6QURUMFlB0gHzAUFVX3lxTE9oNFlTTGpuQ1QtWVo1OGNneG1mVlgySFhPdTJXLTZwMnNaS3VkMWJVT1NsZHBPTjM5b3lQVm5HRHFibnV5WUxCRWtEVzljRXF4czlSTVllOVEyR0FObG9WV0p1NTNGNUhQVmJ6aTJTektNc2FwUEstaG52T0hwSEk0X25sNmR0akh1QUdCRzBURVBzV0dpckgzbVRYWXNVN0VGUW5NMUtHTG56cUJLdzBlbXBnOW01djFnQnRGYU14UFdBc1oyMUNGYTRNMzUwWVhuY3NKZ2R5SnBhTVRWczZvTW1WTDlqTzQ0TXJnTEhBTEFjYw?oc=5",
+      "date": "2026-11-14",
+      "name": null,
+      "location": null,
+      "title": "Fear Of Indian Strikes, ‘Unknown Gunmen’?: Pakistan's ISI Moves Hafiz Saeed & Masood Azhar To ‘Fortified Sa - News18",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDhmM2NCdnkzRzVvNTloWUczMVRFNXhDNmk1V1Q5WlV1VUpRWGRDWTRJSmp1Zkotb0p5Uk1RckZOdG1ibWhxYzBUOFZOWS1kUFB6V0NVY2tEMnBFQmdVVTM4bmNVYzMteDBkZXZOMWhsT25YNi0zeWxmNzZKb24teGs2QXpiNXNZRU5ITlp4S0VOYXVMQ3NiNnFYdkhUSTRPckRQZGVGajRZWGZ5a0lhYUR5UGtTMl9pUGg4OVE2QkVVR08wLWRoV05ka05Dckx1WktWRG0xVzYyR3FSNE5Vc2Y5ZHN5ZnF6QURUMFlB0gHzAUFVX3lxTE9oNFlTTGpuQ1QtWVo1OGNneG1mVlgySFhPdTJXLTZwMnNaS3VkMWJVT1NsZHBPTjM5b3lQVm5HRHFibnV5WUxCRWtEVzljRXF4czlSTVllOVEyR0FObG9WV0p1NTNGNUhQVmJ6aTJTektNc2FwUEstaG52T0hwSEk0X25sNmR0akh1QUdCRzBURVBzV0dpckgzbVRYWXNVN0VGUW5NMUtHTG56cUJLdzBlbXBnOW01djFnQnRGYU14UFdBc1oyMUNGYTRNMzUwWVhuY3NKZ2R5SnBhTVRWczZvTW1WTDlqTzQ0TXJnTEhBTEFjYw?oc=5",
+      "domain": "News18",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTUcxYlBubUZQZnRmcUpTYUhNQlJoUTVtck5CSlJUek5zZms0S2g0YXI1U05GZjZsQTlSa2hiaUhCY3l0c2hPY2d2S1NQYkpCdWREcHRQNHBFQVdtZ2FRN2t1YUhLdU1xVy1XMzhzUDRnSjZYSWZIS2xiYklnRUQ4ZXlwXzZLZjVIZnZBcE9DMGo1Q0RkZTEwcVEwVU5rZmdaNldCaVV6TDRBMHc1QkZRRktvajFFTFpLa180amRTVkNVRUxMS29hbkU0NlhZbjc0dlBqelVQdGZSdnh0cWtLS0lBS2dQb3hXUzk3OVJ5WVctdkhBZkHSAfsBQVVfeXFMTkc3QXQ2OHlYVkMtZjV0WmxNWTMwbGxQUExET1dxRE96Sk9vamh0bXF2ZFk1bmk5bFZ3N3Znc1dhSjRyRUxnUEdMZWgxcE9GU1ZnOWJ0V0pKMmhOY0JpeGU1R1VjS25hc3ZWdEVvZDEtYlA5eHJWdzVHV3NFcG9tMWVlNjdTT3o5T3NlVkp3dkpxR1JRX3htMlJiYUttb2VFQ3B4cjVGYTJ3MXFvb29EN011MnBUWTdjblU2ZFBGWlRHU1VfUGlqd2MxWTE4VkhfT1RKeE83eWZPQmtocDJWNDV4eHg1SVRYZDE2dGpsS2hodTY0QnAyXy1lQ3M?oc=5",
+      "date": "2026-11-15",
+      "name": null,
+      "location": null,
+      "title": "Fear of 'unknown gunmen'? Hafiz Saeed, Masood Azhar shifted to ISI safe houses in Pakistan amid security... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTUcxYlBubUZQZnRmcUpTYUhNQlJoUTVtck5CSlJUek5zZms0S2g0YXI1U05GZjZsQTlSa2hiaUhCY3l0c2hPY2d2S1NQYkpCdWREcHRQNHBFQVdtZ2FRN2t1YUhLdU1xVy1XMzhzUDRnSjZYSWZIS2xiYklnRUQ4ZXlwXzZLZjVIZnZBcE9DMGo1Q0RkZTEwcVEwVU5rZmdaNldCaVV6TDRBMHc1QkZRRktvajFFTFpLa180amRTVkNVRUxMS29hbkU0NlhZbjc0dlBqelVQdGZSdnh0cWtLS0lBS2dQb3hXUzk3OVJ5WVctdkhBZkHSAfsBQVVfeXFMTkc3QXQ2OHlYVkMtZjV0WmxNWTMwbGxQUExET1dxRE96Sk9vamh0bXF2ZFk1bmk5bFZ3N3Znc1dhSjRyRUxnUEdMZWgxcE9GU1ZnOWJ0V0pKMmhOY0JpeGU1R1VjS25hc3ZWdEVvZDEtYlA5eHJWdzVHV3NFcG9tMWVlNjdTT3o5T3NlVkp3dkpxR1JRX3htMlJiYUttb2VFQ3B4cjVGYTJ3MXFvb29EN011MnBUWTdjblU2ZFBGWlRHU1VfUGlqd2MxWTE4VkhfT1RKeE83eWZPQmtocDJWNDV4eHg1SVRYZDE2dGpsS2hodTY0QnAyXy1lQ3M?oc=5",
+      "domain": "Moneycontrol.com",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOczUxUmsyUHdRUjVnemNZVGQ2dm01eDJPVkxuZDlwZDdnRjd0R0ZNU2hmbDlUNl9QRTNYcjE2UVZDN20tMzRBQ0RnYTMyVFc3aU9QakYzUjZ1MnFYZ05BdmxLTnpSVEFfSWxRNldpTFFqZUNEWWoxZExjclhmRXRmTzZEaFAzcWpYaDJpeU9VdHN3ZnpZVWpUalNOb0RJdGIyUkg4M3ZET25xRHNVMWgwSm4waDVjakw4dm5sZXdWOU5PZnBBcTR6S1JrdkZ0eHh0TE0wa2lTbEVjaDDSAeABQVVfeXFMTk51WUpKaGVhU1NSSXhhdHZBTzJpWElxRHI0NjhzZVlvWDlRZjVPUEdzTEdGd2RZSUZQRWFfRmRydVRmMnZIN1dCVFBtTUxkZ2piZHFFSVgzLVRYMFJZSTF4TXJJTGFOejlwQVI2dERMYndVWURrV2ZfbVRVQ0E2SzNwNkwxb3dnNUg4ejdTb3QxQXNLcTBhS1NBdXpuOHJLdkxfWk5NZTF6cU1rTjlOYnBmNUFwUmZ3OE1DaVZINVFjTzRVU2FpSlNOelRWREEtczdnRWhPdWZOMzBPU0ctcHg?oc=5",
+      "date": "2026-11-15",
+      "name": null,
+      "location": null,
+      "title": "Amid 'unknown gunmen' fear, terror masterminds Hafiz Saeed, Masood Azhar moved to safe houses in Pak | Azhar now in safe house in Nawabshah: Report | Inshorts - Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOczUxUmsyUHdRUjVnemNZVGQ2dm01eDJPVkxuZDlwZDdnRjd0R0ZNU2hmbDlUNl9QRTNYcjE2UVZDN20tMzRBQ0RnYTMyVFc3aU9QakYzUjZ1MnFYZ05BdmxLTnpSVEFfSWxRNldpTFFqZUNEWWoxZExjclhmRXRmTzZEaFAzcWpYaDJpeU9VdHN3ZnpZVWpUalNOb0RJdGIyUkg4M3ZET25xRHNVMWgwSm4waDVjakw4dm5sZXdWOU5PZnBBcTR6S1JrdkZ0eHh0TE0wa2lTbEVjaDDSAeABQVVfeXFMTk51WUpKaGVhU1NSSXhhdHZBTzJpWElxRHI0NjhzZVlvWDlRZjVPUEdzTEdGd2RZSUZQRWFfRmRydVRmMnZIN1dCVFBtTUxkZ2piZHFFSVgzLVRYMFJZSTF4TXJJTGFOejlwQVI2dERMYndVWURrV2ZfbVRVQ0E2SzNwNkwxb3dnNUg4ejdTb3QxQXNLcTBhS1NBdXpuOHJLdkxfWk5NZTF6cU1rTjlOYnBmNUFwUmZ3OE1DaVZINVFjTzRVU2FpSlNOelRWREEtczdnRWhPdWZOMzBPU0ctcHg?oc=5",
+      "domain": "Inshorts",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDdXRkJDMUJWUXhUaUo0Qm5aVHVNeHh6dmd2eUlMdzJZelRoQUVwZGVfU2IwcE51LWdCbl9lYkpqOWJNTldJdE1tUXpwbkFXem1WbzdzdXN5MjdFTUFjamUyT1hnOVp3VEY4OTQtTTlSMmpNR0p6b3J1b0ZsWVotOURrbExkeS1UUjJUdjRySXk4SEVFRHp0LV9WbHJhZzJ5alNseWNja2JhWTYyNVhfSVVPcmxmZXF5alcxWlJTZHlybDA2TTRPMHJZYU9Xa3N1T1HSAdcBQVVfeXFMTVhRbGx3eXM2SE9OS2w1bXR4bl82LVZ4WXU0WnpreUsxSlcySFY5eFU5Yk9xbDVwRXpxZEFCX3ViOFVyLTBTb0ZzT0ttczN6QjVVZTk1clp5a0pmMmhDeU9HbDdVYXczZm9uRTNULWI2eG1QRHRqM1A4QnFxdFEwZnNrZG9zUnBVa0RuRER4YWc3TkJlTjJua2xQdy1UZkNFU1lFdGVVUEdXYncySHl2MWtHVW9fcnllNzJYc0h4ckFUN3B6azlkUjFOUklxLXpPMkdRa21tYlk?oc=5",
+      "date": "2026-11-15",
+      "name": null,
+      "location": null,
+      "title": "Pak Shifts Hafiz Saeed, Masood Azhar To New Hideouts Due To Fear Of Indian Strikes, Unknown Gunmen: Report - ABP Live English",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDdXRkJDMUJWUXhUaUo0Qm5aVHVNeHh6dmd2eUlMdzJZelRoQUVwZGVfU2IwcE51LWdCbl9lYkpqOWJNTldJdE1tUXpwbkFXem1WbzdzdXN5MjdFTUFjamUyT1hnOVp3VEY4OTQtTTlSMmpNR0p6b3J1b0ZsWVotOURrbExkeS1UUjJUdjRySXk4SEVFRHp0LV9WbHJhZzJ5alNseWNja2JhWTYyNVhfSVVPcmxmZXF5alcxWlJTZHlybDA2TTRPMHJZYU9Xa3N1T1HSAdcBQVVfeXFMTVhRbGx3eXM2SE9OS2w1bXR4bl82LVZ4WXU0WnpreUsxSlcySFY5eFU5Yk9xbDVwRXpxZEFCX3ViOFVyLTBTb0ZzT0ttczN6QjVVZTk1clp5a0pmMmhDeU9HbDdVYXczZm9uRTNULWI2eG1QRHRqM1A4QnFxdFEwZnNrZG9zUnBVa0RuRER4YWc3TkJlTjJua2xQdy1UZkNFU1lFdGVVUEdXYncySHl2MWtHVW9fcnllNzJYc0h4ckFUN3B6azlkUjFOUklxLXpPMkdRa21tYlk?oc=5",
+      "domain": "ABP Live English",
       "source_country": null,
       "language": "en"
     }
