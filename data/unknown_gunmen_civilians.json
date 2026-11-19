@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -1981,6 +1981,17 @@
       "url": "https://www.nation.com.pk/18-Nov-2026/police-constable-martyred-bannu-gun-attack",
       "domain": "The Nation (PK)",
       "source_country": "Pakistan",
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3NCZ0xhT09fTUlkWmdIOEl6VjdZNXdwS2huTXJoOVZZVWlSOUtuekdQY3pyaVBaMlhOcjVLa2FBZDVmRUgwNkpFbExLQzVhejg4VnRfbjl3NG02M05EVi1oYTNSamtzeWdibHJrX21RaXdBVHVUWGRXWlFBRzdWN1NPSG5WcVd3OTluM3pRelR5SXBfV2fSAZgBQVVfeXFMTkJzTXVtMzRGVjY2ZXEwaDctRmpBZUdnamZmY2tRbHdJd2YxOGN0RlhtVjlxMk1fQkdKM3BJcndmNmduT0Vta25kSHhyMnE1SkpodXF0dkpiZXl1eTFMRHJHWU56TkNvOU4yVi1ySGRHakpla1o2Nld6dXdWTW5wZm9mQURZNFpvNGFuek44djFoMHNZc1NnNXA?oc=5",
+      "date": "2026-11-18",
+      "name": null,
+      "location": null,
+      "title": "Unidentified Gunmen Kill Police Officer In Northwest Pakistan - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3NCZ0xhT09fTUlkWmdIOEl6VjdZNXdwS2huTXJoOVZZVWlSOUtuekdQY3pyaVBaMlhOcjVLa2FBZDVmRUgwNkpFbExLQzVhejg4VnRfbjl3NG02M05EVi1oYTNSamtzeWdibHJrX21RaXdBVHVUWGRXWlFBRzdWN1NPSG5WcVd3OTluM3pRelR5SXBfV2fSAZgBQVVfeXFMTkJzTXVtMzRGVjY2ZXEwaDctRmpBZUdnamZmY2tRbHdJd2YxOGN0RlhtVjlxMk1fQkdKM3BJcndmNmduT0Vta25kSHhyMnE1SkpodXF0dkpiZXl1eTFMRHJHWU56TkNvOU4yVi1ySGRHakpla1o2Nld6dXdWTW5wZm9mQURZNFpvNGFuek44djFoMHNZc1NnNXA?oc=5",
+      "domain": "Rediff",
+      "source_country": null,
       "language": "en"
     }
   ]

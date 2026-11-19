@@ -1,7 +1,7 @@
 {
   "description": "News coverage of suspected militants/terrorists killed by unidentified/unknown gunmen in Pakistan, aggregated the same way. Classification is heuristic (headline keyword matching) -- verify before citing.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlsWEFWNHplMnNJR0R4Qjk0VUM2bVJGX2huRUdXdTFDNU5adTF4d2lwZS1fNnoyVXNBSmxYWGlUSEZnWkVxQVNPTHJJOE5jRTgzQTJkSVlVbEJELXhvZ2lJUmJIcWZURjU3VGtjb0tFblZta1ZFY3QwMmt2NHBkMlptTld0R2haN3BORTBuUXdKOVByT2NLUHhYcDlXVGdnTE9QMXJNUEdfMHN0SjIxanZnT09CSnE5NHZJV1JGbmpoc3llc2g3QnZPNWNqQzM1VzRrdWtCTU91cVQ4elBz0gHvAUFVX3lxTE9aMzk4bnRXSDlFZVFmZDdNLWhZTnliTUxIbnRXSHo1ZzE3MFE4UEdmLTBTcllqR04xZHhiRGNVRm0xejQyOHF6Q3FoMTNNN3daVEpWcXY3a1YzcWRKOWRrc0ZDVm80OXdGZGYyZWk0aGVoMzBZa2ZIZ1ZVNk5qY1YyaXVyT00tZFBncDV4MEpfVk9fNnVoTllZa3c2V2ZUcDFGODhuV1pRb2FCbWNtNXE0UENubmpzN0QxVkJQQXNqbV9LX2ZzTXlnNl8xam1aT21TLXpja0pFaVZleVdlSHo2TmVGQWF5d1k3V2E1aEV3?oc=5",
@@ -55,6 +55,17 @@
       "title": "LeT’s Abu Qatal and more… The mysterious deaths of India’s most-wanted terrorists on Pakistani soil - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzM2LUI1Sm9ZNEtIcEtJNGtta1lmOVBKN2xUNEEzTDNuNFd0Mmp3bVBXZjFUbXBiZWVOQlpVVVAtNWp6aVNhUUlzMEdSaS1RMGdZeC1iN0tIYUplc2JIU3MyUUg2c09CYXBDVUhZaHhzRUJDcmdqUGR0LTdEQ0h6NnZDdk14S0RfdTZ4VnlOdzd3Wkd0QXZTb3RvMFpsLU5MSDJodUdjS2NCbm5FQ2M3eWxxQ0pnbVZwSlVKY3NhUdIBxAFBVV95cUxNc1FqTnFfZ1RDdFotQlZHN25QaXEyWWg4VnZHQ3pBcmNTcUZxSlJJaFU0MlhxT3BTZkhpcmpCSjlJSzZCM0d6ZEZwUVNUeDBtd3AtOUI1X29ndnktTW82OUk2eDRFVkdrSW9GREVVdlF4MWhHLVc3emJ6WEVnbFRjVHFBUUE4TjJEUk5yenlQNWkwblRsZTRfR1U5WFViUm9qUkRYYkd1bnVfck9TTTJYWkd0WURia3VPaXlHMUxva29pczFP?oc=5",
       "domain": "Firstpost",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZk5EUGRHeWdRMDhZLTcwLXRZS2l0QlNab053MGFieTJDQy1JeGJKbGVEMmUtNE0xY1NGTzVKb1NDbkhRR0x3ZWRoSEdSNExPYzZyTHBlSEJDbFV5ZGZ1c3ctQm4yaHAySlh4ZWZpcDF5MHpUTUVNbTEtOTJnTVR5endDZE5rWkljSTVWNkRDVEE4VzZLWUc0Z2ZMZDFlOWU0eFB2b1FoN1FNS1BxS2FpcmRpSdIBuAFBVV95cUxQMU9MWU5MUExYU0JTc3dCZXc3em90WDZZQU5TSHB2amYxMWlMTUdKdTZ1SmhnWlVnSGRfblA5VTlJMEdXRUJfb1hRQWRZUUUyeTVuUzk2d2ppd3pwYUI2bk5zWl9qd0RPZU9QRFlRNVhZdDNzOUpOOXkwQlQ5bkJOTUR3SFF4SjFIQ2hneWJXTDJUQkFOWnNCcDczNVl3TDhVN09jeGlGRmRjX3J4MFpFQVRHeFNJMThw?oc=5",
+      "date": "2025-03-18",
+      "name": null,
+      "location": null,
+      "title": "List Of Dreaded Terrorists Gunned Down By Unknown Assailants In Pakistan - Republic World",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZk5EUGRHeWdRMDhZLTcwLXRZS2l0QlNab053MGFieTJDQy1JeGJKbGVEMmUtNE0xY1NGTzVKb1NDbkhRR0x3ZWRoSEdSNExPYzZyTHBlSEJDbFV5ZGZ1c3ctQm4yaHAySlh4ZWZpcDF5MHpUTUVNbTEtOTJnTVR5endDZE5rWkljSTVWNkRDVEE4VzZLWUc0Z2ZMZDFlOWU0eFB2b1FoN1FNS1BxS2FpcmRpSdIBuAFBVV95cUxQMU9MWU5MUExYU0JTc3dCZXc3em90WDZZQU5TSHB2amYxMWlMTUdKdTZ1SmhnWlVnSGRfblA5VTlJMEdXRUJfb1hRQWRZUUUyeTVuUzk2d2ppd3pwYUI2bk5zWl9qd0RPZU9QRFlRNVhZdDNzOUpOOXkwQlQ5bkJOTUR3SFF4SjFIQ2hneWJXTDJUQkFOWnNCcDczNVl3TDhVN09jeGlGRmRjX3J4MFpFQVRHeFNJMThw?oc=5",
+      "domain": "Republic World",
       "source_country": null,
       "language": "en"
     },
