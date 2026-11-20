@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -66,6 +66,17 @@
       "title": "Police initiate investigations as local cleric in Pakistan’s Karachi fatally shot by unknown assailants - Arab News PK",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTmdERDdWREltY21jaWcyRWExS01DZUJGanhKWU82QjRCazlwWm5ENmVhOFJfT1JyTTVaMDhvbkxSN0pacWtBWk9NR0F4YU84bWQwRktJbUs3NHp5U1locWtiZ19MZ1E3Q3NrejFISVZwRVJTM04xREQtTm00cDM1NFZMbnQyT2J2S0gzQnBSRXlaYTBqSVkxZ0Q2QXNGeWtoWE5yVnVZUFV2ZmtPYXpqYVVHMW5LaV9fTzhJVGpuYUtvbzFrMTVCNTR4UXM3TGFDUk5ldm5PcUplUWM?oc=5",
       "domain": "Arab News PK",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzRoTzJiUGNlbEZjd2NvNVdjUkpkTjFRTGhzLVRybHB1N0Z4aGxBU1pBLUgyYUxyYXBxSVJTNXRIS3ZOb3NiTkJ0TVRISmV5OV94dVB0aUdtMnJZNFlIcWNUU18tLWtLZkRQRFFJYmsyejE1M0MteGcwdFota2hmTml2VXYxNGVlRkd5R0tra054MUI0ZzI2RFN5eVJNdy1YZTJNUU81QVBPajRDUzZGdVdpX0hHS0dreVpSTW5mcHNUa0FIYmZHdXhhd3Vod9IB0wFBVV95cUxNdHRnZzZzMUl0cHZ4TDNQc1lhZHFVSElLcU9wLWdrZ0dudzV4MGlEV0Q4R3RTLUl5WFhwUlM3N0ozdW54ZG5lUl9aQXhCaUVxbkZoQ0Y4VDVMbUEwRklsLXdzb2o3SGU3VjJVZVZjcS1xcnhFRWliazBWUUZmSGxmeUpMM3BteGplRmVhZnJrRGlvd1ROa3Q1WXhFTlZZX3V1S2xjY3NmREl5bDhTVGJRMXVRMGVFb1phR212MWtYa0Ntamd5cmE4SExWdWFOT1N3Ynhn?oc=5",
+      "date": "2023-11-10",
+      "name": null,
+      "location": null,
+      "title": "Key LeT commander killed by unidentified men in Pakistan - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzRoTzJiUGNlbEZjd2NvNVdjUkpkTjFRTGhzLVRybHB1N0Z4aGxBU1pBLUgyYUxyYXBxSVJTNXRIS3ZOb3NiTkJ0TVRISmV5OV94dVB0aUdtMnJZNFlIcWNUU18tLWtLZkRQRFFJYmsyejE1M0MteGcwdFota2hmTml2VXYxNGVlRkd5R0tra054MUI0ZzI2RFN5eVJNdy1YZTJNUU81QVBPajRDUzZGdVdpX0hHS0dreVpSTW5mcHNUa0FIYmZHdXhhd3Vod9IB0wFBVV95cUxNdHRnZzZzMUl0cHZ4TDNQc1lhZHFVSElLcU9wLWdrZ0dudzV4MGlEV0Q4R3RTLUl5WFhwUlM3N0ozdW54ZG5lUl9aQXhCaUVxbkZoQ0Y4VDVMbUEwRklsLXdzb2o3SGU3VjJVZVZjcS1xcnhFRWliazBWUUZmSGxmeUpMM3BteGplRmVhZnJrRGlvd1ROa3Q1WXhFTlZZX3V1S2xjY3NmREl5bDhTVGJRMXVRMGVFb1phR212MWtYa0Ntamd5cmE4SExWdWFOT1N3Ynhn?oc=5",
+      "domain": "The Times of India",
       "source_country": null,
       "language": "en"
     },
@@ -169,6 +180,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmM3OHhydDJMUURTSnpLdC10ZllhWTI5clRfVVFoTnl4YnJNczcyZnY5dHpHYXpsTFRBZlhaT1hRZjZnakpkVDVGSmlFcjFFMEhjeFE5YWxSaExMT1RNS1FxVVI5ekd3VlV0Y0QzS0VuSHJBeXNXR29FNkMyNHk3c2x2LWU5Z1NxbWZXRUc2SUs0cVhuUXNPNDlB?oc=5",
+      "date": "2024-03-20",
+      "name": null,
+      "location": null,
+      "title": "Unidentified Gunmen Opened Fire At Pakistan’s Gwadar Port - HW News English",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmM3OHhydDJMUURTSnpLdC10ZllhWTI5clRfVVFoTnl4YnJNczcyZnY5dHpHYXpsTFRBZlhaT1hRZjZnakpkVDVGSmlFcjFFMEhjeFE5YWxSaExMT1RNS1FxVVI5ekd3VlV0Y0QzS0VuSHJBeXNXR29FNkMyNHk3c2x2LWU5Z1NxbWZXRUc2SUs0cVhuUXNPNDlB?oc=5",
+      "domain": "HW News English",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2J2YzUtbzYtemV6RVFYUldVcXEyZTJpaW1YOE5TYWNzX2tXQXNyQlJOMzZERlZkbzFtUGhPcHg4TUxNbFNoYXF6XzBfNUMtRTlSRVdvRHVkbmpCQUVESUZsYlhMdEMzeFZzT2theHVCNWZYai1WdEdSTEp4eWN3Zi03ck1QZWJSS0F0bEcwZHlMV3JlSzlOQ2pCN0ZDSGg3MkJqVkZPUjh0TzhmZ28xTzNVd2YwZENTbWNBM1VB?oc=5",
       "date": "2024-04-05",
       "name": null,
@@ -224,6 +246,28 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFVwYWRJZDZJeHo1MVdKWmFMLXNvSUxUamNkSTN1UklfVDJfbGJuTW1RYVlFVU84ekJ4WC1GeFhjODdOMndvd1o4R2wwOGtLeFFRUl9hT21pT04xc2pwOFdZS2JwU2VqS2E5aGUzcDFrc1I5WWNJX2g0UDFnMXJFSzgwWWJrd3RIb0FkUXlMVDI4QXZFSUJzM2RUWVNmeFRYSE5KSWxPM2JkaFJjcDJVWjhzY3VKRW4wYm1BbEdJdTFucXJNRl9FSkxBY1BzWFNxWHR0YUpySG1XalhPaktXZtIB5gFBVV95cUxPMVpvWXJsWDFsNW5OOUJxQ0trUVVkc3pUckdiWnZ5cHFVSUNjY2gzZGNFLUlULXl1WklwaFhOUzFIZkE2RVVGQnFDSEpTNUdORi1WRjd0aEtQbkxHd21JaW5qcnNOTmRWQU8wdFZBQ1NxU0dWSERLN1pEM1FjSEN1VVY2SHRlR19DeXAxZXUtNG1JeEtLbzBrUllrZlZyYTRYeUxTbFRIbmprUjFVdk51QXdXa0liQ3MtUmc3bC1pM2syREUzX3Vqa2diRlJ5Nk1wNHlhS19oaWRYTHdBQmlEaGFUYTJSdw?oc=5",
+      "date": "2024-04-14",
+      "name": null,
+      "location": null,
+      "title": "Sarabjit Singh's killer shot dead by unidentified gunmen in Pakistan - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFVwYWRJZDZJeHo1MVdKWmFMLXNvSUxUamNkSTN1UklfVDJfbGJuTW1RYVlFVU84ekJ4WC1GeFhjODdOMndvd1o4R2wwOGtLeFFRUl9hT21pT04xc2pwOFdZS2JwU2VqS2E5aGUzcDFrc1I5WWNJX2g0UDFnMXJFSzgwWWJrd3RIb0FkUXlMVDI4QXZFSUJzM2RUWVNmeFRYSE5KSWxPM2JkaFJjcDJVWjhzY3VKRW4wYm1BbEdJdTFucXJNRl9FSkxBY1BzWFNxWHR0YUpySG1XalhPaktXZtIB5gFBVV95cUxPMVpvWXJsWDFsNW5OOUJxQ0trUVVkc3pUckdiWnZ5cHFVSUNjY2gzZGNFLUlULXl1WklwaFhOUzFIZkE2RVVGQnFDSEpTNUdORi1WRjd0aEtQbkxHd21JaW5qcnNOTmRWQU8wdFZBQ1NxU0dWSERLN1pEM1FjSEN1VVY2SHRlR19DeXAxZXUtNG1JeEtLbzBrUllrZlZyYTRYeUxTbFRIbmprUjFVdk51QXdXa0liQ3MtUmc3bC1pM2syREUzX3Vqa2diRlJ5Nk1wNHlhS19oaWRYTHdBQmlEaGFUYTJSdw?oc=5",
+      "domain": "The Times of India",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRkSEdCWkpNVElDQ0dzdnFLRWJmRl9Ya3VlV2ZLMk5aUlJSQVJPcDJsRWJOamN1eTFnNHowd29INkVXMDZvWjdiR2N2ZjlTbkdhNUJJXzVCYkRGOC1uUjBCUzFSamU4bFpFbzlqUWE2RVZ4d29NZUVZT2RRZlpzWHYxZUV5eGlCb2NkYnJiZkdqWm1Ka3dpa1ZQR1J0OW1jMjlZOXFaVTl6S09ZUUFSLV8zakMzVVgyNXhpc2VwTTBqc21oZi0tN3czeWJCdXByLWfSAdcBQVVfeXFMT3NhWHZSMGhmVnkxUUxvSS14aEpPM2t0YmZVOXQwcnVGOEpGM25oYmFmVTVrSUVfVDlta2VBTFFmbzFsWDR2cDlpam84QWxUelZ2NDVrSVhMUmZmb0VtOXRwSVhnbjdBRng4bVhwLVVlNzcyel9QdHFOUmhEZ2g0MGpLSjdJNm9sMUhqUGUzQy1ncDRJRlFZZGQtX2hOMC1RZXlDWXZZTTQtZmFIT2p4UEhDamJZbGtBTGdnRkRta05Cc3k5SGs4bENrYm1YUXlaM3pmMFExNms?oc=5",
+      "date": "2024-04-14",
+      "name": null,
+      "location": null,
+      "title": "Indian prisoner Sarabjit Singh's killer shot dead by unknown gunmen in Pak - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRkSEdCWkpNVElDQ0dzdnFLRWJmRl9Ya3VlV2ZLMk5aUlJSQVJPcDJsRWJOamN1eTFnNHowd29INkVXMDZvWjdiR2N2ZjlTbkdhNUJJXzVCYkRGOC1uUjBCUzFSamU4bFpFbzlqUWE2RVZ4d29NZUVZT2RRZlpzWHYxZUV5eGlCb2NkYnJiZkdqWm1Ka3dpa1ZQR1J0OW1jMjlZOXFaVTl6S09ZUUFSLV8zakMzVVgyNXhpc2VwTTBqc21oZi0tN3czeWJCdXByLWfSAdcBQVVfeXFMT3NhWHZSMGhmVnkxUUxvSS14aEpPM2t0YmZVOXQwcnVGOEpGM25oYmFmVTVrSUVfVDlta2VBTFFmbzFsWDR2cDlpam84QWxUelZ2NDVrSVhMUmZmb0VtOXRwSVhnbjdBRng4bVhwLVVlNzcyel9QdHFOUmhEZ2g0MGpLSjdJNm9sMUhqUGUzQy1ncDRJRlFZZGQtX2hOMC1RZXlDWXZZTTQtZmFIT2p4UEhDamJZbGtBTGdnRkRta05Cc3k5SGs4bENrYm1YUXlaM3pmMFExNms?oc=5",
+      "domain": "Business Standard",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazBEZFVRa2wtcUt2WWp0MmtxbWR3Mnh4UmU0R0k3ODRjM0J5aUFMWmVEUHRWMTlrYXhDWlZEVll1c1lkSFoxWk43WlRJaERudUxoTERGTE1pUGVyYzFteFpGVTNIQnpYdFc0cTZuRmtoZ3JRTHRsVDJNbnVaYmpVZ3BsajRQdFpoN0JRRkZUMFBIeTg?oc=5",
       "date": "2024-05-09",
       "name": null,
@@ -231,6 +275,28 @@
       "title": "7 killed in attack in southwestern Pakistan - Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazBEZFVRa2wtcUt2WWp0MmtxbWR3Mnh4UmU0R0k3ODRjM0J5aUFMWmVEUHRWMTlrYXhDWlZEVll1c1lkSFoxWk43WlRJaERudUxoTERGTE1pUGVyYzFteFpGVTNIQnpYdFc0cTZuRmtoZ3JRTHRsVDJNbnVaYmpVZ3BsajRQdFpoN0JRRkZUMFBIeTg?oc=5",
       "domain": "Anadolu Ajansı",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMlJDWkVfc25YWUtnNFZSYmxJMGJPRVdJUG1kbVltb0JCVndSTHZXdktFc2M4TXp6a3dlTC1lenBCWVBqRUhjTV9ETEIxWVlIcEN5am1rQUNWUGs2M1VxaVQyR2hmeEwzWGpnSHdJVkpsekNqUWRPd1hPMHl0SDNDa2swVHhJV0VxZTNCRzdZX0tIaGVtcHlCd1dvSVpHX0NOUlU1SEZNSVI1NWZWZjBoanhMVmQwTGJxSS1BaDlmRGhETTBGbFktUGY1VUJreFFnYWhfZjJTSGRhN3Zabmc2OWxaR0ZNWEM4QkV6dFJCTmhKTUHSAfgBQVVfeXFMTlBOT3ZCRUFvSldPTGx5VTdqVnF6cTJrMlBGX3FGMTlVN1VKLTd4V2NpQnEwX3dSOUplWXFvWjlxWnVrOGt3V2Y0a3pVdkV4ZWtCZks1azRmUDlfSEFBd1lZcWZpQmVwVFZ0R2l6a1VpRU9MUG8yM1JFeHd1NnZjUzlBd2ZXVXlfVEZ2OXlYdlZETThBSWJrZHhWSGhKUThDamtGOUlJNjdhc0tfdFYzMC1GdktmOHlqeU1UMkJkUWlfV1BDZmFzTVd6dUFVQjQwaUtMcjFWTFNVa2JVVkdrcnJTcjdPOFQ1aTVFTjJoSjlxbHE2b05LS04?oc=5",
+      "date": "2024-06-19",
+      "name": null,
+      "location": null,
+      "title": "Unknown gunmen kill key Pakistani ISI man behind 2018 Sunjwan attack - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMlJDWkVfc25YWUtnNFZSYmxJMGJPRVdJUG1kbVltb0JCVndSTHZXdktFc2M4TXp6a3dlTC1lenBCWVBqRUhjTV9ETEIxWVlIcEN5am1rQUNWUGs2M1VxaVQyR2hmeEwzWGpnSHdJVkpsekNqUWRPd1hPMHl0SDNDa2swVHhJV0VxZTNCRzdZX0tIaGVtcHlCd1dvSVpHX0NOUlU1SEZNSVI1NWZWZjBoanhMVmQwTGJxSS1BaDlmRGhETTBGbFktUGY1VUJreFFnYWhfZjJTSGRhN3Zabmc2OWxaR0ZNWEM4QkV6dFJCTmhKTUHSAfgBQVVfeXFMTlBOT3ZCRUFvSldPTGx5VTdqVnF6cTJrMlBGX3FGMTlVN1VKLTd4V2NpQnEwX3dSOUplWXFvWjlxWnVrOGt3V2Y0a3pVdkV4ZWtCZks1azRmUDlfSEFBd1lZcWZpQmVwVFZ0R2l6a1VpRU9MUG8yM1JFeHd1NnZjUzlBd2ZXVXlfVEZ2OXlYdlZETThBSWJrZHhWSGhKUThDamtGOUlJNjdhc0tfdFYzMC1GdktmOHlqeU1UMkJkUWlfV1BDZmFzTVd6dUFVQjQwaUtMcjFWTFNVa2JVVkdrcnJTcjdPOFQ1aTVFTjJoSjlxbHE2b05LS04?oc=5",
+      "domain": "Business Standard",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkQ2QzlaT3ZVWmh6cDlvZEc1d2ppOTl3VGpNdHpYeFJYaGFYRkhwZzhkYkw2VHlhWXJnMFFQYU1EX0MyTnh3R0JDZ1FISl9qcVhLVXVXYW50MkxFOTZWdUxhRHBjeERYTlY5dFhMeGlodlZ4Y0lVZVVmWXA3aWdXSUIwVXFkckc5MjFoX1Itell2YklTVjc2Tmlibmpiem5WZkdDM0ZJV3pKajlWTUgyWmZzYWNheHNtRHBXcUdR0gHDAUFVX3lxTFBzNkZqdk5OaXNjLUJCcVlaa0FhOFl4amVwbHM3RjFiXzZaN0h4RDZkNk9ZdGxheHd3aDZjRklCOG45WGRTbGVvckJ3MlBlV1hILUFlTy0zZEJlTWRZM05ZSjBBNndQdm1CQXg3a1p1MGhQSUZzRlpWdW5NdVVpMHpzbzdEa2xZWjFLYVdQMTR6allDQzc5X29jSG1EWVo4M2FEQ0pmd2RsU0ZCU0tSM0NEa3F6QjdSLUExUWFiLV9MczI1NA?oc=5",
+      "date": "2024-06-19",
+      "name": null,
+      "location": null,
+      "title": "Retired Pakistan brigadier behind 2018 J&K attack killed - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkQ2QzlaT3ZVWmh6cDlvZEc1d2ppOTl3VGpNdHpYeFJYaGFYRkhwZzhkYkw2VHlhWXJnMFFQYU1EX0MyTnh3R0JDZ1FISl9qcVhLVXVXYW50MkxFOTZWdUxhRHBjeERYTlY5dFhMeGlodlZ4Y0lVZVVmWXA3aWdXSUIwVXFkckc5MjFoX1Itell2YklTVjc2Tmlibmpiem5WZkdDM0ZJV3pKajlWTUgyWmZzYWNheHNtRHBXcUdR0gHDAUFVX3lxTFBzNkZqdk5OaXNjLUJCcVlaa0FhOFl4amVwbHM3RjFiXzZaN0h4RDZkNk9ZdGxheHd3aDZjRklCOG45WGRTbGVvckJ3MlBlV1hILUFlTy0zZEJlTWRZM05ZSjBBNndQdm1CQXg3a1p1MGhQSUZzRlpWdW5NdVVpMHpzbzdEa2xZWjFLYVdQMTR6allDQzc5X29jSG1EWVo4M2FEQ0pmd2RsU0ZCU0tSM0NEa3F6QjdSLUExUWFiLV9MczI1NA?oc=5",
+      "domain": "The Times of India",
       "source_country": null,
       "language": "en"
     },
@@ -275,6 +341,17 @@
       "title": "Cop martyred in Quetta by unidentified gunmen: police - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uTkpVeFhnX0FRNmVuT09RNC1lczVNT1FpUm1DV1U0Q01Jc2hlRlgyckNGaGtxU21YVTZXTjhXbWtubzM0RWVxQw?oc=5",
       "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGlDUTdGNW1OLU1XMzF6MW9MQlZRN3JyUEFVbDAxRXpfLXBDT2E5LWlQSHlncG11OTBPS19mMHhyZUZQYUhHNFFlNXhRdEk0UjJ0QVBGa1BoMjdGbkhKTzZRamlrdzNuQ1kxUHh4dWR6cGkzaXEtZHFic1VVNkVWTWh3Unc0TUstb3JGdHBzSzVOSXY2X3NwWHFPd2ZDWEtKTDdmeHlBbWM2OTJ2QnY3VGlR0gG3AUFVX3lxTFB4dFMtZXRad0RMc0FYcFJQWERiSkpVX2VzSGFETGUwaTluNlpCcmFNNUxZR01UbkYtN3FZSXNoeVpDNUpEbDlSaEJ5b2JWSm1NZG05ZWZtbzUzU3JXTVoyYjZVd1llN01iVXJvQjNheEFVbFNrS3VSM0dVV0prU1hNdGVWSVhNREpvbDJRWF9tdXRoMHFiZHZiOEZVQ016TW5DM0loa3VXTFlOWVlmdDBxVTROM0RKaw?oc=5",
+      "date": "2025-02-19",
+      "name": null,
+      "location": null,
+      "title": "Unidentified gunmen kill 7 bus passengers in Pakistan's Balochistan - India Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGlDUTdGNW1OLU1XMzF6MW9MQlZRN3JyUEFVbDAxRXpfLXBDT2E5LWlQSHlncG11OTBPS19mMHhyZUZQYUhHNFFlNXhRdEk0UjJ0QVBGa1BoMjdGbkhKTzZRamlrdzNuQ1kxUHh4dWR6cGkzaXEtZHFic1VVNkVWTWh3Unc0TUstb3JGdHBzSzVOSXY2X3NwWHFPd2ZDWEtKTDdmeHlBbWM2OTJ2QnY3VGlR0gG3AUFVX3lxTFB4dFMtZXRad0RMc0FYcFJQWERiSkpVX2VzSGFETGUwaTluNlpCcmFNNUxZR01UbkYtN3FZSXNoeVpDNUpEbDlSaEJ5b2JWSm1NZG05ZWZtbzUzU3JXTVoyYjZVd1llN01iVXJvQjNheEFVbFNrS3VSM0dVV0prU1hNdGVWSVhNREpvbDJRWF9tdXRoMHFiZHZiOEZVQ016TW5DM0loa3VXTFlOWVlmdDBxVTROM0RKaw?oc=5",
+      "domain": "India Today",
       "source_country": null,
       "language": "en"
     },
@@ -367,6 +444,17 @@
       "language": "en"
     },
     {
+      "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pOGdNLTRaMGczZjFCbDA3TmZLalc4NGQ3OTFBZmp0OVpOU3NkSEdoYzhEc0wybXFleHdRdm1mUE5QZnJwMTVNag?oc=5",
+      "date": "2025-10-05",
+      "name": null,
+      "location": null,
+      "title": "Soldier martyred, another injured by unknown assailants in KP’s Bannu: police - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pOGdNLTRaMGczZjFCbDA3TmZLalc4NGQ3OTFBZmp0OVpOU3NkSEdoYzhEc0wybXFleHdRdm1mUE5QZnJwMTVNag?oc=5",
+      "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
       "event_id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZktWU1k5c1o1N29reFZKamhmT1kxdXRoZml1LTV6dlFCRXNjU1NVdnVrNnRjNEJ6NzdCd1AxTXNkS0E1Qm1KVtIBTkFVX3lxTE01Y3J4VjFwVWxFaUlTMzlXSUYzVWo0S3FiV1RTLVFrelNmQTl3bUxTT3ctbGoxQzROSmpXSmU5SmYyZnlOb1VVaUcyaFoyUQ?oc=5",
       "date": "2025-10-08",
       "name": null,
@@ -440,6 +528,17 @@
       "title": "3 security personnel killed after unidentified gunmen attack Frontier Constabulary Headquarters in Pakistan - News On AIR",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnNHSldfTlZWTlNVRVp1bGlEY05KOUtKSFdaSU1DckRCNG9uMDZ4NWM4UFd2Y0ZQS094ZGZta3NNMGhkdnBlQ19zTzdpSnlBMmxMbTM1QjlqZlcxVm9WNUxKcUNxOWVMV1UwMC1Mbk5MVGY3cnRZTVhsMmZSMFdSTnBycVNlZnJfVDJHVnR6RHROeWw0Z1NaNHZLdlJtWmNrejMwTGZQVHdhNVRfb3JNbV9ZTUdOVm5kMmMyakY4dTV4Vm00ZERHaE8tTzlJZw?oc=5",
       "domain": "News On AIR",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOG5FMHB3Vy1MUHVMS0ZyYmtHNzBfMC0wcVh1SDlqdjFFWURBRDdfdWY0V2dZMG5JbHFILVk1Y2N5ZWg2aW1ZQlkzTk9vdDFlelZWcVN3SFBHV1FsSTM4YjBXUWFLaE1wREFyRTQ1ZnRHMk1Cb01RT0ExWWM0Tl9EaVkxamlTMXZkbERja2luNXN1QUJiQWlhZGZnUkl4S25sZm5aMW1SQ0lZcl9BR0RKWlZ0bFU3dUl6RzItWUZvcGt4WDBPTk1YejY2VjPSAdIBQVVfeXFMTzN4d29tWGpiOEVDc2V2ZGdzSVZZdmdGdlJRclNTOFIwZzhaR3I5YjhnQXN0M1Q1WHJrTnpmX2l1NTZQQ3BxSGl0d2RTcEQweExMWVhjcFRVYzZKYk40TTI3eW13YU5VMXFkVFk4cG5Bd2VEYzdMUEhpa3FqU0xNZExtU1ZLVEZIa2tBVnIxcF9DSno1bllaVlZCX2tBS01objZmSGVmLU93Qm1QVU9OTjdGQ1Z0VGY3aFVzaUR0N0g0c2hiNHFkVTBaR2RUZFZteEV3?oc=5",
+      "date": "2025-12-09",
+      "name": null,
+      "location": null,
+      "title": "Armed men kidnap Hindu mother, daughter in Pakistan, forced conversion feared - India Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOG5FMHB3Vy1MUHVMS0ZyYmtHNzBfMC0wcVh1SDlqdjFFWURBRDdfdWY0V2dZMG5JbHFILVk1Y2N5ZWg2aW1ZQlkzTk9vdDFlelZWcVN3SFBHV1FsSTM4YjBXUWFLaE1wREFyRTQ1ZnRHMk1Cb01RT0ExWWM0Tl9EaVkxamlTMXZkbERja2luNXN1QUJiQWlhZGZnUkl4S25sZm5aMW1SQ0lZcl9BR0RKWlZ0bFU3dUl6RzItWUZvcGt4WDBPTk1YejY2VjPSAdIBQVVfeXFMTzN4d29tWGpiOEVDc2V2ZGdzSVZZdmdGdlJRclNTOFIwZzhaR3I5YjhnQXN0M1Q1WHJrTnpmX2l1NTZQQ3BxSGl0d2RTcEQweExMWVhjcFRVYzZKYk40TTI3eW13YU5VMXFkVFk4cG5Bd2VEYzdMUEhpa3FqU0xNZExtU1ZLVEZIa2tBVnIxcF9DSno1bllaVlZCX2tBS01objZmSGVmLU93Qm1QVU9OTjdGQ1Z0VGY3aFVzaUR0N0g0c2hiNHFkVTBaR2RUZFZteEV3?oc=5",
+      "domain": "India Today",
       "source_country": null,
       "language": "en"
     },
@@ -583,6 +682,17 @@
       "title": "4 cops martyred, 2 injured in firing by unidentified assailants on patrol squad in KP’s Bajaur - Dawn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aeTdhQnExeFJMU3IwRC1EMUR2QUd1NGVMb0RfUXRjc3Z3MDlaWDhmYnlnUEFMRllub0Z5WkpTOC1ial9fQ0wtSQ?oc=5",
       "domain": "Dawn",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzQtWjY3ZFBWSDkzNFc5ajJXRkVDVGRFOElHQml5b19qLVhFcmRKMEJNd21rZkNyejVaNVN3Wk9vYVBrUkhnYUZCYjVCcWdmVy01NWRpSTdsc2NwY3czNno2a3A5clNBdE5jMjhIOWlrYThuMnBvYTF6RmlYUkhyenB4MHBEMEE1Vm5JT2g5NTB2VnVhRGpfMFBPV1hJWmR1T2lTMGpKczlIM25Jc0dTWQ?oc=5",
+      "date": "2026-03-01",
+      "name": null,
+      "location": null,
+      "title": "In Pakistan, unknown assailants attacked the US consulate in the city of Karachi - open.kg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzQtWjY3ZFBWSDkzNFc5ajJXRkVDVGRFOElHQml5b19qLVhFcmRKMEJNd21rZkNyejVaNVN3Wk9vYVBrUkhnYUZCYjVCcWdmVy01NWRpSTdsc2NwY3czNno2a3A5clNBdE5jMjhIOWlrYThuMnBvYTF6RmlYUkhyenB4MHBEMEE1Vm5JT2g5NTB2VnVhRGpfMFBPV1hJWmR1T2lTMGpKczlIM25Jc0dTWQ?oc=5",
+      "domain": "open.kg",
       "source_country": null,
       "language": "en"
     },
