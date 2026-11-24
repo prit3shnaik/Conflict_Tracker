@@ -1,7 +1,7 @@
 {
   "description": "News coverage of civilians killed by unidentified/unknown gunmen in Pakistan, aggregated from named Pakistani and Indian outlet RSS feeds plus Google News RSS as a supplementary net. Each record is an article, not a verified incident.",
   "source": "Custom RSS aggregator (see scripts/news_client.py SOURCES list)",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "events": [
     {
       "event_id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NVRyQVNKbmh1bDhBRDQxQXlTWVZTb09RS2RHX25HWWY5UEhxb21tc2lhX09hOVFiSEdtMzhDRDk3Zkh5aG9LNTBhNlI3RkxmY3RMc2RCZHNIYjdJcGpOcTJjR1VrMEs2LWI4?oc=5",
@@ -385,6 +385,17 @@
       "title": "‘Unknown gunmen’ strike Hafiz Saeed’s close aide Sindhi in Pakistan; was behind Poonch-Rajouri attacks - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUxvZFp6V2M0eTVnVlBtR0g1YzJoTWwwV1ZjVHVGVWVSeFQ5RkhNZVVVb0x2cXVCTTl2Tlh3MVlxbDlvaVhzQnZDOEdHdlpvUXVBR0p3MHFoOE85NnZKZ3pjYklTcVd1cURuZjVFN2RUTEJLb3czT0F5dURVdGxMdmRRYlVCOGY3akk2T3JFUDBTNXZaY256dzFfYmt4RUF5a1NrTjFEbVdFT015cFUzX1B4cGN1STEwZGpnOFUxaURVQVAxX1VNMEQwSU1YTnZl0gHWAUFVX3lxTE1mQzQzTlE5YnVGTWVNakp1MUlkNWxnYjd0NFVGeEtmR2R2dGRVVFZ1UW9uRENqRWlqSnFyM2c2UnRXNVRlby1EbnZBVENYNVg1a1hDcUlPRVY5WGlHb2k3YTZWVEZzb2dCalhnaWszMGhTOVR3ZFlfeGVfa0xuajFTRGJZMWdJazM4dk83NEhtaHlYY3NnYnptNHdaMkRacHlETnU2UFBQbHlubUpiTHFpSU5wcTA3b1NldDhQMUtoTUZ3aUpKWVhRUndKeXlGSXdSZnZzS2c?oc=5",
       "domain": "ThePrint",
+      "source_country": null,
+      "language": "en"
+    },
+    {
+      "event_id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZnRRN3ZScm1fQW5MRTdLaVFPd1A2d0FpM0t6NnUzWDdHeVM5VnloX2FJbUllWTVsYmFXOHZ1bGU4WjV0Z083cTk1c0FPSXhjMW15ZXA2cmd4d2lRTUg1N3pjSXpZWnY4bmVlVVJteTc5VzNZd0lfNVB1VExnSnBYcHB3a1hWd01tRUdRS1NON25oTmtQZ3EzR24zc0tLaGRqQXp1bzhidVJmNUFxaW5QbFZLZngwOGxNMEhMeWJ3VmtoQlk3Zmd4MzNmZE1SWEt5MWd3V2FySXB1ME8tTkJWMVhkRE81Q25scmo4dzd3?oc=5",
+      "date": "2025-03-16",
+      "name": null,
+      "location": null,
+      "title": "Unknown gunmen’ strike Hafiz Saeed’s close aide Sindhi in Pakistan; was behind Poonch-Rajouri attacks - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZnRRN3ZScm1fQW5MRTdLaVFPd1A2d0FpM0t6NnUzWDdHeVM5VnloX2FJbUllWTVsYmFXOHZ1bGU4WjV0Z083cTk1c0FPSXhjMW15ZXA2cmd4d2lRTUg1N3pjSXpZWnY4bmVlVVJteTc5VzNZd0lfNVB1VExnSnBYcHB3a1hWd01tRUdRS1NON25oTmtQZ3EzR24zc0tLaGRqQXp1bzhidVJmNUFxaW5QbFZLZngwOGxNMEhMeWJ3VmtoQlk3Zmd4MzNmZE1SWEt5MWd3V2FySXB1ME8tTkJWMVhkRE81Q25scmo4dzd3?oc=5",
+      "domain": "The Hindu",
       "source_country": null,
       "language": "en"
     },
